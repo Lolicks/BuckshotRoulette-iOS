@@ -1,0 +1,3502 @@
+[
+{
+"src": "res://GodotRetro/Other/Images/grain.jpg",
+"ctex": "res://.godot/imported/grain.jpg-657f15066c3ccdf93bc92f8ff87ee7db.s3tc.ctex"
+},
+{
+"src": "res://misc/bracket selection_briefcase intake1.png",
+"ctex": "res://.godot/imported/bracket selection_briefcase intake1.png-a0b63815d27a18aeaaa3a1d096260ee0.s3tc.ctex"
+},
+{
+"src": "res://misc/bracket selection_square1.png",
+"ctex": "res://.godot/imported/bracket selection_square1.png-6dbd7d9fc42764494aee5247ab567440.s3tc.ctex"
+},
+{
+"src": "res://misc/bracket selection_square2 inverted.png",
+"ctex": "res://.godot/imported/bracket selection_square2 inverted.png-452b020715304fd4fed7bd2ce512913c.s3tc.ctex"
+},
+{
+"src": "res://misc/bracket selection_square2.png",
+"ctex": "res://.godot/imported/bracket selection_square2.png-9bdf63bebd4b3a24e715576a3e3b78c6.s3tc.ctex"
+},
+{
+"src": "res://misc/bracket selection_square3.png",
+"ctex": "res://.godot/imported/bracket selection_square3.png-0a2e8e8a58ea0e22fbb678b3288fe545.s3tc.ctex"
+},
+{
+"src": "res://misc/crt buttons3_window.png",
+"ctex": "res://.godot/imported/crt buttons3_window.png-0f99bff660381a46217617772e8fbe78.s3tc.ctex"
+},
+{
+"src": "res://misc/crt icon_friends inactive.png",
+"ctex": "res://.godot/imported/crt icon_friends inactive.png-8d5049f70311495386e9b73a7e835af3.s3tc.ctex"
+},
+{
+"src": "res://misc/crt icon_friends.png",
+"ctex": "res://.godot/imported/crt icon_friends.png-49cb339b6015de34e085914ac93e493d.s3tc.ctex"
+},
+{
+"src": "res://misc/crt icon_global overview.png",
+"ctex": "res://.godot/imported/crt icon_global overview.png-d1297937fd978e40d8c57bad4d369b6e.s3tc.ctex"
+},
+{
+"src": "res://misc/crt icon_line.png",
+"ctex": "res://.godot/imported/crt icon_line.png-56e4b557562ba5cf49d78a86aa173baf.s3tc.ctex"
+},
+{
+"src": "res://misc/crt icon_player stats inactive.png",
+"ctex": "res://.godot/imported/crt icon_player stats inactive.png-ff33c17c644bf1bd38f3d1b844c14c67.s3tc.ctex"
+},
+{
+"src": "res://misc/crt icon_player stats.png",
+"ctex": "res://.godot/imported/crt icon_player stats.png-a8a70dcc180229ceafcd5af32ce6faa5.s3tc.ctex"
+},
+{
+"src": "res://misc/crt icon_top leaderboard.png",
+"ctex": "res://.godot/imported/crt icon_top leaderboard.png-c8320bf0880c4f757c4f98111578a3ea.s3tc.ctex"
+},
+{
+"src": "res://misc/defib charge broke5.png",
+"ctex": "res://.godot/imported/defib charge broke5.png-58c60ce7c646cffaba3112b8c1044fd3.s3tc.ctex"
+},
+{
+"src": "res://misc/defib charge broke6.png",
+"ctex": "res://.godot/imported/defib charge broke6.png-de49a6638d8575ae0a19037aa92dc84d.s3tc.ctex"
+},
+{
+"src": "res://misc/defib charge broken4.png",
+"ctex": "res://.godot/imported/defib charge broken4.png-241e158dfb996d6155ec8faabfa972d1.s3tc.ctex"
+},
+{
+"src": "res://misc/defib charge png.png",
+"ctex": "res://.godot/imported/defib charge png.png-4a08a71fed2b5a28d106417c9ba3f43d.s3tc.ctex"
+},
+{
+"src": "res://misc/defib charge_excl.png",
+"ctex": "res://.godot/imported/defib charge_excl.png-d78fbc1a5d5a59e44006ea82432a7a17.s3tc.ctex"
+},
+{
+"src": "res://misc/defib charge_skull png.png",
+"ctex": "res://.godot/imported/defib charge_skull png.png-52e39bb73b226e3aa1eeee426da3f476.s3tc.ctex"
+},
+{
+"src": "res://misc/display round indicator.png",
+"ctex": "res://.godot/imported/display round indicator.png-9d1758a820f58a782ca033819999837b.s3tc.ctex"
+},
+{
+"src": "res://misc/display rounds.png",
+"ctex": "res://.godot/imported/display rounds.png-afc6202d103bfbe9379f472d08447437.s3tc.ctex"
+},
+{
+"src": "res://misc/health counter corruption.png",
+"ctex": "res://.godot/imported/health counter corruption.png-ac4e28843ad437efc932ebcc54fc11a1.s3tc.ctex"
+},
+{
+"src": "res://misc/lock icon.png",
+"ctex": "res://.godot/imported/lock icon.png-1e8d8b9fa8524acfe1b8f55eb9317277.s3tc.ctex"
+},
+{
+"src": "res://misc/logo1 main buckshot1.png",
+"ctex": "res://.godot/imported/logo1 main buckshot1.png-5fc6574f1b1de6e7e70f5fa6531d5a2a.s3tc.ctex"
+},
+{
+"src": "res://misc/logo1 main buckshot2.png",
+"ctex": "res://.godot/imported/logo1 main buckshot2.png-06e6ec1c9941b60bc675a53232dc49c9.s3tc.ctex"
+},
+{
+"src": "res://misc/logo1 main.png",
+"ctex": "res://.godot/imported/logo1 main.png-c8523c188c894ec3c230ee502ea214f5.s3tc.ctex"
+},
+{
+"src": "res://misc/logo1 main2.png",
+"ctex": "res://.godot/imported/logo1 main2.png-4211e929664b65727a3a30eea8e413a9.s3tc.ctex"
+},
+{
+"src": "res://misc/no connection.png",
+"ctex": "res://.godot/imported/no connection.png-d6b85821d8749346dad5c2b9257cf07b.s3tc.ctex"
+},
+{
+"src": "res://misc/phone screen backdrop cracked.png",
+"ctex": "res://.godot/imported/phone screen backdrop cracked.png-b179beae6ed0d87aa66a8dadaa048f5f.s3tc.ctex"
+},
+{
+"src": "res://misc/phone screen backdrop cracked2.png",
+"ctex": "res://.godot/imported/phone screen backdrop cracked2.png-1630a0bf6a608dd4d92601aea5961299.s3tc.ctex"
+},
+{
+"src": "res://misc/phone screen backdrop cracked23.png",
+"ctex": "res://.godot/imported/phone screen backdrop cracked23.png-ecf7f3a00f19c748ba628d30484b7ed9.s3tc.ctex"
+},
+{
+"src": "res://misc/phone screen backdrop UI.png",
+"ctex": "res://.godot/imported/phone screen backdrop UI.png-09fac0f90cdc967ea8c6ef47351076e3.s3tc.ctex"
+},
+{
+"src": "res://misc/release form bloody god.png",
+"ctex": "res://.godot/imported/release form bloody god.png-c8b6245b388cef3ae001c0537858521a.s3tc.ctex"
+},
+{
+"src": "res://misc/title_buckshot1.png",
+"ctex": "res://.godot/imported/title_buckshot1.png-5d8e3e73ceec65ae1dca69af78e4c0b4.s3tc.ctex"
+},
+{
+"src": "res://misc/xanax label new1.png",
+"ctex": "res://.godot/imported/xanax label new1.png-51eda7d8dbb4f8db07909b09794623b6.s3tc.ctex"
+},
+{
+"src": "res://misc/yes no stereo lingual.png",
+"ctex": "res://.godot/imported/yes no stereo lingual.png-1d9f3b99433a12bf8b85b1c7c6469c4a.s3tc.ctex"
+},
+{
+"src": "res://models/dealer flow1_burner phone2.png",
+"ctex": "res://.godot/imported/dealer flow1_burner phone2.png-4e7c9a134f799dd3a994a90800d870ce.s3tc.ctex"
+},
+{
+"src": "res://models/dealer flow1_copy1.png",
+"ctex": "res://.godot/imported/dealer flow1_copy1.png-57979fd3fd7d67f0b3b82319cb0dc9df.s3tc.ctex"
+},
+{
+"src": "res://models/dealer flow1_mp_items2_worn bare darkened.png",
+"ctex": "res://.godot/imported/dealer flow1_mp_items2_worn bare darkened.png-732189617198091e8c4674bbc0a4906b.s3tc.ctex"
+},
+{
+"src": "res://models/dealer flow1_skin base copy.png",
+"ctex": "res://.godot/imported/dealer flow1_skin base copy.png-7b7b539a6965d5d9d080575482f9ebc9.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop interior1_tabletop interior device.png",
+"ctex": "res://.godot/imported/tabletop interior1_tabletop interior device.png-e4e2f0df640143a10d452918f74bb282.s3tc.ctex"
+},
+{
+"src": "res://models/adrenaline without pointers/adrenalline without pointers1_aehathateh.png",
+"ctex": "res://.godot/imported/adrenalline without pointers1_aehathateh.png-7778791c5ed834c61afc8de118d7fc37.s3tc.ctex"
+},
+{
+"src": "res://models/adrenaline without pointers/adrenalline without pointers1_brass albedo1.png",
+"ctex": "res://.godot/imported/adrenalline without pointers1_brass albedo1.png-bbf8389b7b262534c9aca68d6475d664.s3tc.ctex"
+},
+{
+"src": "res://models/adrenaline without pointers/adrenalline without pointers1_syringe test2.png",
+"ctex": "res://.godot/imported/adrenalline without pointers1_syringe test2.png-168e0bb207c7c3000c176981758aa960.s3tc.ctex"
+},
+{
+"src": "res://models/adrenaline without pointers/adrenalline without pointers1_valve thing.png",
+"ctex": "res://.godot/imported/adrenalline without pointers1_valve thing.png-473c1d38a0342c89f1e994fec5867357.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_5145UYCSGoL.png",
+"ctex": "res://.godot/imported/backroom blockout4_5145UYCSGoL.png-17cb7d2854f8d2cc1e0f0f514f8b115a.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_boombox.png",
+"ctex": "res://.godot/imported/backroom blockout4_boombox.png-40a2081f307022f03cf18f97a20138f2.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_brick industrial png.png",
+"ctex": "res://.godot/imported/backroom blockout4_brick industrial png.png-33064f4e7d2c8f198a4764fb9b2c6f45.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_cigarette.png",
+"ctex": "res://.godot/imported/backroom blockout4_cigarette.png-8192ae2ed0a3603145555633c6eaed63.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_concrete dark png.png",
+"ctex": "res://.godot/imported/backroom blockout4_concrete dark png.png-967aefb1e07993f61099df450c3f4a69.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_dirt.png",
+"ctex": "res://.godot/imported/backroom blockout4_dirt.png-051d98ff8410f284e4e556792a49cff7.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_document1.png",
+"ctex": "res://.godot/imported/backroom blockout4_document1.png-bf38a9ad7a16edfe9a41fb0fd1ed28e5.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_fire extinguisher label.png",
+"ctex": "res://.godot/imported/backroom blockout4_fire extinguisher label.png-863b68192435d3430343a926cad53fab.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_fixture.png",
+"ctex": "res://.godot/imported/backroom blockout4_fixture.png-938bcb5eb89d9add4585a55b74e998b7.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_magazine1.png",
+"ctex": "res://.godot/imported/backroom blockout4_magazine1.png-01d9b1bbfb34b500312426fac89eb02a.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_magazine2.png",
+"ctex": "res://.godot/imported/backroom blockout4_magazine2.png-70427016dcda745aec32eb3863a9cc51.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_matchbox1.png",
+"ctex": "res://.godot/imported/backroom blockout4_matchbox1.png-7e9889516811736ffe13125a51581333.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_metal_0018 darkened.png",
+"ctex": "res://.godot/imported/backroom blockout4_metal_0018 darkened.png-f277a552015c0695f9dc525170e77cd7.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_metal_0018_color_1k.png",
+"ctex": "res://.godot/imported/backroom blockout4_metal_0018_color_1k.png-212463dbffabc0a49eefe02441bb317d.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_paper normal map.png",
+"ctex": "res://.godot/imported/backroom blockout4_paper normal map.png-ff5938529d7f85c3d23a2c6d41174852.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_paper normal map_25.png",
+"ctex": "res://.godot/imported/backroom blockout4_paper normal map_25.png-d27391a560aca4e8117ebfa151e5359a.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_paperwork1.png",
+"ctex": "res://.godot/imported/backroom blockout4_paperwork1.png-8066308ca5d2b9eed8ece979d53439c5.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_paperwork1_with coffee leak.png",
+"ctex": "res://.godot/imported/backroom blockout4_paperwork1_with coffee leak.png-c5dc09c2c567e992db0fee0d56eb75b1.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_paperwork2.png",
+"ctex": "res://.godot/imported/backroom blockout4_paperwork2.png-e892f173928ab0ed472638e97cf2d7c0.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_paperwork3.png",
+"ctex": "res://.godot/imported/backroom blockout4_paperwork3.png-74c8580cf82fe96f931146a059e3fe1d.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_paperwork4.png",
+"ctex": "res://.godot/imported/backroom blockout4_paperwork4.png-7cf1804ded34bbb4623f765c491a738e.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_rough steel darkened png.png",
+"ctex": "res://.godot/imported/backroom blockout4_rough steel darkened png.png-2bc66bf2a502c6e5291cd3338434ca13.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_rough steel darkened.png",
+"ctex": "res://.godot/imported/backroom blockout4_rough steel darkened.png-9c75114f7897655bfd3bf7ca93c0294b.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_TCom_AudioEquipment0039_1_M.png",
+"ctex": "res://.godot/imported/backroom blockout4_TCom_AudioEquipment0039_1_M.png-fd528dd309416b5c7f7a78519dd0579e.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_TCom_AudioEquipment0068_S.png",
+"ctex": "res://.godot/imported/backroom blockout4_TCom_AudioEquipment0068_S.png-9d004689b10cb3137e39a12ff803add0.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_TCom_WoodPlanksFloors0026_1_seamless_S.png",
+"ctex": "res://.godot/imported/backroom blockout4_TCom_WoodPlanksFloors0026_1_seamless_S.png-863eea01bd6150cc810c5edaeed0783f.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_TexturesCom_Metal_SteelRough2_512_normal.png",
+"ctex": "res://.godot/imported/backroom blockout4_TexturesCom_Metal_SteelRough2_512_normal.png-06ff9925b3d9d179c1072b3e9d4f17a9.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_TexturesCom_OldWood2_512_albedo.png",
+"ctex": "res://.godot/imported/backroom blockout4_TexturesCom_OldWood2_512_albedo.png-53a8853e9b80272cb74eab4955234e59.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_TexturesCom_OldWood2_512_normal.png",
+"ctex": "res://.godot/imported/backroom blockout4_TexturesCom_OldWood2_512_normal.png-9ed20a1da003c86f0926dc8d3f2707cf.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/backroom blockout4_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-2128f9cd3efbc8a85dd03f3528625cec.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/backroom blockout4_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-b6689916316cc98d1f4568205483b017.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_TexturesCom_WornMetal_512_albedo.png",
+"ctex": "res://.godot/imported/backroom blockout4_TexturesCom_WornMetal_512_albedo.png-bf5a7fc7124dd4730404a723150e2ff5.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_wood worn albedo.png",
+"ctex": "res://.godot/imported/backroom blockout4_wood worn albedo.png-fbc5c8086870fce001f95817c29fbb9f.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_worn bare metal red lightened.png",
+"ctex": "res://.godot/imported/backroom blockout4_worn bare metal red lightened.png-052a69fb82d8d608b95638c60904b669.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout3/backroom blockout4_worn metal png.png",
+"ctex": "res://.godot/imported/backroom blockout4_worn metal png.png-be86e6fa7f3eda3dc81abfb9664fd4b1.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_5145UYCSGoL.png",
+"ctex": "res://.godot/imported/backroom blockout6_5145UYCSGoL.png-fc70791a005e94f9c0d071e2b348bbc9.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_boombox.png",
+"ctex": "res://.godot/imported/backroom blockout6_boombox.png-24f3bdc2a21101c13ac7054c23ceda8c.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_brick industrial png.png",
+"ctex": "res://.godot/imported/backroom blockout6_brick industrial png.png-f4a17bb97c89f5d34d6f88b125e19a32.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_cigarette.png",
+"ctex": "res://.godot/imported/backroom blockout6_cigarette.png-486c6ed55820175f1b121abea0d98cb0.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_circuitboards.png",
+"ctex": "res://.godot/imported/backroom blockout6_circuitboards.png-19664d5ef58b710bff7e526de049216a.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_concrete dark png.png",
+"ctex": "res://.godot/imported/backroom blockout6_concrete dark png.png-468634563ed7aa83611563b3901181a3.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_dirt.png",
+"ctex": "res://.godot/imported/backroom blockout6_dirt.png-cf42470195f8ee1d77d0039f8ac8276c.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_document1.png",
+"ctex": "res://.godot/imported/backroom blockout6_document1.png-ec39089023d847f7d6b38cf4b53666a2.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_edfited.png",
+"ctex": "res://.godot/imported/backroom blockout6_edfited.png-a2d6e2378c50158f7d7bb62f6895d3f6.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_fire extinguisher label.png",
+"ctex": "res://.godot/imported/backroom blockout6_fire extinguisher label.png-0aeee9508a73d28d8d75a29802ead9a4.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_fixture.png",
+"ctex": "res://.godot/imported/backroom blockout6_fixture.png-ae8ced4da402ac882b48a53610e01ad9.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_magazine1.png",
+"ctex": "res://.godot/imported/backroom blockout6_magazine1.png-0c4f3701f30c4257cf7586ba09d81c61.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_magazine2.png",
+"ctex": "res://.godot/imported/backroom blockout6_magazine2.png-32f89a2d63668b0968a75ede277357e7.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_matchbox1.png",
+"ctex": "res://.godot/imported/backroom blockout6_matchbox1.png-a532e6b432ec76a4a3096cdc3e062652.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_metal_0018 darkened.png",
+"ctex": "res://.godot/imported/backroom blockout6_metal_0018 darkened.png-9db27016d733420629765760f81ac5aa.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_metal_0018_color_1k.png",
+"ctex": "res://.godot/imported/backroom blockout6_metal_0018_color_1k.png-9c2dc05c6e73cef842c550ad39b33cc2.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_paper normal map.png",
+"ctex": "res://.godot/imported/backroom blockout6_paper normal map.png-b1f52c5fac4a97830c5597d80264e405.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_paper normal map_33.png",
+"ctex": "res://.godot/imported/backroom blockout6_paper normal map_33.png-cd0f3b33aae0662c23c132e22e0492d0.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_paperwork1.png",
+"ctex": "res://.godot/imported/backroom blockout6_paperwork1.png-22904f9d2ef842c2292b3abdf2c35404.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_paperwork1_with coffee leak.png",
+"ctex": "res://.godot/imported/backroom blockout6_paperwork1_with coffee leak.png-f1e4dbb54973f54633f7eba0ff5b4986.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_paperwork2.png",
+"ctex": "res://.godot/imported/backroom blockout6_paperwork2.png-6f1f1833e500d20194b494bfdca13940.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_paperwork3.png",
+"ctex": "res://.godot/imported/backroom blockout6_paperwork3.png-10da1e9c6fb4562e6660ebeccfa1d552.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_paperwork4.png",
+"ctex": "res://.godot/imported/backroom blockout6_paperwork4.png-6e3fce8fb559f95a1b8bc5120b2875b1.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_rough steel darkened png.png",
+"ctex": "res://.godot/imported/backroom blockout6_rough steel darkened png.png-1d72f4311ed048f36a8581a91f06a0c3.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_rough steel darkened.png",
+"ctex": "res://.godot/imported/backroom blockout6_rough steel darkened.png-4b13bc1a4eceebf7ef28f622e38e4358.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_tabletop felt normal.png",
+"ctex": "res://.godot/imported/backroom blockout6_tabletop felt normal.png-6d641482cf4cb4b57f4d26b779667fbc.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_tabletop felt shell compartment.png",
+"ctex": "res://.godot/imported/backroom blockout6_tabletop felt shell compartment.png-912b7fd0475a3da2e0a7b76b11fe211c.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_tabletop felt shotgun radius compartment2.png",
+"ctex": "res://.godot/imported/backroom blockout6_tabletop felt shotgun radius compartment2.png-2e72a235612cd6025361fe53bf58117b.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_tabletop felt shotgun radius with lines greyed out.png",
+"ctex": "res://.godot/imported/backroom blockout6_tabletop felt shotgun radius with lines greyed out.png-d00a06f5e4d4f0425d2e75e810185917.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_tabletop felt_without lines.png",
+"ctex": "res://.godot/imported/backroom blockout6_tabletop felt_without lines.png-94928a36bb4374347eb805107482be86.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TCom_AudioEquipment0039_1_M.png",
+"ctex": "res://.godot/imported/backroom blockout6_TCom_AudioEquipment0039_1_M.png-9cea38e3f2000b5645d59d3318f2f768.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TCom_AudioEquipment0068_S.png",
+"ctex": "res://.godot/imported/backroom blockout6_TCom_AudioEquipment0068_S.png-def9bb8ddb746e376498fe7099afaad3.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TCom_WoodPlanksFloors0026_1_seamless_S.png",
+"ctex": "res://.godot/imported/backroom blockout6_TCom_WoodPlanksFloors0026_1_seamless_S.png-7012e46b88b0f841b93f4726f4e564d9.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TexturesCom_Metal_SteelRough2_512_normal.png",
+"ctex": "res://.godot/imported/backroom blockout6_TexturesCom_Metal_SteelRough2_512_normal.png-a70b230d30da84311f24594036acc90e.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TexturesCom_OldWood2_512_albedo.png",
+"ctex": "res://.godot/imported/backroom blockout6_TexturesCom_OldWood2_512_albedo.png-271ad63355aa352451a237fbb965c702.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TexturesCom_OldWood2_512_normal.png",
+"ctex": "res://.godot/imported/backroom blockout6_TexturesCom_OldWood2_512_normal.png-1013e9bab2a2a0428729af0ea8f41cf5.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/backroom blockout6_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-47a5d9626971bea185305fb61d66aa98.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/backroom blockout6_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-087c88d9cbffae4992714c9c0e2c2a47.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TexturesCom_WornMetal_512_albedo.png",
+"ctex": "res://.godot/imported/backroom blockout6_TexturesCom_WornMetal_512_albedo.png-42d10b0f25ba6eb5eb474c38268efe0d.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/backroom blockout6_TexturesCom_WornMetal_512_normal.png-1ff3fd199b999ac3913f2a50e3525813.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_wood worn albedo.png",
+"ctex": "res://.godot/imported/backroom blockout6_wood worn albedo.png-e80e33c231acf717375b03227a0af7d6.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_worn bare darkened.png",
+"ctex": "res://.godot/imported/backroom blockout6_worn bare darkened.png-62a3787aa2ed76c160a9bc771dec64b3.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_worn bare metal red lightened.png",
+"ctex": "res://.godot/imported/backroom blockout6_worn bare metal red lightened.png-6558dfd3a23348f04923f6b55285d723.s3tc.ctex"
+},
+{
+"src": "res://models/backroom blockout5/backroom blockout6_worn metal png.png",
+"ctex": "res://.godot/imported/backroom blockout6_worn metal png.png-d37f3af0b1e1880f677e25f66020433b.s3tc.ctex"
+},
+{
+"src": "res://models/backroom upper cable/backroom upper cables1_rough steel darkened png.png",
+"ctex": "res://.godot/imported/backroom upper cables1_rough steel darkened png.png-a207f318bab4ae67e9f0bcd3e6622cb8.s3tc.ctex"
+},
+{
+"src": "res://models/bird copy1/bird copy1_angel base.png",
+"ctex": "res://.godot/imported/bird copy1_angel base.png-ed4390095ba2453a23af3cd090a32a02.s3tc.ctex"
+},
+{
+"src": "res://models/bird1/bird4_angel base.png",
+"ctex": "res://.godot/imported/bird4_angel base.png-bb9774427448d1b8007b26f83f8eab17.s3tc.ctex"
+},
+{
+"src": "res://models/birthday hat/birthday hat1_birthday.png",
+"ctex": "res://.godot/imported/birthday hat1_birthday.png-94f9c911587d43b29c74284cfbd7a127.s3tc.ctex"
+},
+{
+"src": "res://models/birthday hat/cake2_candle png.png",
+"ctex": "res://.godot/imported/cake2_candle png.png-fd48e7e9f3a06d1002edfb9578c47ca0.s3tc.ctex"
+},
+{
+"src": "res://models/birthday hat/cake2_soil-none-5i4x9p.png",
+"ctex": "res://.godot/imported/cake2_soil-none-5i4x9p.png-129147b3715cb189fc756df53493009f.s3tc.ctex"
+},
+{
+"src": "res://models/birthday hat/eragreagearg.png",
+"ctex": "res://.godot/imported/eragreagearg.png-7d6c3362c521b956f9296b5e4c9a9341.s3tc.ctex"
+},
+{
+"src": "res://models/briefcase machine/briefcase machine1_briefcase machine tex.png",
+"ctex": "res://.godot/imported/briefcase machine1_briefcase machine tex.png-3f39d6d18b1f65800a74edee229d7e23.s3tc.ctex"
+},
+{
+"src": "res://models/briefcase machine/briefcase machine1_metal sheet briefcasen ew.png",
+"ctex": "res://.godot/imported/briefcase machine1_metal sheet briefcasen ew.png-6c7fce0bbcb6c5227e48574755c30f9b.s3tc.ctex"
+},
+{
+"src": "res://models/briefcase machine/briefcase machine1_money4.png",
+"ctex": "res://.godot/imported/briefcase machine1_money4.png-a192b414f55435a833be5619fe2ab0bf.s3tc.ctex"
+},
+{
+"src": "res://models/briefcase machine/briefcase machine1_paper stack side money.png",
+"ctex": "res://.godot/imported/briefcase machine1_paper stack side money.png-d4527d3d653229ebdd8a2b11935c8d61.s3tc.ctex"
+},
+{
+"src": "res://models/briefcase machine/briefcase machine1_tabletop briefcase1_carbon fiber normal png.png",
+"ctex": "res://.godot/imported/briefcase machine1_tabletop briefcase1_carbon fiber normal png.png-a11dee28c005ec175a9a0f52a32dcd1c.s3tc.ctex"
+},
+{
+"src": "res://models/briefcase machine/briefcase machine1_tabletop export6_carbon fiber albedo png.png",
+"ctex": "res://.godot/imported/briefcase machine1_tabletop export6_carbon fiber albedo png.png-06a4c395335d292c8cf2cedb2f8e77a0.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_bvm_front edited2.png",
+"ctex": "res://.godot/imported/crt main1_bvm_front edited2.png-cde316578c6f438658b6d2a261249f85.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_bvm_side edited bw desat.png",
+"ctex": "res://.godot/imported/crt main1_bvm_side edited bw desat.png-f4f1dbaa7aa7a031d29329d64c1bcb02.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_bvm_side edited bw desat1.png",
+"ctex": "res://.godot/imported/crt main1_bvm_side edited bw desat1.png-1bed7b89c72fa30f3b87dd25a19b40ab.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_ceramic 512.png",
+"ctex": "res://.godot/imported/crt main1_ceramic 512.png-16a9ef3f351a23f34cbc0543d88cff9b.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_crt buttons2.png",
+"ctex": "res://.godot/imported/crt main1_crt buttons2.png-b36b99f57936a0268af52f26c6e8026f.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_meat.png",
+"ctex": "res://.godot/imported/crt main1_meat.png-c6a9ace9dd4794dc4cad4dca3994eec5.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_soap.png",
+"ctex": "res://.godot/imported/crt main1_soap.png-1b65ab7e89587b70130d3d7ae83eb438.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_TCom_Grungemaps0164_1_S.png",
+"ctex": "res://.godot/imported/crt main1_TCom_Grungemaps0164_1_S.png-76f5fd01d32453a717ab572b5e3f541b.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_tiles broken 1024 albedo.png",
+"ctex": "res://.godot/imported/crt main1_tiles broken 1024 albedo.png-e91836fc3854a0ca9bf299c4db44f518.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_tiles broken 1024 nromal.png",
+"ctex": "res://.godot/imported/crt main1_tiles broken 1024 nromal.png-876fc01f62745c71ffff79d886e60425.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_tiles normal 2048.png",
+"ctex": "res://.godot/imported/crt main1_tiles normal 2048.png-9088fb6de758b98c2e1e54c0697f06e7.s3tc.ctex"
+},
+{
+"src": "res://models/crt/crt main1_tilies normal 2048 normal map.png",
+"ctex": "res://.godot/imported/crt main1_tilies normal 2048 normal map.png-df5bdf0a77d4087ec968eb5377c61f1b.s3tc.ctex"
+},
+{
+"src": "res://models/crt sa11/crt sa1_bvm_front edited2.png",
+"ctex": "res://.godot/imported/crt sa1_bvm_front edited2.png-01ce05868ec7e8208e977b8854c4a445.s3tc.ctex"
+},
+{
+"src": "res://models/crt sa11/crt sa1_bvm_side edited bw desat.png",
+"ctex": "res://.godot/imported/crt sa1_bvm_side edited bw desat.png-143ea31b07963d649a2611ba1b8ad2ff.s3tc.ctex"
+},
+{
+"src": "res://models/crt sa11/crt sa1_bvm_side edited bw desat1.png",
+"ctex": "res://.godot/imported/crt sa1_bvm_side edited bw desat1.png-93274aac9d125ae7c5c2f6cddfc6e05b.s3tc.ctex"
+},
+{
+"src": "res://models/crt sa11/crt sa1_ceramic 512.png",
+"ctex": "res://.godot/imported/crt sa1_ceramic 512.png-82e4006714ae3cd4364e4b9fcf3ebc0a.s3tc.ctex"
+},
+{
+"src": "res://models/crt sa11/crt sa1_meat.png",
+"ctex": "res://.godot/imported/crt sa1_meat.png-2a36b1ae600a01eb0985f3b0a890b824.s3tc.ctex"
+},
+{
+"src": "res://models/crt sa11/crt sa1_soap.png",
+"ctex": "res://.godot/imported/crt sa1_soap.png-6e7c8b8989ec443b4a3070fadfb26067.s3tc.ctex"
+},
+{
+"src": "res://models/crt sa11/crt sa1_TCom_Grungemaps0164_1_S.png",
+"ctex": "res://.godot/imported/crt sa1_TCom_Grungemaps0164_1_S.png-9cc86bd7136b55ed2fc78f3ea9a2a86e.s3tc.ctex"
+},
+{
+"src": "res://models/cuff bar/player cuff bar1_cuff bar.png",
+"ctex": "res://.godot/imported/player cuff bar1_cuff bar.png-c687d438a205e268e37519cb804d80ec.s3tc.ctex"
+},
+{
+"src": "res://models/dealer flow/dealer flow1_burner phone2.png",
+"ctex": "res://.godot/imported/dealer flow1_burner phone2.png-b0c2ee7ea8bc1d3549aefaa4917afbcf.s3tc.ctex"
+},
+{
+"src": "res://models/dealer flow/dealer flow1_copy1.png",
+"ctex": "res://.godot/imported/dealer flow1_copy1.png-6b5c74098c85b98cae73c9aa04a8355a.s3tc.ctex"
+},
+{
+"src": "res://models/dealer flow/dealer flow1_mp_items2_worn bare darkened.png",
+"ctex": "res://.godot/imported/dealer flow1_mp_items2_worn bare darkened.png-5efab7f971bf08d033e0a789eec04730.s3tc.ctex"
+},
+{
+"src": "res://models/dealer flow/dealer flow1_skin base copy.png",
+"ctex": "res://.godot/imported/dealer flow1_skin base copy.png-d6c5b1b0115153342fa464a808c4fff8.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand adrenaline/dealer hands_adrenaline1_aehathateh.png",
+"ctex": "res://.godot/imported/dealer hands_adrenaline1_aehathateh.png-4a3fe01168526adbc1a75e7af3122b26.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand adrenaline/dealer hands_adrenaline1_brass albedo1.png",
+"ctex": "res://.godot/imported/dealer hands_adrenaline1_brass albedo1.png-6292404ad7b828c4c65d92e8cff22541.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand adrenaline/dealer hands_adrenaline1_skin base hand_left.png",
+"ctex": "res://.godot/imported/dealer hands_adrenaline1_skin base hand_left.png-f058eaf5388727c943ced7654f301064.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand adrenaline/dealer hands_adrenaline1_syringe test2.png",
+"ctex": "res://.godot/imported/dealer hands_adrenaline1_syringe test2.png-ab90520edc2db2fe840b587a9d18427e.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand adrenaline/dealer hands_adrenaline1_valve thing.png",
+"ctex": "res://.godot/imported/dealer hands_adrenaline1_valve thing.png-24b6c59264c9bff1206d435e579b7457.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand burner phone/dealer hands_burner phone1_burner phone2.png",
+"ctex": "res://.godot/imported/dealer hands_burner phone1_burner phone2.png-97486dd54a348a0f3b87c9332fc3a29e.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand burner phone/dealer hands_burner phone1_skin base hand_left.png",
+"ctex": "res://.godot/imported/dealer hands_burner phone1_skin base hand_left.png-2a2bba3231eec7098ae6d349308e5801.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand burner phone/dealer hands_burner phone1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/dealer hands_burner phone1_TCom_Wood_Worn2_512_normal.png-aab2672dc06ee80f6709114737238100.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand burner phone/dealer hands_burner phone1_wood worn albedo.png",
+"ctex": "res://.godot/imported/dealer hands_burner phone1_wood worn albedo.png-99e09acd34d314dd2faaa0d6b399b7ae.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand handcuffed/dealer hand_handcuffed1_metal sheet copy_handcuffs.png",
+"ctex": "res://.godot/imported/dealer hand_handcuffed1_metal sheet copy_handcuffs.png-8d07aec8dde40cb4daf774c59881afa0.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand handcuffed/dealer hand_handcuffed1_skin base hand_left.png",
+"ctex": "res://.godot/imported/dealer hand_handcuffed1_skin base hand_left.png-b2d6941d268587c0bc46006163479172.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand handcuffed/dealer hand_handcuffed1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/dealer hand_handcuffed1_TexturesCom_MetalSheet_Aged_512_normal.png-b1e2ac8c538c6d7e95bade5bb73489a6.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand zippo/dealer hand_zippo_Asphalt007_1K_NormalGL.png",
+"ctex": "res://.godot/imported/dealer hand_zippo_Asphalt007_1K_NormalGL.png-1d136ea47a31fcadfaee8139326e928a.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand zippo/dealer hand_zippo_Metal021_1K_Color.png",
+"ctex": "res://.godot/imported/dealer hand_zippo_Metal021_1K_Color.png-37c89fa9c33b3827b438196dc0320a25.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand zippo/dealer hand_zippo_Metal022_1K_Color.png",
+"ctex": "res://.godot/imported/dealer hand_zippo_Metal022_1K_Color.png-3aea0a613e786ae46839815670439505.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hand zippo/dealer hand_zippo_skin base hand_left.png",
+"ctex": "res://.godot/imported/dealer hand_zippo_skin base hand_left.png-9945983513e89546e3978771752465c0.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_beer can brighter metal.png",
+"ctex": "res://.godot/imported/dealer hands main1_beer can brighter metal.png-6b788f19ce88b8854c663aabef0bd50b.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_beer can2 no text.png",
+"ctex": "res://.godot/imported/dealer hands main1_beer can2 no text.png-276839c8e0ac55f395d5faa817cc7a6e.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_cig box front 2.png",
+"ctex": "res://.godot/imported/dealer hands main1_cig box front 2.png-8c7c5e7a7ae53991d17a052d70d5e55e.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_cig box side2.png",
+"ctex": "res://.godot/imported/dealer hands main1_cig box side2.png-3ba3b451d01a063d1cc0eed82c75648f.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_cigarette.png",
+"ctex": "res://.godot/imported/dealer hands main1_cigarette.png-f436f0698fff8d7e18ac78e18272c44a.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_health counter metal.png",
+"ctex": "res://.godot/imported/dealer hands main1_health counter metal.png-9eeafdb80479f4a0f4372152f9872231.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_magnifying glass.png",
+"ctex": "res://.godot/imported/dealer hands main1_magnifying glass.png-6222d6b68ab3936030fd438ccf8d9ae3.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_metal sheet brighter2.png",
+"ctex": "res://.godot/imported/dealer hands main1_metal sheet brighter2.png-351e2a962575db9a5f1177b91452129b.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_metal sheet copy_beer can brighter.png",
+"ctex": "res://.godot/imported/dealer hands main1_metal sheet copy_beer can brighter.png-2f3b6e40d78bad10c2d752b71ff6a627.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_metal sheet copy_handcuffs.png",
+"ctex": "res://.godot/imported/dealer hands main1_metal sheet copy_handcuffs.png-51820c7784e6d25a727ab3572a983f4f.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_metal sheet red.png",
+"ctex": "res://.godot/imported/dealer hands main1_metal sheet red.png-9eb5b7779da7fe6a9e6678cf702cf01a.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_metal sheet_hand saw.png",
+"ctex": "res://.godot/imported/dealer hands main1_metal sheet_hand saw.png-2252bcb2c7e25b196370c2ac9c685116.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_skin base hand_left.png",
+"ctex": "res://.godot/imported/dealer hands main1_skin base hand_left.png-4c2049590cd814f78fc8b12592251ed5.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/dealer hands main1_TCom_Wood_Worn2_512_normal.png-7d097cd6ee73ed988cd08344364f6425.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/dealer hands main1_TexturesCom_MetalSheet_Aged_512_normal.png-a7d995a99148d682c8b74d968beda9c5.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_TexturesCom_Metal_BronzeBare_512_albedo.png",
+"ctex": "res://.godot/imported/dealer hands main1_TexturesCom_Metal_BronzeBare_512_albedo.png-a79230e7aba0e76f3a2539e483724cea.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_TexturesCom_Metal_BronzeBare_512_normal.png",
+"ctex": "res://.godot/imported/dealer hands main1_TexturesCom_Metal_BronzeBare_512_normal.png-69877cdd41f301bc04da98c4ec77f11e.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/dealer hands main1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-c3ff4b0427e412841603b4f8928f9ac6.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/dealer hands main1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-6f4c8050cd68239f9945579aa0d4e478.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/dealer hands main1_TexturesCom_WornMetal_512_normal.png-cfc0b8fbd84b649e406d7f70e2403741.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_wood worn albedo.png",
+"ctex": "res://.godot/imported/dealer hands main1_wood worn albedo.png-db2bb10e31de8b782830c32e1e9d8d11.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands main/dealer hands main1_worn bare darkened.png",
+"ctex": "res://.godot/imported/dealer hands main1_worn bare darkened.png-85baec266a7e95029ee1dc52f457a196.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands medicine/dealer hands_expired medicine blister pack1_blister pack2.png",
+"ctex": "res://.godot/imported/dealer hands_expired medicine blister pack1_blister pack2.png-838d3c23d98841e0725e4c012f854fa6.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands medicine/dealer hands_expired medicine blister pack1_pill box label new5.png",
+"ctex": "res://.godot/imported/dealer hands_expired medicine blister pack1_pill box label new5.png-4591ebb94e3163e89c69672782085d46.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands medicine/dealer hands_expired medicine1_blister pack2.png",
+"ctex": "res://.godot/imported/dealer hands_expired medicine1_blister pack2.png-0111f177914e2c3cad736357d96ed94f.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands medicine/dealer hands_expired medicine1_pill box label new5.png",
+"ctex": "res://.godot/imported/dealer hands_expired medicine1_pill box label new5.png-31f065ee67f3451240510429435cc8e8.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands medicine/dealer hands_expired medicine1_skin base hand_left.png",
+"ctex": "res://.godot/imported/dealer hands_expired medicine1_skin base hand_left.png-37bef297c9da84ef441f575dfb965fef.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands on table/dealer hands on table1_skin base hand_left.png",
+"ctex": "res://.godot/imported/dealer hands on table1_skin base hand_left.png-bed60b11bd2d9f34e264a6d8f2ed6e16.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands_inverter/dealer hands_inverter1_inverter.png",
+"ctex": "res://.godot/imported/dealer hands_inverter1_inverter.png-4fc18efaf5ddffe19f28640fc50820d2.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands_inverter/dealer hands_inverter1_plastic stained.png",
+"ctex": "res://.godot/imported/dealer hands_inverter1_plastic stained.png-1ba85e0fbaa27d7064531ebaea3aa6f0.s3tc.ctex"
+},
+{
+"src": "res://models/dealer hands_inverter/dealer hands_inverter1_skin base hand_left.png",
+"ctex": "res://.godot/imported/dealer hands_inverter1_skin base hand_left.png-c76044b1467831657a8d7dbaf1583219.s3tc.ctex"
+},
+{
+"src": "res://models/dealer head crushed/dealer head crushed test1_skin base.png",
+"ctex": "res://.godot/imported/dealer head crushed test1_skin base.png-1633dc68c07f553a488bde0c9ebfa666.s3tc.ctex"
+},
+{
+"src": "res://models/dealer head crushed/dealer head crushed test_skin base.png",
+"ctex": "res://.godot/imported/dealer head crushed test_skin base.png-dafdf49a9f964b38e0e77fd67d0d4d4e.s3tc.ctex"
+},
+{
+"src": "res://models/dealer head rigged/dealer head rigged1_skin base.png",
+"ctex": "res://.godot/imported/dealer head rigged1_skin base.png-e5ca57cdfecf0689165e3572a914481e.s3tc.ctex"
+},
+{
+"src": "res://models/double nothing machine/double nothing machine1_metal sheet double nothing.png",
+"ctex": "res://.godot/imported/double nothing machine1_metal sheet double nothing.png-9fce9837501fe69c6219dbc69d857848.s3tc.ctex"
+},
+{
+"src": "res://models/double nothing machine/double nothing machine1_yes no.png",
+"ctex": "res://.godot/imported/double nothing machine1_yes no.png-d73087597d4db6c6a710ee1ee6d8517d.s3tc.ctex"
+},
+{
+"src": "res://models/expired medicine opaque/expired medicine opaque2_pill box label new5.png",
+"ctex": "res://.godot/imported/expired medicine opaque2_pill box label new5.png-3b7cdc13f0a499ef4f647d586d5bcfd0.s3tc.ctex"
+},
+{
+"src": "res://models/health counter main/health counter main1_circuitboards.png",
+"ctex": "res://.godot/imported/health counter main1_circuitboards.png-e2cab100c27acd9378e49130e61db2d4.s3tc.ctex"
+},
+{
+"src": "res://models/health counter main/health counter main1_cutter device panel.png",
+"ctex": "res://.godot/imported/health counter main1_cutter device panel.png-df820e8103e149f1414c2f66a37160c2.s3tc.ctex"
+},
+{
+"src": "res://models/health counter main/health counter main1_health counter metal.png",
+"ctex": "res://.godot/imported/health counter main1_health counter metal.png-31a778dd37930952444aab37e0619b2e.s3tc.ctex"
+},
+{
+"src": "res://models/health counter main/health counter main1_sheet base_adapter.png",
+"ctex": "res://.godot/imported/health counter main1_sheet base_adapter.png-857e37d388790d62e225920b8d64365f.s3tc.ctex"
+},
+{
+"src": "res://models/health counter main/health counter main1_sheet base_knife hoist.png",
+"ctex": "res://.godot/imported/health counter main1_sheet base_knife hoist.png-88d05e8aa263d003bef4449649b46c1a.s3tc.ctex"
+},
+{
+"src": "res://models/health counter main/health counter main1_sheet base_knife.png",
+"ctex": "res://.godot/imported/health counter main1_sheet base_knife.png-d276d5a50585c23d66ab58739f218d5b.s3tc.ctex"
+},
+{
+"src": "res://models/health counter main/health counter main1_sheet base_wire holder.png",
+"ctex": "res://.godot/imported/health counter main1_sheet base_wire holder.png-167de4590bca885daa82d837261bbeee.s3tc.ctex"
+},
+{
+"src": "res://models/health counter main/health counter main1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/health counter main1_TexturesCom_MetalSheet_Aged_512_normal.png-6903c9e474cfae4ba79382c65a2bd376.s3tc.ctex"
+},
+{
+"src": "res://models/heaven door1/heaven door1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/heaven door1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-e0fc53d51c7b1c1aec2b668af13a8f82.s3tc.ctex"
+},
+{
+"src": "res://models/heaven door1/heaven door1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/heaven door1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-825fd1698efc35c1f7456fdc684203e6.s3tc.ctex"
+},
+{
+"src": "res://models/heaven pokers reimport1/heaven pokers reimport1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/heaven pokers reimport1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-10a72e73e113afd28aa70180525588bd.s3tc.ctex"
+},
+{
+"src": "res://models/heaven pokers reimport1/heaven pokers reimport1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/heaven pokers reimport1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-e63f1bd1d1e95ba550cf65f3cd90d7af.s3tc.ctex"
+},
+{
+"src": "res://models/heaven1/heaven pokers1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/heaven pokers1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-cce5c0e6d82ebbd6ba6977e1ac17b9b1.s3tc.ctex"
+},
+{
+"src": "res://models/heaven1/heaven pokers1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/heaven pokers1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-5899f4c62e91c9d8f169cf8f96ead01b.s3tc.ctex"
+},
+{
+"src": "res://models/heaven1/heaven1_TCom_Ground_MudWet_512_normal.png",
+"ctex": "res://.godot/imported/heaven1_TCom_Ground_MudWet_512_normal.png-41076b081e98f4f54f14304ebd8aa23f.s3tc.ctex"
+},
+{
+"src": "res://models/heaven1/heaven1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/heaven1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-3509dfa24eebdb62905b5780f74f263c.s3tc.ctex"
+},
+{
+"src": "res://models/heaven1/heaven1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/heaven1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-7129f897202488591d424fa69e75787f.s3tc.ctex"
+},
+{
+"src": "res://models/ibm key/ibm key1_ibm key the other side computer.png",
+"ctex": "res://.godot/imported/ibm key1_ibm key the other side computer.png-4e903580579a4d13946eaeb47d33b4b3.s3tc.ctex"
+},
+{
+"src": "res://models/inverter shattered frame/inverter shattered frame1_plastic stained.png",
+"ctex": "res://.godot/imported/inverter shattered frame1_plastic stained.png-b3599353df7cd51e50ff36148d5f69ae.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area1/lobby area blockout1_brick industrial png.png",
+"ctex": "res://.godot/imported/lobby area blockout1_brick industrial png.png-3f52cd7eb82a303de327aba7e07fd5f9.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area1/lobby area blockout1_concrete dark png.png",
+"ctex": "res://.godot/imported/lobby area blockout1_concrete dark png.png-c17796aac3a35c415a247b849ecc9f4f.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area1/lobby area blockout1_TCom_WoodPlanksFloors0026_1_seamless_S.png",
+"ctex": "res://.godot/imported/lobby area blockout1_TCom_WoodPlanksFloors0026_1_seamless_S.png-7e5bc68d9935237755e40ef8c16f7219.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area2/lobby area blockout2_brick industrial png.png",
+"ctex": "res://.godot/imported/lobby area blockout2_brick industrial png.png-9a44cf6011cc7a3a1bf82c1d40eb4d7c.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area2/lobby area blockout2_concrete dark png.png",
+"ctex": "res://.godot/imported/lobby area blockout2_concrete dark png.png-671b4f5927e3dda5a523ca0457e17ad8.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area2/lobby area blockout2_TCom_WoodPlanksFloors0026_1_seamless_S.png",
+"ctex": "res://.godot/imported/lobby area blockout2_TCom_WoodPlanksFloors0026_1_seamless_S.png-95e58cc3e3d8819be4f94c9e9ec63f24.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area3/lobby area blockout3_brick industrial png.png",
+"ctex": "res://.godot/imported/lobby area blockout3_brick industrial png.png-8b8e82a7d8030ef9baa782e323713894.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area3/lobby area blockout3_concrete dark png.png",
+"ctex": "res://.godot/imported/lobby area blockout3_concrete dark png.png-08261c4b55b78e2b0b8257758f45c9a7.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area3/lobby area blockout3_metal sheet albedo darker.png",
+"ctex": "res://.godot/imported/lobby area blockout3_metal sheet albedo darker.png-7d1e2dc2a1d2448f90bf5586a7023b38.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area3/lobby area blockout3_TCom_WoodPlanksFloors0026_1_seamless_S.png",
+"ctex": "res://.godot/imported/lobby area blockout3_TCom_WoodPlanksFloors0026_1_seamless_S.png-a668132829248f44f3cad04b7a64097a.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area4/lobby area blockout4_brick industrial png.png",
+"ctex": "res://.godot/imported/lobby area blockout4_brick industrial png.png-e8d4c61bb623c5ec708b40bddc917a1e.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area4/lobby area blockout4_concrete dark png.png",
+"ctex": "res://.godot/imported/lobby area blockout4_concrete dark png.png-913a95fa9f5575db5daf2c55735fadfd.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area4/lobby area blockout4_metal door.png",
+"ctex": "res://.godot/imported/lobby area blockout4_metal door.png-00104ff84cd6960992a5e17046d4eb2f.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area4/lobby area blockout4_metal sheet albedo darker.png",
+"ctex": "res://.godot/imported/lobby area blockout4_metal sheet albedo darker.png-3bb1c2ae5289138150a5043bbb0905a9.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area4/lobby area blockout4_TCom_WoodPlanksFloors0026_1_seamless_S.png",
+"ctex": "res://.godot/imported/lobby area blockout4_TCom_WoodPlanksFloors0026_1_seamless_S.png-2f82b35e984b72f37941ea9275ffd626.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area4/lobby area blockout4_window.png",
+"ctex": "res://.godot/imported/lobby area blockout4_window.png-3bd669b7e254dc6a735939b107539df5.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area5/lobby area blockout5_brick industrial png.png",
+"ctex": "res://.godot/imported/lobby area blockout5_brick industrial png.png-9d42393ea4d3edf64719bd749172de20.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area5/lobby area blockout5_concrete dark png.png",
+"ctex": "res://.godot/imported/lobby area blockout5_concrete dark png.png-d6b7f5c06226f0cd55d5b601b8add878.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area5/lobby area blockout5_metal door.png",
+"ctex": "res://.godot/imported/lobby area blockout5_metal door.png-502dcfceef7cacae79c43ea25f32c6e2.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area5/lobby area blockout5_metal sheet albedo darker.png",
+"ctex": "res://.godot/imported/lobby area blockout5_metal sheet albedo darker.png-a400fb3f93d62ce6e2f57c22886b54fd.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area5/lobby area blockout5_TCom_WoodPlanksFloors0026_1_seamless_S.png",
+"ctex": "res://.godot/imported/lobby area blockout5_TCom_WoodPlanksFloors0026_1_seamless_S.png-b79e8b500ac8313ac2494202fc6b6337.s3tc.ctex"
+},
+{
+"src": "res://models/lobby area5/lobby area blockout5_window.png",
+"ctex": "res://.godot/imported/lobby area blockout5_window.png-c5b489a94ec0ce4f1e96a9974a174636.s3tc.ctex"
+},
+{
+"src": "res://models/main items/handsaw1_metal sheet red.png",
+"ctex": "res://.godot/imported/handsaw1_metal sheet red.png-cd8e1d5a9de436e9942f90d8e3e04574.s3tc.ctex"
+},
+{
+"src": "res://models/main items/handsaw1_metal sheet_hand saw.png",
+"ctex": "res://.godot/imported/handsaw1_metal sheet_hand saw.png-1cabd2e43cfc3dc768e8435ccb823d02.s3tc.ctex"
+},
+{
+"src": "res://models/main items/handsaw1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/handsaw1_TexturesCom_MetalSheet_Aged_512_normal.png-3b15e846111edfe213c0300b618b1dcd.s3tc.ctex"
+},
+{
+"src": "res://models/main items/handsaw1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/handsaw1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-a1596bcc26b67d74d1d6b1a6c78a5842.s3tc.ctex"
+},
+{
+"src": "res://models/main items/handsaw1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/handsaw1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-af0617cd2dd040b073f15201907b501e.s3tc.ctex"
+},
+{
+"src": "res://models/main items/handsaw1_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/handsaw1_TexturesCom_WornMetal_512_normal.png-0500d69d40d995b2069dc2cdb03f0301.s3tc.ctex"
+},
+{
+"src": "res://models/main items/handsaw1_worn bare darkened.png",
+"ctex": "res://.godot/imported/handsaw1_worn bare darkened.png-1e1332e449d4eb2f77ac2356c7c22140.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_Asphalt007_1K_NormalGL.png",
+"ctex": "res://.godot/imported/main items1_Asphalt007_1K_NormalGL.png-bb7508fc496a55fe2ced754af989df57.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_beer can brighter metal.png",
+"ctex": "res://.godot/imported/main items1_beer can brighter metal.png-c2b865cc288ce9d60996c52def0068af.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_beer can2 no text.png",
+"ctex": "res://.godot/imported/main items1_beer can2 no text.png-7dd0579aae82cce262ffded1a8390ef4.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_cig box front 2.png",
+"ctex": "res://.godot/imported/main items1_cig box front 2.png-312af774dd90f1887f522bd7a5c05c4a.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_cig box side2.png",
+"ctex": "res://.godot/imported/main items1_cig box side2.png-57b3a8e048d57a9418d63cdfe86538fc.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_cigarette.png",
+"ctex": "res://.godot/imported/main items1_cigarette.png-571933e0f202812eb048294b3361e560.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_coin2 normal.png",
+"ctex": "res://.godot/imported/main items1_coin2 normal.png-0e39ba13f699d76454ab8f0080abfe93.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_coin2.png",
+"ctex": "res://.godot/imported/main items1_coin2.png-aa8182c8a2a4b43cc000380948bcabd1.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_health counter metal.png",
+"ctex": "res://.godot/imported/main items1_health counter metal.png-b9db7abca71a592e54ec568be70058bd.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_magnifying glass.png",
+"ctex": "res://.godot/imported/main items1_magnifying glass.png-1dafba3f76e82e1b6cff731f03b6322b.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_metal sheet brighter2.png",
+"ctex": "res://.godot/imported/main items1_metal sheet brighter2.png-a7333e5be2247eb02d6a3ffb284c1f3a.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_metal sheet copy_beer can brighter.png",
+"ctex": "res://.godot/imported/main items1_metal sheet copy_beer can brighter.png-79da1279906096c6db5dc7f43b2d26ce.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_metal sheet copy_handcuffs.png",
+"ctex": "res://.godot/imported/main items1_metal sheet copy_handcuffs.png-d07d0c2e0132507ff030fa7272b03ba3.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_metal sheet red saw_painted.png",
+"ctex": "res://.godot/imported/main items1_metal sheet red saw_painted.png-c88b28771009631c1a036de1f5287291.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_Metal021_1K_Color.png",
+"ctex": "res://.godot/imported/main items1_Metal021_1K_Color.png-7891b7da6c3d3c45ce2626b6f3470d23.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_Metal022_1K_Color.png",
+"ctex": "res://.godot/imported/main items1_Metal022_1K_Color.png-7c55c4113445183fe81c964c11aa8d3c.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_saw texture2.png",
+"ctex": "res://.godot/imported/main items1_saw texture2.png-7cea431ef46500331b3611e13ec1fc08.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/main items1_TCom_Wood_Worn2_512_normal.png-a43b0a9e5ef114653fa22ec48cac4496.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/main items1_TexturesCom_MetalSheet_Aged_512_normal.png-91e63c3e35fd4cb1c0f0b4e432495b28.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_TexturesCom_Metal_BronzeBare_512_albedo.png",
+"ctex": "res://.godot/imported/main items1_TexturesCom_Metal_BronzeBare_512_albedo.png-3b5378731ae2df896377c1622b3b066c.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_TexturesCom_Metal_BronzeBare_512_normal.png",
+"ctex": "res://.godot/imported/main items1_TexturesCom_Metal_BronzeBare_512_normal.png-da0fa509d51a1dc946843d3035735dff.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/main items1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-7441493f0963365f2efc3ed5bd464297.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/main items1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-c08c84ccd494ce3b9dc404e74e63c5c6.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/main items1_TexturesCom_WornMetal_512_normal.png-a6877d26650924aa109f0b5343f4a176.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_wood worn albedo.png",
+"ctex": "res://.godot/imported/main items1_wood worn albedo.png-f8c48c5d296691ece34a17c2cd979b1b.s3tc.ctex"
+},
+{
+"src": "res://models/main items/main items1_worn bare darkened.png",
+"ctex": "res://.godot/imported/main items1_worn bare darkened.png-fc6e57431dc6bb8e0e74a6dc8d470a1f.s3tc.ctex"
+},
+{
+"src": "res://models/makeship plushie/makeship plushie1_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/makeship plushie1_metal024 pump action painted normal.png-f21b1dd18475898fe2941476c36ce253.s3tc.ctex"
+},
+{
+"src": "res://models/makeship plushie/makeship plushie1_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/makeship plushie1_metal24 pump action painted.png-2d8fa856abe2c1402177373d6e5bcfe5.s3tc.ctex"
+},
+{
+"src": "res://models/makeship plushie/makeship plushie1_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/makeship plushie1_metal24 pump action painted2.png-dd9c604ee6a3c4c292dad57281d7972c.s3tc.ctex"
+},
+{
+"src": "res://models/makeship plushie/makeship plushie1_teddy fur base.png",
+"ctex": "res://.godot/imported/makeship plushie1_teddy fur base.png-d0af03bef5c724ffa01347912cc192c9.s3tc.ctex"
+},
+{
+"src": "res://models/makeship plushie/makeship plushie1_wood worn albedo.png",
+"ctex": "res://.godot/imported/makeship plushie1_wood worn albedo.png-97ccc336a96f9cc8fd41a5530b9aea6d.s3tc.ctex"
+},
+{
+"src": "res://models/mouthwash bottle/mouthwash bottle1_Cap-Colour.png",
+"ctex": "res://.godot/imported/mouthwash bottle1_Cap-Colour.png-8c7791efcd41c58371f643cb928b2a99.s3tc.ctex"
+},
+{
+"src": "res://models/mouthwash bottle/mouthwash bottle1_NEWmouthwashBottle-Colour1.png",
+"ctex": "res://.godot/imported/mouthwash bottle1_NEWmouthwashBottle-Colour1.png-fd248bf0f97496e1b7249ecf5dc847aa.s3tc.ctex"
+},
+{
+"src": "res://models/muzzle flash1/muzzle flash test1_muzzle flash.png",
+"ctex": "res://.godot/imported/muzzle flash test1_muzzle flash.png-3fa7196ebf2d34a262552847b164d5b3.s3tc.ctex"
+},
+{
+"src": "res://models/new items/new items main1_aehathateh.png",
+"ctex": "res://.godot/imported/new items main1_aehathateh.png-39858a5657429826ba12848dce99f557.s3tc.ctex"
+},
+{
+"src": "res://models/new items/new items main1_blister pack2.png",
+"ctex": "res://.godot/imported/new items main1_blister pack2.png-1e0c09dd5f62788fb564bef8a7dbf436.s3tc.ctex"
+},
+{
+"src": "res://models/new items/new items main1_brass albedo1.png",
+"ctex": "res://.godot/imported/new items main1_brass albedo1.png-81aabdda2d286cf1ae68c4630c019295.s3tc.ctex"
+},
+{
+"src": "res://models/new items/new items main1_burner phone2.png",
+"ctex": "res://.godot/imported/new items main1_burner phone2.png-ed99eae9330666b41dde3a31dac86aa1.s3tc.ctex"
+},
+{
+"src": "res://models/new items/new items main1_inverter.png",
+"ctex": "res://.godot/imported/new items main1_inverter.png-68a87b02f1af5144df4dcf22c3671970.s3tc.ctex"
+},
+{
+"src": "res://models/new items/new items main1_pill box label new5.png",
+"ctex": "res://.godot/imported/new items main1_pill box label new5.png-5df00f6df0a875a4e139b7a0ae6e8da7.s3tc.ctex"
+},
+{
+"src": "res://models/new items/new items main1_plastic stained.png",
+"ctex": "res://.godot/imported/new items main1_plastic stained.png-d32a3bd06d98d798180b8942a9527a6f.s3tc.ctex"
+},
+{
+"src": "res://models/new items/new items main1_syringe test2.png",
+"ctex": "res://.godot/imported/new items main1_syringe test2.png-183e57a591b026e511a0bd2fe953a738.s3tc.ctex"
+},
+{
+"src": "res://models/new items/new items main1_valve thing.png",
+"ctex": "res://.godot/imported/new items main1_valve thing.png-5187e8125341262933e03bdb7a87af1f.s3tc.ctex"
+},
+{
+"src": "res://models/player defib device2/player defib device3_metal defib device.png",
+"ctex": "res://.godot/imported/player defib device3_metal defib device.png-d54e9812010b6535a6ef9f29d81ae8bf.s3tc.ctex"
+},
+{
+"src": "res://models/player defib device2/player defib device3_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/player defib device3_TexturesCom_MetalSheet_Aged_512_normal.png-999990809f736880b51d7c694c45c446.s3tc.ctex"
+},
+{
+"src": "res://models/player handcuffs on bar/handcuffs_player bar2_metal sheet copy_handcuffs.png",
+"ctex": "res://.godot/imported/handcuffs_player bar2_metal sheet copy_handcuffs.png-9c62f65a722420677c13cd2dd34ee97e.s3tc.ctex"
+},
+{
+"src": "res://models/player handcuffs on bar/handcuffs_player bar2_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/handcuffs_player bar2_TexturesCom_MetalSheet_Aged_512_normal.png-af6550ccfdf2d18a7ab7af81746436b7.s3tc.ctex"
+},
+{
+"src": "res://models/player leg/player leg1_smoker dude.png",
+"ctex": "res://.godot/imported/player leg1_smoker dude.png-a6318422691e478ec0f7c128a469125c.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_car interior base1.png",
+"ctex": "res://.godot/imported/player vehicle1_car interior base1.png-8b45fe2f21a356086475cb13ccd49956.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_car interior main.png",
+"ctex": "res://.godot/imported/player vehicle1_car interior main.png-67b0037d49e4d3dd7b3b86dc5c7de1f5.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_car seat base1.png",
+"ctex": "res://.godot/imported/player vehicle1_car seat base1.png-1bb6a013f41b1c0b307e88ebb6298025.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_metal sheet briefcasen ew.png",
+"ctex": "res://.godot/imported/player vehicle1_metal sheet briefcasen ew.png-ad420d9eec91558c343d97100b0bba99.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_metal sheet door details.png",
+"ctex": "res://.godot/imported/player vehicle1_metal sheet door details.png-ec7b6e1e23d51967e608980610765c78.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/player vehicle1_metal024 pump action painted normal.png-907958a77933c08cebd695445bdd53eb.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_metal024 pump action painted normal2.png",
+"ctex": "res://.godot/imported/player vehicle1_metal024 pump action painted normal2.png-f703b59dbd5896f8b7c96fa810399bd4.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/player vehicle1_metal24 pump action painted.png-0e6d73d8512d0d3045c99d867e180daa.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/player vehicle1_metal24 pump action painted2.png-528f9dd228986262145de8e9500855f4.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_money4.png",
+"ctex": "res://.godot/imported/player vehicle1_money4.png-2fa4d1573a016db6b742a4264bbac6e7.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_paper stack side money.png",
+"ctex": "res://.godot/imported/player vehicle1_paper stack side money.png-2de5a267c8a3d85cab9fed6e83f9f573.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_tabletop briefcase1_carbon fiber normal png.png",
+"ctex": "res://.godot/imported/player vehicle1_tabletop briefcase1_carbon fiber normal png.png-4bb364b4586999aa66fb042c04dcfc01.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_tabletop export6_carbon fiber albedo png.png",
+"ctex": "res://.godot/imported/player vehicle1_tabletop export6_carbon fiber albedo png.png-554aa626d0ec43a02c1e131c24330a3a.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/player vehicle1_TCom_Wood_Worn2_512_normal.png-ff4fdb4242edf8bac68666191b689acb.s3tc.ctex"
+},
+{
+"src": "res://models/player vehicle/player vehicle1_wood worn albedo.png",
+"ctex": "res://.godot/imported/player vehicle1_wood worn albedo.png-63880ecadd4a4cf814e93f950c18523c.s3tc.ctex"
+},
+{
+"src": "res://models/release form patched/release form patched1_release form new2.png",
+"ctex": "res://.godot/imported/release form patched1_release form new2.png-b41683339b249ad17ba857940127cad3.s3tc.ctex"
+},
+{
+"src": "res://models/release form patched/release form patched2_release form new2.png",
+"ctex": "res://.godot/imported/release form patched2_release form new2.png-2edd3ddfc32b1070cdd3d5b03f2cd74d.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_ceramic 1024.png",
+"ctex": "res://.godot/imported/restroom1_ceramic 1024.png-c261417a49d7d467d7ecf8d76cb67ffc.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_ceramic 512.png",
+"ctex": "res://.godot/imported/restroom1_ceramic 512.png-294d6034a682a947f6960359ed96d7f6.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_marble png.png",
+"ctex": "res://.godot/imported/restroom1_marble png.png-3cbae9875bbbaf80bd17e1652dceebe7.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_marble png2.png",
+"ctex": "res://.godot/imported/restroom1_marble png2.png-df098ce7f0079c32295d940701fa07e1.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_metal door.png",
+"ctex": "res://.godot/imported/restroom1_metal door.png-04ed84a4f3bc428a951e5a90d7bca812.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_metal sheet albedo darker.png",
+"ctex": "res://.godot/imported/restroom1_metal sheet albedo darker.png-b5055b12a7d6e1458651b04150e161b6.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_pill bottle.png",
+"ctex": "res://.godot/imported/restroom1_pill bottle.png-a9496c2cfc1a20b298207047bbd09c2d.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_pills cap.png",
+"ctex": "res://.godot/imported/restroom1_pills cap.png-1dd07a59e5b344f11d2b07e2c96ed736.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_soap.png",
+"ctex": "res://.godot/imported/restroom1_soap.png-c324b4a5b84322fe31e249fc6c0a9b58.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_stall door.png",
+"ctex": "res://.godot/imported/restroom1_stall door.png-b294caf74b04f6d8a768a41a5412e688.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_TCom_Grungemaps0164_1_S.png",
+"ctex": "res://.godot/imported/restroom1_TCom_Grungemaps0164_1_S.png-7b0f5e1227ec6896580fbf4f46026e2d.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_tiles broken 1024 albedo.png",
+"ctex": "res://.godot/imported/restroom1_tiles broken 1024 albedo.png-7a4c874eb2e89b10498ffeb821f753fa.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_tiles broken 1024 nromal.png",
+"ctex": "res://.godot/imported/restroom1_tiles broken 1024 nromal.png-37fe4faf09b35e6277697def7702ba26.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_tiles normal 2048.png",
+"ctex": "res://.godot/imported/restroom1_tiles normal 2048.png-e48afab04d9b117b11f07cdede0d1189.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_tilies normal 2048 normal map.png",
+"ctex": "res://.godot/imported/restroom1_tilies normal 2048 normal map.png-23ca6ef515aea4ad5eccc92a7f3cab40.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_towel dispenser base.png",
+"ctex": "res://.godot/imported/restroom1_towel dispenser base.png-2924d15bddb723cec5f842939ae59047.s3tc.ctex"
+},
+{
+"src": "res://models/restroom1/restroom1_xanax label.png",
+"ctex": "res://.godot/imported/restroom1_xanax label.png-d38a6b5e48b2cbbe542c23cd14fee494.s3tc.ctex"
+},
+{
+"src": "res://models/rpg shitpost/rpg shitpost1_Metal046B_1K-JPG_Color.png",
+"ctex": "res://.godot/imported/rpg shitpost1_Metal046B_1K-JPG_Color.png-642c20c0055c6139a21e47f6b11ac784.s3tc.ctex"
+},
+{
+"src": "res://models/rpg shitpost/rpg shitpost1_rpg metal_green.png",
+"ctex": "res://.godot/imported/rpg shitpost1_rpg metal_green.png-26bdb397d6ae117ea7ce81f5ca256838.s3tc.ctex"
+},
+{
+"src": "res://models/rpg shitpost/rpg shitpost1_Wood066_1K-JPG_Color.png",
+"ctex": "res://.godot/imported/rpg shitpost1_Wood066_1K-JPG_Color.png-8343b8e886ecc92099c5519297fe240a.s3tc.ctex"
+},
+{
+"src": "res://models/sample object/sample object export1_Metal025_1K_Color.png",
+"ctex": "res://.godot/imported/sample object export1_Metal025_1K_Color.png-b489cd7d21d703dc90a56c852513cbba.s3tc.ctex"
+},
+{
+"src": "res://models/sample object/sample object export1_Metal025_1K_NormalGL.png",
+"ctex": "res://.godot/imported/sample object export1_Metal025_1K_NormalGL.png-798fa9c74f77836b8c026ff26c2a191e.s3tc.ctex"
+},
+{
+"src": "res://models/shell waterfall/shell waterfall2_metal sheet blue.png",
+"ctex": "res://.godot/imported/shell waterfall2_metal sheet blue.png-775159734b39b9b3cdef3d6f75fad6c7.s3tc.ctex"
+},
+{
+"src": "res://models/shell waterfall/shell waterfall2_metal sheet red new.png",
+"ctex": "res://.godot/imported/shell waterfall2_metal sheet red new.png-4af8bd141a0bfc2dca7b4ae2923639cd.s3tc.ctex"
+},
+{
+"src": "res://models/shell waterfall/shell waterfall2_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/shell waterfall2_TexturesCom_MetalSheet_Aged_512_normal.png-04c4cee641fad8f2a60d821b2639a11d.s3tc.ctex"
+},
+{
+"src": "res://models/shell waterfall/shell waterfall2_TexturesCom_Metal_BronzeBare_512_albedo.png",
+"ctex": "res://.godot/imported/shell waterfall2_TexturesCom_Metal_BronzeBare_512_albedo.png-3a0d18005757ba748595e398d1d9ccf4.s3tc.ctex"
+},
+{
+"src": "res://models/shell waterfall/shell waterfall2_TexturesCom_Metal_BronzeBare_512_normal.png",
+"ctex": "res://.godot/imported/shell waterfall2_TexturesCom_Metal_BronzeBare_512_normal.png-1984fc9b79e0449d443e57225e65d974.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun new/shotgun with hands2_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/shotgun with hands2_metal024 pump action painted normal.png-c6a1d2ccd97f5d7080cee325c9a50f92.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun new/shotgun with hands2_metal024 pump action painted normal2.png",
+"ctex": "res://.godot/imported/shotgun with hands2_metal024 pump action painted normal2.png-b35468d3950ecb266b72def8404cd6c2.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun new/shotgun with hands2_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/shotgun with hands2_metal24 pump action painted.png-9967de0a84470f2a40dd172201e10583.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun new/shotgun with hands2_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/shotgun with hands2_metal24 pump action painted2.png-b3091b455a35bcba0d80f5706e0830b3.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun new/shotgun with hands2_skin base hand_left.png",
+"ctex": "res://.godot/imported/shotgun with hands2_skin base hand_left.png-f14f3dd043a7d7e5aa9160d5bf6196a5.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun new/shotgun with hands2_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/shotgun with hands2_TCom_Wood_Worn2_512_normal.png-c1f1b71e8b4897729a7bfc232f7e2659.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun new/shotgun with hands2_wood worn albedo.png",
+"ctex": "res://.godot/imported/shotgun with hands2_wood worn albedo.png-cc2b33d4365913be69690b7c32662ddf.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun shells/shotgun shells export1_metal sheet blue.png",
+"ctex": "res://.godot/imported/shotgun shells export1_metal sheet blue.png-028c1d84ff9e37b2c503fe350a0beccd.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun shells/shotgun shells export1_metal sheet red.png",
+"ctex": "res://.godot/imported/shotgun shells export1_metal sheet red.png-b205747f286217c55abcf7db65798d47.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun shells/shotgun shells export1_TexturesCom_MetalSheet_Aged_512_albedo.png",
+"ctex": "res://.godot/imported/shotgun shells export1_TexturesCom_MetalSheet_Aged_512_albedo.png-fa4916bc957bcc5e9421a8c5b7a3d61a.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun shells/shotgun shells export1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/shotgun shells export1_TexturesCom_MetalSheet_Aged_512_normal.png-dc66eb3abaa24bd489faab5f6fc4f307.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun shells/shotgun shells export1_TexturesCom_Metal_BronzeBare_512_albedo.png",
+"ctex": "res://.godot/imported/shotgun shells export1_TexturesCom_Metal_BronzeBare_512_albedo.png-69b081793a27ddb048b0e5537dc1d678.s3tc.ctex"
+},
+{
+"src": "res://models/shotgun shells/shotgun shells export1_TexturesCom_Metal_BronzeBare_512_normal.png",
+"ctex": "res://.godot/imported/shotgun shells export1_TexturesCom_Metal_BronzeBare_512_normal.png-94278b2f816f182dda2ad0900a9a831f.s3tc.ctex"
+},
+{
+"src": "res://models/signature machine/signature machine2_base metal keyboard.png",
+"ctex": "res://.godot/imported/signature machine2_base metal keyboard.png-42bdd0e27294fb0bd4c39aa7dc00296a.s3tc.ctex"
+},
+{
+"src": "res://models/signature machine/signature machine2_keyboard base.png",
+"ctex": "res://.godot/imported/signature machine2_keyboard base.png-4641573e45b99c780eaa3d18df2362df.s3tc.ctex"
+},
+{
+"src": "res://models/signature machine/signature machine2_release form1.png",
+"ctex": "res://.godot/imported/signature machine2_release form1.png-facc79e5df04c9e56aab7bd1b174632c.s3tc.ctex"
+},
+{
+"src": "res://models/signature machine lid/signature machine lid1_base metal keyboard.png",
+"ctex": "res://.godot/imported/signature machine lid1_base metal keyboard.png-db57a15b7f6a8e98ea1769f54329334b.s3tc.ctex"
+},
+{
+"src": "res://models/signature machine lid/signature machine lid1_keyhole signature machine2.png",
+"ctex": "res://.godot/imported/signature machine lid1_keyhole signature machine2.png-d13a9d3ae99b51be70cf45e6a5c07964.s3tc.ctex"
+},
+{
+"src": "res://models/signature machine writer/signature machine writer1_base metal keyboard.png",
+"ctex": "res://.godot/imported/signature machine writer1_base metal keyboard.png-483936fff330ee4faab6330db2b192e4.s3tc.ctex"
+},
+{
+"src": "res://models/signature machine writer/signature machine writer1_keyhole signature machine2.png",
+"ctex": "res://.godot/imported/signature machine writer1_keyhole signature machine2.png-c7f528f7297a7d9643fbc267cf2a0e67.s3tc.ctex"
+},
+{
+"src": "res://models/smoker dude revive player/smoker dude revive player1_metal defib device.png",
+"ctex": "res://.godot/imported/smoker dude revive player1_metal defib device.png-24bee19c3b093182edc4cc77ca79c532.s3tc.ctex"
+},
+{
+"src": "res://models/smoker dude revive player/smoker dude revive player1_smoker dude.png",
+"ctex": "res://.godot/imported/smoker dude revive player1_smoker dude.png-65ee8faa1585f186500f5584bb0d78b1.s3tc.ctex"
+},
+{
+"src": "res://models/smoker dude revive player/smoker dude revive player1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/smoker dude revive player1_TexturesCom_MetalSheet_Aged_512_normal.png-35c0bdc58a4c33f119efb96ba1954501.s3tc.ctex"
+},
+{
+"src": "res://models/smoking dude1/smoking dude12_cigarette.png",
+"ctex": "res://.godot/imported/smoking dude12_cigarette.png-29f8ee64ace81a6818674f1c0d72b579.s3tc.ctex"
+},
+{
+"src": "res://models/smoking dude1/smoking dude12_smoker dude.png",
+"ctex": "res://.godot/imported/smoking dude12_smoker dude.png-c9afc422bc6d58b5880d74ee219bd9a8.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop briefcase/tabletop briefcase1_carbon fiber albedo png.png",
+"ctex": "res://.godot/imported/tabletop briefcase1_carbon fiber albedo png.png-94fd148266a3d8636669bb58fbd48d75.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop briefcase/tabletop briefcase1_carbon fiber normal png.png",
+"ctex": "res://.godot/imported/tabletop briefcase1_carbon fiber normal png.png-685a9af38b3d04ea13f35b6b5fa7d30f.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop briefcase/tabletop briefcase1_darkened png.png",
+"ctex": "res://.godot/imported/tabletop briefcase1_darkened png.png-e18d723b4ea3f6f1ff9091f0802dc3a6.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop briefcase/tabletop briefcase1_metal sheet albedo darkened png.png",
+"ctex": "res://.godot/imported/tabletop briefcase1_metal sheet albedo darkened png.png-7df82d31234df3787a02a2061dde5543.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop briefcase/tabletop briefcase1_metal sheet normal.png",
+"ctex": "res://.godot/imported/tabletop briefcase1_metal sheet normal.png-f3ce1deb8215966fd42728274a8fc826.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop briefcase/tabletop briefcase1_steel barred normal png.png",
+"ctex": "res://.godot/imported/tabletop briefcase1_steel barred normal png.png-3b3ce4df89814bd9f3a38e7d6d4ce2c2.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop briefcase/tabletop briefcase1_steel battered albedo png.png",
+"ctex": "res://.godot/imported/tabletop briefcase1_steel battered albedo png.png-c5590fb802cbe808acd351b60866e930.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_tabletop felt normal.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_tabletop felt normal.png-1fab30652c013889c49baf779eca41ef.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_tabletop felt shell compartment.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_tabletop felt shell compartment.png-93290cd59fc5320bd04bb08497abcdc3.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_tabletop felt shotgun radius compartment2.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_tabletop felt shotgun radius compartment2.png-0efa722c4f72b2b1d7af2ceaba467dc7.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_tabletop felt shotgun radius with lines greyed out.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_tabletop felt shotgun radius with lines greyed out.png-6a4c559423f81446eb782e9dabb77f85.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_tabletop felt shotgun radius wo lines.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_tabletop felt shotgun radius wo lines.png-4a0c77245a5eaddb0bce362e979e24dc.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_tabletop felt_without lines.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_tabletop felt_without lines.png-8cc01fd2676e7c92bd619c9ed9bd81c8.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_TCom_Wood_Worn2_512_normal.png-f83c22873d3c5cb0b13d1cede7646664.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_TexturesCom_WornMetal_512_normal.png-56799f86307cff920ee215ae96d4ccc7.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_wood worn albedo.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_wood worn albedo.png-284cad2221a52adfbeb66da4702c9246.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop compartment origins2/tabletop compartment origins fix2_worn bare darkened.png",
+"ctex": "res://.godot/imported/tabletop compartment origins fix2_worn bare darkened.png-35cec5a051a08f25eb5a6fd04df273df.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_beer can brighter metal.png",
+"ctex": "res://.godot/imported/tabletop export1_beer can brighter metal.png-a8d5e992b18005d1d00dadd116b3dc70.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_beer can2 no text.png",
+"ctex": "res://.godot/imported/tabletop export1_beer can2 no text.png-2768b8256853a84b6114915ab5be572e.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_carbon fiber albedo png.png",
+"ctex": "res://.godot/imported/tabletop export1_carbon fiber albedo png.png-cd04473b531759c35e7de8093fe68d37.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_carbon fiber normal png.png",
+"ctex": "res://.godot/imported/tabletop export1_carbon fiber normal png.png-da5dd73425a5dbc22efaa5854259f53b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_cig box front 2.png",
+"ctex": "res://.godot/imported/tabletop export1_cig box front 2.png-a2135972feaf8c406685938ef14f4f8a.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_cig box side2.png",
+"ctex": "res://.godot/imported/tabletop export1_cig box side2.png-62d4807d97dfbd2448fee19bd4a407b2.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_cigarette.png",
+"ctex": "res://.godot/imported/tabletop export1_cigarette.png-10f6c9d9ee3c633862117677a0c16f75.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_darkened png.png",
+"ctex": "res://.godot/imported/tabletop export1_darkened png.png-86a20d3fdd4e951c995d6744b38fa78b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal sheet albedo darkened png.png",
+"ctex": "res://.godot/imported/tabletop export1_metal sheet albedo darkened png.png-b86df0a7f25bb4c0a4c07cf2bc0ea225.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal sheet brighter2.png",
+"ctex": "res://.godot/imported/tabletop export1_metal sheet brighter2.png-490808c337fa66074082a94e4a1ec6bc.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal sheet copy_beer can brighter.png",
+"ctex": "res://.godot/imported/tabletop export1_metal sheet copy_beer can brighter.png-98081ddb3bcc59fe47d0939acdc9abd7.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal sheet copy_handcuffs.png",
+"ctex": "res://.godot/imported/tabletop export1_metal sheet copy_handcuffs.png-f22654a244ddd5da2afcfda3b2a5b8e3.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal sheet normal.png",
+"ctex": "res://.godot/imported/tabletop export1_metal sheet normal.png-6ebd1e6d7157cd2e10538766f4a3e2d5.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal sheet red saw_painted.png",
+"ctex": "res://.godot/imported/tabletop export1_metal sheet red saw_painted.png-9846ddee1a5d8ba50aa8133b6f8c3bdd.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/tabletop export1_metal024 pump action painted normal.png-da59330e33b499bef01b102f9ab34a58.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal024 pump action painted normal2.png",
+"ctex": "res://.godot/imported/tabletop export1_metal024 pump action painted normal2.png-c056fd3a85d4695715a77be75746f6ea.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/tabletop export1_metal24 pump action painted.png-a466ee0acace83f2736f1c5dfe791c6f.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/tabletop export1_metal24 pump action painted2.png-f226939c5312b7611f955fa5923f52a6.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_saw texture2.png",
+"ctex": "res://.godot/imported/tabletop export1_saw texture2.png-4863ae4169d811bd6c6eaebd54fd07bc.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_steel barred normal png.png",
+"ctex": "res://.godot/imported/tabletop export1_steel barred normal png.png-1c1688f196240a6966d0f40a2d66f8ac.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_steel battered albedo png.png",
+"ctex": "res://.godot/imported/tabletop export1_steel battered albedo png.png-1275233f70e0c7247744ba31909c1a93.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_tabletop felt normal.png",
+"ctex": "res://.godot/imported/tabletop export1_tabletop felt normal.png-a31df3c8326c48ba957c16a4630b4ebd.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_tabletop felt shotgun radius compartment2.png",
+"ctex": "res://.godot/imported/tabletop export1_tabletop felt shotgun radius compartment2.png-6c5d2df3f5554aa09ad5011ee0495baa.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_tabletop felt shotgun radius with lines greyed out flippeed.png",
+"ctex": "res://.godot/imported/tabletop export1_tabletop felt shotgun radius with lines greyed out flippeed.png-d22999037f2ba61ffa2afee1e27721c6.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_tabletop felt shotgun radius with lines greyed out.png",
+"ctex": "res://.godot/imported/tabletop export1_tabletop felt shotgun radius with lines greyed out.png-590fd420423e7afb41390260fc5edb8a.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_tabletop felt shotgun radius wo lines.png",
+"ctex": "res://.godot/imported/tabletop export1_tabletop felt shotgun radius wo lines.png-20368ed639d56b926adb287029685266.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_tabletop felt.png",
+"ctex": "res://.godot/imported/tabletop export1_tabletop felt.png-86ffa52bcd1947cff80c6f38beb23768.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_tabletop felt_without lines.png",
+"ctex": "res://.godot/imported/tabletop export1_tabletop felt_without lines.png-3aee61f1fae396fe6478e53316a0f7e0.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export1_TCom_Wood_Worn2_512_normal.png-ade7e050cde009fc75343fa57faa0504.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_TexturesCom_MetalSheet_Aged_512_albedo.png",
+"ctex": "res://.godot/imported/tabletop export1_TexturesCom_MetalSheet_Aged_512_albedo.png-4ee6cbedf401e29d76ae395b57d13bd8.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export1_TexturesCom_MetalSheet_Aged_512_normal.png-ef88db3dcfb5e1804c5a9eb51bd8ba12.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/tabletop export1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-05bb2e48ab7ee3ba4a439997ac110d65.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-01c9e3534ef1b0a4cc84537205a55b62.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export1_TexturesCom_WornMetal_512_normal.png-533b70d027436559fbc2e21d20d85591.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_wood worn albedo.png",
+"ctex": "res://.godot/imported/tabletop export1_wood worn albedo.png-8ac7f8a55957d7100d30807f79bfbb3a.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export1_worn bare darkened.png",
+"ctex": "res://.godot/imported/tabletop export1_worn bare darkened.png-25620eb8b0bb0a8fdca14d71def68ae1.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_beer can brighter metal.png",
+"ctex": "res://.godot/imported/tabletop export2_beer can brighter metal.png-75d7b96d6333ad39af8c6660ec8f994d.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_beer can2 no text.png",
+"ctex": "res://.godot/imported/tabletop export2_beer can2 no text.png-13c27b466429e8f30fbeda592c9daad9.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_carbon fiber albedo png.png",
+"ctex": "res://.godot/imported/tabletop export2_carbon fiber albedo png.png-6da4cf45ed4088d23b9de32a846465de.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_carbon fiber normal png.png",
+"ctex": "res://.godot/imported/tabletop export2_carbon fiber normal png.png-112a51b7643d4f542505abd871081cda.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_cig box front 2.png",
+"ctex": "res://.godot/imported/tabletop export2_cig box front 2.png-21e629d2bf8915f9042c3c48a5dc3166.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_cig box side2.png",
+"ctex": "res://.godot/imported/tabletop export2_cig box side2.png-cbb25426bf9f6ac9468d4f9668b62600.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_cigarette.png",
+"ctex": "res://.godot/imported/tabletop export2_cigarette.png-290d99c164aa7d858ee9e8fa8f0c01d2.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_darkened png.png",
+"ctex": "res://.godot/imported/tabletop export2_darkened png.png-be778c11ed587491d645f43653d77c2b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal sheet albedo darkened png.png",
+"ctex": "res://.godot/imported/tabletop export2_metal sheet albedo darkened png.png-8be3c312bf76d51adc0fd695f7536444.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal sheet brighter2.png",
+"ctex": "res://.godot/imported/tabletop export2_metal sheet brighter2.png-ebf4f362e3696cba766a368803fd693d.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal sheet copy_beer can brighter.png",
+"ctex": "res://.godot/imported/tabletop export2_metal sheet copy_beer can brighter.png-091aa8d4f4f8bd3e09ecab1750c639e8.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal sheet copy_handcuffs.png",
+"ctex": "res://.godot/imported/tabletop export2_metal sheet copy_handcuffs.png-68d3e6797d89fb2ee5b3215aa4fe28c4.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal sheet normal.png",
+"ctex": "res://.godot/imported/tabletop export2_metal sheet normal.png-35a44c4b30a53cfc6fba6f27469050a6.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal sheet red saw_painted.png",
+"ctex": "res://.godot/imported/tabletop export2_metal sheet red saw_painted.png-ca2e1ae864790b4574767449ae2cbb32.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/tabletop export2_metal024 pump action painted normal.png-bbc2af6cfc8deb196d6735e814c6565e.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal024 pump action painted normal2.png",
+"ctex": "res://.godot/imported/tabletop export2_metal024 pump action painted normal2.png-57df5e8134673b07ca66cac5fb41d89c.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/tabletop export2_metal24 pump action painted.png-e7e7771ec71ba0b238c2e12e7e36e7de.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/tabletop export2_metal24 pump action painted2.png-4d463430fafe63f76a45b8920b55d419.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_saw texture2.png",
+"ctex": "res://.godot/imported/tabletop export2_saw texture2.png-16aeeb023ce294d87e92bee5abe2b626.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_steel barred normal png.png",
+"ctex": "res://.godot/imported/tabletop export2_steel barred normal png.png-c4b6d83718388e368800e191a52f6e20.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_steel battered albedo png.png",
+"ctex": "res://.godot/imported/tabletop export2_steel battered albedo png.png-87a271d02ef8f644b382603759624fe8.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_tabletop felt normal.png",
+"ctex": "res://.godot/imported/tabletop export2_tabletop felt normal.png-008ee54434dfa4db58935f07c0bb0445.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_tabletop felt shotgun radius compartment2.png",
+"ctex": "res://.godot/imported/tabletop export2_tabletop felt shotgun radius compartment2.png-de6da70fd4cfd0e44b4313382f960688.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_tabletop felt shotgun radius with lines greyed out flippeed.png",
+"ctex": "res://.godot/imported/tabletop export2_tabletop felt shotgun radius with lines greyed out flippeed.png-59534c7acbeb8d9b07d0640492ccd556.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_tabletop felt shotgun radius with lines greyed out.png",
+"ctex": "res://.godot/imported/tabletop export2_tabletop felt shotgun radius with lines greyed out.png-17e5ba63745c2beda58ab36cf8e7aa39.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_tabletop felt shotgun radius wo lines.png",
+"ctex": "res://.godot/imported/tabletop export2_tabletop felt shotgun radius wo lines.png-395fc5c3d0e69d8562b57df80ce16e75.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_tabletop felt.png",
+"ctex": "res://.godot/imported/tabletop export2_tabletop felt.png-e5e94f801c8194953768f1435aa04c40.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_tabletop felt_without lines.png",
+"ctex": "res://.godot/imported/tabletop export2_tabletop felt_without lines.png-71e942a229a2707d316439130abf951e.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export2_TCom_Wood_Worn2_512_normal.png-bef1d81810c33881b0ed66ec58ff25aa.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_TexturesCom_MetalSheet_Aged_512_albedo.png",
+"ctex": "res://.godot/imported/tabletop export2_TexturesCom_MetalSheet_Aged_512_albedo.png-2c9e63a2e59f828b3c427530cf58edbf.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export2_TexturesCom_MetalSheet_Aged_512_normal.png-077844cb709a8bccdb7cf674866e85e6.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/tabletop export2_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-b12566cc9242c0eee2fb0d11630f1100.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export2_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-a53484133ce4bf06fc59a4734e7429ea.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export2_TexturesCom_WornMetal_512_normal.png-c82a191ee3ea1812cb5e262d48053c02.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_wood worn albedo.png",
+"ctex": "res://.godot/imported/tabletop export2_wood worn albedo.png-dc9ddaf70b764ceaa324354ad4a9f9c6.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export1/tabletop export2_worn bare darkened.png",
+"ctex": "res://.godot/imported/tabletop export2_worn bare darkened.png-23e9cf0b826141f8533bffbb30929fee.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_beer can brighter metal.png",
+"ctex": "res://.godot/imported/tabletop export6_beer can brighter metal.png-3d05ad8f09157326ddb2526ba9e4f4b2.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_beer can2 no text.png",
+"ctex": "res://.godot/imported/tabletop export6_beer can2 no text.png-7b885ea41ee127c18240ba50d9c91712.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_carbon fiber albedo png.png",
+"ctex": "res://.godot/imported/tabletop export6_carbon fiber albedo png.png-1faa631f6ec6c77d1fdbb6d6a6a18483.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_carbon fiber normal png.png",
+"ctex": "res://.godot/imported/tabletop export6_carbon fiber normal png.png-ed535f21ea01b1bbb371542757e449ce.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_cig box front 2.png",
+"ctex": "res://.godot/imported/tabletop export6_cig box front 2.png-2e7f6c40e6a684fddfe60fab3685dec6.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_cig box side2.png",
+"ctex": "res://.godot/imported/tabletop export6_cig box side2.png-3e66b8ebc4afd966181c5ea168993c5b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_cigarette.png",
+"ctex": "res://.godot/imported/tabletop export6_cigarette.png-d3ed5427d1eb2b36e02b068e035fb4c2.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_darkened png.png",
+"ctex": "res://.godot/imported/tabletop export6_darkened png.png-52b92739fa014aaf615d89aad4694ee3.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal sheet albedo darkened png.png",
+"ctex": "res://.godot/imported/tabletop export6_metal sheet albedo darkened png.png-17c6b74e9eba1f6a7699f45d26ff3450.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal sheet brighter2.png",
+"ctex": "res://.godot/imported/tabletop export6_metal sheet brighter2.png-1e57be6daea11ece803360537a0d1b15.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal sheet copy_beer can brighter.png",
+"ctex": "res://.godot/imported/tabletop export6_metal sheet copy_beer can brighter.png-5375ae40b373791dbdd50aab1c2a9b0a.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal sheet copy_handcuffs.png",
+"ctex": "res://.godot/imported/tabletop export6_metal sheet copy_handcuffs.png-6e247131f449a603fe8be706bad9be31.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal sheet normal.png",
+"ctex": "res://.godot/imported/tabletop export6_metal sheet normal.png-479dd2621ac1d282cd403f580734005b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal sheet red saw_painted.png",
+"ctex": "res://.godot/imported/tabletop export6_metal sheet red saw_painted.png-f545b24107fb42fcb0aed925a246d9dc.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/tabletop export6_metal024 pump action painted normal.png-f4ab72299d369d350f81179e8bfc7ad7.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal024 pump action painted normal2.png",
+"ctex": "res://.godot/imported/tabletop export6_metal024 pump action painted normal2.png-dc2a0a0de71895927badcf8adb468910.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/tabletop export6_metal24 pump action painted.png-4e9a578671cbb758152f4956f371611d.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/tabletop export6_metal24 pump action painted2.png-f13a933f527f0ab444d90565e15c251a.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_saw texture2.png",
+"ctex": "res://.godot/imported/tabletop export6_saw texture2.png-8af356436bc51822cbb74649ab76e81b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_steel barred normal png.png",
+"ctex": "res://.godot/imported/tabletop export6_steel barred normal png.png-759463935374b40207e885bdd9f5c407.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_steel battered albedo png.png",
+"ctex": "res://.godot/imported/tabletop export6_steel battered albedo png.png-9a6d4b570b90c66575fe47d8c5ccc3ac.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_tabletop felt normal.png",
+"ctex": "res://.godot/imported/tabletop export6_tabletop felt normal.png-65acbe0aec67e66bf030585c7de0c8fa.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_tabletop felt shotgun radius compartment2.png",
+"ctex": "res://.godot/imported/tabletop export6_tabletop felt shotgun radius compartment2.png-4e168a466a3a521daac167928bdede8b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_tabletop felt shotgun radius with lines greyed out flippeed.png",
+"ctex": "res://.godot/imported/tabletop export6_tabletop felt shotgun radius with lines greyed out flippeed.png-629743a85c52c244312729f15dec3c8f.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_tabletop felt shotgun radius with lines greyed out.png",
+"ctex": "res://.godot/imported/tabletop export6_tabletop felt shotgun radius with lines greyed out.png-7c3f7d75e8e0518e8b43e03a18781d2e.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_tabletop felt shotgun radius wo lines.png",
+"ctex": "res://.godot/imported/tabletop export6_tabletop felt shotgun radius wo lines.png-3708c7ac4166f33f8c39baea4dee574d.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_tabletop felt.png",
+"ctex": "res://.godot/imported/tabletop export6_tabletop felt.png-a18195af8bf50baf7a9e8ef1ee6cde5b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_tabletop felt_without lines.png",
+"ctex": "res://.godot/imported/tabletop export6_tabletop felt_without lines.png-55ad631806340a27deefb8aeff7a962b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export6_TCom_Wood_Worn2_512_normal.png-facd3756a6fa276e16e4e5ddfded4584.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_TexturesCom_MetalSheet_Aged_512_albedo.png",
+"ctex": "res://.godot/imported/tabletop export6_TexturesCom_MetalSheet_Aged_512_albedo.png-db71a246fc1e2a549ec1f8c86fec7800.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export6_TexturesCom_MetalSheet_Aged_512_normal.png-44322249f67ccb17dd341deb278ea9f7.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/tabletop export6_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-b2ab69489975a4c8b48689f2a3cd688f.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export6_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-bb5833dd0ea254f4d27bb3dc7484d1a5.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/tabletop export6_TexturesCom_WornMetal_512_normal.png-810e28784521f2f8c5006d9a5780612f.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_wood worn albedo.png",
+"ctex": "res://.godot/imported/tabletop export6_wood worn albedo.png-d949d8f22d2a3aa39d0556ecc9f32986.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop export6/tabletop export6_worn bare darkened.png",
+"ctex": "res://.godot/imported/tabletop export6_worn bare darkened.png-20bb3f17f3c7179fa8621adbbc36f7cc.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_health counter metal.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_health counter metal.png-aaa445f0f9d89ecd71832f693176d8c8.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_tabletop felt normal.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_tabletop felt normal.png-137bd122282ab1c61b73173c2db03505.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_tabletop felt shell compartment.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_tabletop felt shell compartment.png-536da7081320f46cbc6893222b6dc9c3.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_tabletop felt shotgun radius compartment2.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_tabletop felt shotgun radius compartment2.png-f40bc2defd3ae8340e15fe81a575cb17.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_tabletop felt shotgun radius with lines greyed out.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_tabletop felt shotgun radius with lines greyed out.png-f8c0521b4b70488c0751ef4a9bd074f8.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_tabletop felt_without lines.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_tabletop felt_without lines.png-417e9ef73d26e3edb49aef057d1bcee6.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_TCom_Wood_Worn2_512_normal.png-e433e5fdf61265e4ffa0971790fad08e.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_TexturesCom_MetalSheet_Aged_512_normal.png-afd2b031502b5be77fd1d1a80547ec2b.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_TexturesCom_WornMetal_512_normal.png-9c095cdd2b1ff4c6584cc3c6bbe861a5.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_wood worn albedo.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_wood worn albedo.png-84f970260af9fd081423f0568ff97bb9.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop health counter/tabletop health counter export1_worn bare darkened.png",
+"ctex": "res://.godot/imported/tabletop health counter export1_worn bare darkened.png-85f4a5fadcbc3b07a248d01a62c6199f.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_tabletop felt normal.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_tabletop felt normal.png-af1ab78cd6c30b6fbf210ab42e90cbdf.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_tabletop felt shell compartment.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_tabletop felt shell compartment.png-0b95191c97c771f6ecabfcb0649e3511.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_tabletop felt shotgun radius compartment2.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_tabletop felt shotgun radius compartment2.png-a81293c7bf481276112dc2ca7abca63d.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_tabletop felt shotgun radius with lines greyed out flippeed.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_tabletop felt shotgun radius with lines greyed out flippeed.png-68ad4f9dca48016d90d88f8a7d0928e9.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_tabletop felt shotgun radius with lines greyed out.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_tabletop felt shotgun radius with lines greyed out.png-2266ffa0626c448e9768069fb1cc456e.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_tabletop felt shotgun radius wo lines.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_tabletop felt shotgun radius wo lines.png-f0ccacbed971903cc5b17dc9bb964ee8.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_tabletop felt.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_tabletop felt.png-3796fd3dcc7b3d284b6324d8c2ec58d6.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_tabletop felt_without lines.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_tabletop felt_without lines.png-5b3008bb6bd35f5cd44d7f070127bdec.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_TCom_Wood_Worn2_512_normal.png-5d0bfdbbb47c844708e86612eca21eab.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_TexturesCom_WornMetal_512_normal.png-c84de8922d9be51bf237b274ffcdfb8d.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_wood worn albedo.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_wood worn albedo.png-d838b136e6145893ba23f5edf39b2b33.s3tc.ctex"
+},
+{
+"src": "res://models/tabletop standalone2/tabletop standalone export2_worn bare darkened.png",
+"ctex": "res://.godot/imported/tabletop standalone export2_worn bare darkened.png-78424d7819577344cb500ff9b12c31f5.s3tc.ctex"
+},
+{
+"src": "res://models/temp delaer export1/dealer temp model export1_skin base.png",
+"ctex": "res://.godot/imported/dealer temp model export1_skin base.png-353e292f0f8ffe22e25c46f7bfc9960d.s3tc.ctex"
+},
+{
+"src": "res://models/vehicle backdrop/vehicle backdrop1_metal sheet highway guard.png",
+"ctex": "res://.godot/imported/vehicle backdrop1_metal sheet highway guard.png-58bced3bef08a8c3969e0a0c319994ec.s3tc.ctex"
+},
+{
+"src": "res://models/vehicle backdrop/vehicle backdrop1_wooden fence main.png",
+"ctex": "res://.godot/imported/vehicle backdrop1_wooden fence main.png-b4fa979e1b7b967b0ce3852bc7137053.s3tc.ctex"
+},
+{
+"src": "res://models/vellon statue/vellon statue1_vellon statue.png",
+"ctex": "res://.godot/imported/vellon statue1_vellon statue.png-cb1643aae96dcd7aa2719311aded168e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/main hand instance separate mesh test1/main hand instance separate mesh test1_item briefcase5.png",
+"ctex": "res://.godot/imported/main hand instance separate mesh test1_item briefcase5.png-e20d7f35ac4bd8201edb37f82fae4869.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/main hand instance separate mesh test1_L/main hand instance separate mesh test1_L_item briefcase5.png",
+"ctex": "res://.godot/imported/main hand instance separate mesh test1_L_item briefcase5.png-eadb20898a4435bb821c008314d2a56c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/main hand instance_L/main hand instance_L_skin base hand_left.png",
+"ctex": "res://.godot/imported/main hand instance_L_skin base hand_left.png-135beaaef85a145a6a800161ce978714.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/main hand instance_LR_additional grab1/main hand instance_LR_additional grab2_skin base hand_left.png",
+"ctex": "res://.godot/imported/main hand instance_LR_additional grab2_skin base hand_left.png-26d6abc0d450aa50c230e45ded7de4e3.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/main hand instance_R/main hand instance_R_skin base hand_left.png",
+"ctex": "res://.godot/imported/main hand instance_R_skin base hand_left.png-8e002fda5be5e3738ee16ca632b9d624.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/main hand instance_R_additional1/main hand instance_R_additional1_skin base hand_left.png",
+"ctex": "res://.godot/imported/main hand instance_R_additional1_skin base hand_left.png-64f52073521884257647b34e9af82cac.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/main hand instance_R_pinch5/main hand instance_R_pinch5_skin base hand_left.png",
+"ctex": "res://.godot/imported/main hand instance_R_pinch5_skin base hand_left.png-ec735c6b1a9d9c8c32d24a0c7a1dce7c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/main hand instance_R_point1/main hand instance_R_point1_skin base hand_left.png",
+"ctex": "res://.godot/imported/main hand instance_R_point1_skin base hand_left.png-0e39f4885d35d7f16f0eff613f384d02.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/mp_customization hand wire hole1/mp_customization hand wire hole1_metal base_hand wire2.png",
+"ctex": "res://.godot/imported/mp_customization hand wire hole1_metal base_hand wire2.png-bace556f59a976df377baa5d2135d959.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/temp mesh_pinch1/temp mesh_pinch1_skin base hand_left.png",
+"ctex": "res://.godot/imported/temp mesh_pinch1_skin base hand_left.png-89cfa5c437f06858831548811d7e7c27.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/temp mesh_pinch2/temp mesh_pinch2_skin base hand_left.png",
+"ctex": "res://.godot/imported/temp mesh_pinch2_skin base hand_left.png-4e446ebbf8492e5675278fa71550a4e7.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/instances/main hand instances/temp mesh_R_point1/temp mesh_R_point1_skin base hand_left.png",
+"ctex": "res://.godot/imported/temp mesh_R_point1_skin base hand_left.png-6785e3a37788ce3e7a814d1e4ede44ac.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/misc/stars.png",
+"ctex": "res://.godot/imported/stars.png-4f48d3934b24eadfd9160b9322c5e167.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/hands1/hands1_skin base hand_left.png",
+"ctex": "res://.godot/imported/hands1_skin base hand_left.png-4b7519b2a1b61eaccb3cbac13a82d27f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/hands_briefcase1/hands_briefcase1_skin base hand_left.png",
+"ctex": "res://.godot/imported/hands_briefcase1_skin base hand_left.png-c61db04fc7e3b35e921f671ad3e4cde4.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/hands_on table/hands_on table1_skin base hand_left.png",
+"ctex": "res://.godot/imported/hands_on table1_skin base hand_left.png-5442cbb8acc02447d7be8a254c0e9181.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization gas mask1/mp_customization gas mask1_gas mask base2.png",
+"ctex": "res://.godot/imported/mp_customization gas mask1_gas mask base2.png-76014488e43154ef114b3da5b8b145f5.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization gas mask1/mp_customization gas mask1_gas mask strap1.png",
+"ctex": "res://.godot/imported/mp_customization gas mask1_gas mask strap1.png-ba9206efb609ec52a364fe977fe280ff.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization gas mask1/mp_customization gas mask1_mp gambler skin_gas mask1.png",
+"ctex": "res://.godot/imported/mp_customization gas mask1_mp gambler skin_gas mask1.png-0a8d3e138f2c63a6506a2f7a8cb847f8.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization respirator2/mp_customization respirator2_mp gambler skin_respirator1.png",
+"ctex": "res://.godot/imported/mp_customization respirator2_mp gambler skin_respirator1.png-dd92226cecf108c96baae3fc6ae9f856.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization respirator2/mp_customization respirator2_mp_gambler teeth base1.png",
+"ctex": "res://.godot/imported/mp_customization respirator2_mp_gambler teeth base1.png-e9f29d540b2a26080e605a651e846ba4.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization respirator2/mp_customization respirator2_respirator base1.png",
+"ctex": "res://.godot/imported/mp_customization respirator2_respirator base1.png-c0d5440dd1d11cb9d80557c7a92e6683.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization respirator2/mp_customization respirator2_respirator filter base2.png",
+"ctex": "res://.godot/imported/mp_customization respirator2_respirator filter base2.png-44bbcde7fc52d5053616957cfa423bd7.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization welding mask1/mp_customization welding mask1_mp gambler skin_welding mask.png",
+"ctex": "res://.godot/imported/mp_customization welding mask1_mp gambler skin_welding mask.png-12a4e4b9a8365242f1d822a3fce8b00c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization welding mask1/mp_customization welding mask1_mp_gambler teeth base1.png",
+"ctex": "res://.godot/imported/mp_customization welding mask1_mp_gambler teeth base1.png-f54aebf4639d530d485bd112ab611553.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization welding mask1/mp_customization welding mask1_strap1.png",
+"ctex": "res://.godot/imported/mp_customization welding mask1_strap1.png-e7696d2f285d2fec151d4f8fd79123f4.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_customization welding mask1/mp_customization welding mask1_welding mask base2.png",
+"ctex": "res://.godot/imported/mp_customization welding mask1_welding mask base2.png-336d8a4dea8c39f2cd894fd74959e392.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_gambler mesh3/mp gambler skin2 - Copy.png",
+"ctex": "res://.godot/imported/mp gambler skin2 - Copy.png-4da619df33ae5f8083ef24a244721778.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_gambler mesh3/mp_gambler mesh3_mp gambler skin2.png",
+"ctex": "res://.godot/imported/mp_gambler mesh3_mp gambler skin2.png-72c8e8fe7f253ce4550e03a832b1416a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/mp_gambler mesh3/mp_gambler mesh3_mp_gambler teeth base1.png",
+"ctex": "res://.godot/imported/mp_gambler mesh3_mp_gambler teeth base1.png-491b425cb43e105dd34e18115bf53f0d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/placeholder characters1/placeholder characters1_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/placeholder characters1_metal024 pump action painted normal.png-dc404a8372b54f142fd6483e06bc30fa.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/placeholder characters1/placeholder characters1_metal024 pump action painted normal2.png",
+"ctex": "res://.godot/imported/placeholder characters1_metal024 pump action painted normal2.png-916564e2dfb54b786a94fa2c9ec0c116.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/placeholder characters1/placeholder characters1_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/placeholder characters1_metal24 pump action painted.png-148ff7fafc95e00ac8169af4e210732b.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/placeholder characters1/placeholder characters1_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/placeholder characters1_metal24 pump action painted2.png-75da431719048c436a050b5ebce0708f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/placeholder characters1/placeholder characters1_smoker dude.png",
+"ctex": "res://.godot/imported/placeholder characters1_smoker dude.png-d394808400c27efea34ee722e3bc44ce.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/placeholder characters1/placeholder characters1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/placeholder characters1_TCom_Wood_Worn2_512_normal.png-0ccb15dd47d313d83cdff4821b96022f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/placeholder characters1/placeholder characters1_wood worn albedo.png",
+"ctex": "res://.godot/imported/placeholder characters1_wood worn albedo.png-1e67c8f147daa0065c07efbdb25587d7.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/characters/placeholder instance1/placeholder instance1_placeholder instance1.png",
+"ctex": "res://.godot/imported/placeholder instance1_placeholder instance1.png-d585eaa93d6fa8f3fb44ceb02839cc79.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/airplane1/airplane1_concrete plane1.png",
+"ctex": "res://.godot/imported/airplane1_concrete plane1.png-4d05b3a283e807f3a95135ec56562bce.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/chimney1/chimney1_chimney base1.png",
+"ctex": "res://.godot/imported/chimney1_chimney base1.png-082c374b6a8b40f55a5105d8e62bb16f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment blockout1/exterior environment blockout1_asphalt seamless temp.png",
+"ctex": "res://.godot/imported/exterior environment blockout1_asphalt seamless temp.png-49b7d64d1b60aba9de6e6c3b2f266ed3.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment blockout1/exterior environment blockout1_concrete 2048 exterior2.png",
+"ctex": "res://.godot/imported/exterior environment blockout1_concrete 2048 exterior2.png-8d5660c6577fcdd3170f54cc61e871c5.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment blockout1/exterior environment blockout1_door1.png",
+"ctex": "res://.godot/imported/exterior environment blockout1_door1.png-eb067b44a2b896a0f566cccaab12fd97.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment blockout1/exterior environment blockout1_windows1.png",
+"ctex": "res://.godot/imported/exterior environment blockout1_windows1.png-203e55aa0f40e93b4f49d99c003f49e6.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_abduction van engine.png",
+"ctex": "res://.godot/imported/exterior environment main1_abduction van engine.png-8e023443cfccb29a53999de05b77d4c3.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_anodized aluminum red 1024.png",
+"ctex": "res://.godot/imported/exterior environment main1_anodized aluminum red 1024.png-81541c4e9a0c218136545a3817fbcbea.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_anodized aluminum red trunk latch.png",
+"ctex": "res://.godot/imported/exterior environment main1_anodized aluminum red trunk latch.png-e92cdee658c3d63289ef14253e72105a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_anodized aluminum white.png",
+"ctex": "res://.godot/imported/exterior environment main1_anodized aluminum white.png-fbe7006b5c9db6736213d1ee014b55e5.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_asphalt painted sector1.png",
+"ctex": "res://.godot/imported/exterior environment main1_asphalt painted sector1.png-63fff3ce1e0e20a6f6d7e7dd91c89aa9.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_asphalt seamless temp.png",
+"ctex": "res://.godot/imported/exterior environment main1_asphalt seamless temp.png-4596c46a1a6a72f49a9d29263eef992b.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_boombox1.png",
+"ctex": "res://.godot/imported/exterior environment main1_boombox1.png-68de7ea205b316091c2737779629eb9a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_canned food1.png",
+"ctex": "res://.godot/imported/exterior environment main1_canned food1.png-4607b58c64c968d64ea84770d5ad2439.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_concrete 2048 exterior2.png",
+"ctex": "res://.godot/imported/exterior environment main1_concrete 2048 exterior2.png-a6d51361d507d577efb75b08577918dd.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_door1.png",
+"ctex": "res://.godot/imported/exterior environment main1_door1.png-5adadfb353c3b9069ca79b674bad1c08.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_ford headlights.png",
+"ctex": "res://.godot/imported/exterior environment main1_ford headlights.png-b20d6a90ae21767d806f0a291c29539e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_ford tire.png",
+"ctex": "res://.godot/imported/exterior environment main1_ford tire.png-2a5cca435b8cf8e2fcb61d81db873063.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_grass2 png.png",
+"ctex": "res://.godot/imported/exterior environment main1_grass2 png.png-0059987a26cf015af489f13dad614ad2.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_hustler1.png",
+"ctex": "res://.godot/imported/exterior environment main1_hustler1.png-57bf7c45c0b5c2bea698d1d345635e5a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_Metal025_1K_Color.png",
+"ctex": "res://.godot/imported/exterior environment main1_Metal025_1K_Color.png-1de5a5761b88c9bf2131c7114e9fa1d5.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_tag1.png",
+"ctex": "res://.godot/imported/exterior environment main1_tag1.png-d2ce3d5863218b6264581ea3e46d4654.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_tag2.png",
+"ctex": "res://.godot/imported/exterior environment main1_tag2.png-8c63f1b05180313b0c747b4caa9852c1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_tag3.png",
+"ctex": "res://.godot/imported/exterior environment main1_tag3.png-63b5fe16c4653437d0814b28bb8a7bc6.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_TexturesCom_Grass12_512_normal.png",
+"ctex": "res://.godot/imported/exterior environment main1_TexturesCom_Grass12_512_normal.png-a38093324448801ac335a4631b51e9eb.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_TexturesCom_Metal_Damaged_512_albedo.png",
+"ctex": "res://.godot/imported/exterior environment main1_TexturesCom_Metal_Damaged_512_albedo.png-036ad999093c3b95bb02261713feee77.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_TexturesCom_Rust_Pitted_512_albedo.png",
+"ctex": "res://.godot/imported/exterior environment main1_TexturesCom_Rust_Pitted_512_albedo.png-c16713e9a12af565aabf11667d4b36fd.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_tire rusty desat.png",
+"ctex": "res://.godot/imported/exterior environment main1_tire rusty desat.png-4ecbc238aed812f289067a78e1909137.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_tire tread it1.png",
+"ctex": "res://.godot/imported/exterior environment main1_tire tread it1.png-99721dbb5e0ecb5ceaec30c4eba7b664.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_trash1.png",
+"ctex": "res://.godot/imported/exterior environment main1_trash1.png-21327537c6e215e31daadd551c7b867a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_tree1.png",
+"ctex": "res://.godot/imported/exterior environment main1_tree1.png-8ee85efece8424362b0c5cf4ff4d3801.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_tree2.png",
+"ctex": "res://.godot/imported/exterior environment main1_tree2.png-3d03e9175c4484c8a01723d194e4ed59.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_whindshield ford courier1.png",
+"ctex": "res://.godot/imported/exterior environment main1_whindshield ford courier1.png-da001b6e4f9969481fd80ae97bc7bdb7.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_windows1.png",
+"ctex": "res://.godot/imported/exterior environment main1_windows1.png-37ec1d2449249e1cde16d26329e98eab.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior environment main1/exterior environment main1_wood grain pallet1.png",
+"ctex": "res://.godot/imported/exterior environment main1_wood grain pallet1.png-f95017c45b70ba1ec7bd3a303840ac8d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior window emission plane segment2/exterior window emission plane segment2_window mask.png",
+"ctex": "res://.godot/imported/exterior window emission plane segment2_window mask.png-0342f92f72cf81ce3d01a31ff18a1846.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior window emission plane segment2/exterior window emission plane segment2_windows1.png",
+"ctex": "res://.godot/imported/exterior window emission plane segment2_windows1.png-d42d836fe0c4056f03beff6edd959e87.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior window emission plane1/exterior window emission plane1_window mask.png",
+"ctex": "res://.godot/imported/exterior window emission plane1_window mask.png-ea1f116737663d1a4609054969d82930.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/exterior environment/exterior window emission plane1/exterior window emission plane1_windows1.png",
+"ctex": "res://.godot/imported/exterior window emission plane1_windows1.png-4374f02c286a96bb4825b40616ae7fee.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior club environment/exterior window environment new2_brick industrial png.png",
+"ctex": "res://.godot/imported/exterior window environment new2_brick industrial png.png-aa079ee7af5e4f6322d5284514270fca.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior club environment/exterior window environment new2_diry window1.png",
+"ctex": "res://.godot/imported/exterior window environment new2_diry window1.png-12d073a745d12d3599327a02f55cf1e2.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior club environment/exterior window environment new2_metal door.png",
+"ctex": "res://.godot/imported/exterior window environment new2_metal door.png-3abfc6027e925b2219711cc52b626ee3.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior club environment/exterior window environment new2_metal sheet albedo darker.png",
+"ctex": "res://.godot/imported/exterior window environment new2_metal sheet albedo darker.png-d696710ff578309ce00ad518a12da8b9.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior club environment/exterior window environment new2_window.png",
+"ctex": "res://.godot/imported/exterior window environment new2_window.png-0611e25caa1ac202aabaadc8ac4a003e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior club environment/exterior window environment new2_windows1.png",
+"ctex": "res://.godot/imported/exterior window environment new2_windows1.png-8e9c8e5cf9dbb537471bfc1be0e4af1e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/fan blade reimport1/fan blade reimport1_fan base texture2.png",
+"ctex": "res://.godot/imported/fan blade reimport1_fan base texture2.png-7fd77cd44fd1e0cefc43c6434b6ced53.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment blockout2/interior environment blockout2_dev texture.png",
+"ctex": "res://.godot/imported/interior environment blockout2_dev texture.png-642c474e97515ea8801bc0817bf440a9.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment blockout4/interior environment blockout4_temp seamless concrete.png",
+"ctex": "res://.godot/imported/interior environment blockout4_temp seamless concrete.png-6714fb79f1ddf7b77d0d9d830b834107.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment blockout5/interior environment blockout5_temp seamless concrete.png",
+"ctex": "res://.godot/imported/interior environment blockout5_temp seamless concrete.png-350c72033fe6476de4ebf155fb986eae.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment blockout6/interior environment blockout6_concrete seamless1.png",
+"ctex": "res://.godot/imported/interior environment blockout6_concrete seamless1.png-1a4181c79b665d0785b8d16b6a0f75e5.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_brick 2048 edited_left side1.png",
+"ctex": "res://.godot/imported/interior environment main1_brick 2048 edited_left side1.png-2c2ce9a30d949a327b828c9fe5b2ba58.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_brick 2048 edited_side2.png",
+"ctex": "res://.godot/imported/interior environment main1_brick 2048 edited_side2.png-9ca61af142e627ed1de0042e0cfc8580.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_bucket base1.png",
+"ctex": "res://.godot/imported/interior environment main1_bucket base1.png-5684feb5d593d23f7ac869c267382e2b.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_canned food1.png",
+"ctex": "res://.godot/imported/interior environment main1_canned food1.png-a525083a64e7461e6f158e48cb74f662.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_cardboard box3.png",
+"ctex": "res://.godot/imported/interior environment main1_cardboard box3.png-136d9a4fef5719e5bcb0db1d399b6adb.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_cigarette.png",
+"ctex": "res://.godot/imported/interior environment main1_cigarette.png-be41945b4bd9e11bb6f5caf4923e3125.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_cigarette_28.png",
+"ctex": "res://.godot/imported/interior environment main1_cigarette_28.png-cc2188855a017f5de6a03b3ba6e05909.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_concrete dark1.png",
+"ctex": "res://.godot/imported/interior environment main1_concrete dark1.png-3366437286d1cbc03b12d930f570db18.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_concrete dark1_copy window.png",
+"ctex": "res://.godot/imported/interior environment main1_concrete dark1_copy window.png-6a7f6e3c2cbeb19ec74baa7842ea8336.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_cup base1.png",
+"ctex": "res://.godot/imported/interior environment main1_cup base1.png-d038576aa4cd999fe1ee650fef87a8ae.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_device1 edited1.png",
+"ctex": "res://.godot/imported/interior environment main1_device1 edited1.png-a9b3b18dbd06b8971034681bf8656156.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_device2 edited2.png",
+"ctex": "res://.godot/imported/interior environment main1_device2 edited2.png-f94ab2faab9710caeed5e2b9fc9b608c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_device4 edited3.png",
+"ctex": "res://.godot/imported/interior environment main1_device4 edited3.png-72283baa90f0ba5cf9df7ffe573965a1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_device8 edited3.png",
+"ctex": "res://.godot/imported/interior environment main1_device8 edited3.png-26a17f487321b06b9f8e7f0200666fc2.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_device9 base2.png",
+"ctex": "res://.godot/imported/interior environment main1_device9 base2.png-3cc85cde5dcfb84cef510af3a8dd8d4a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_dirt.png",
+"ctex": "res://.godot/imported/interior environment main1_dirt.png-0f40d4e60b6bf780cecaa935ccc088b1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_estonia speaker base2.png",
+"ctex": "res://.godot/imported/interior environment main1_estonia speaker base2.png-20d778fed233f8b62db2577dee4dd6d3.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_fabrtic1.png",
+"ctex": "res://.godot/imported/interior environment main1_fabrtic1.png-b0819cbf6bdaa4f5144079f7d1c0a1f1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_fan base texture2.png",
+"ctex": "res://.godot/imported/interior environment main1_fan base texture2.png-da1d569d2efa2f7fa16cba919e5fdbb1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_fixture.png",
+"ctex": "res://.godot/imported/interior environment main1_fixture.png-75b66093257057ea6b8cf10fb63c5472.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_lintmakk2.png",
+"ctex": "res://.godot/imported/interior environment main1_lintmakk2.png-69a39083fdcbc6f1b1ad1c445b1bd277.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_lucky strike ripped2.png",
+"ctex": "res://.godot/imported/interior environment main1_lucky strike ripped2.png-1c8697dab2c8e01caaa7f7b72ce4df60.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_metal dark stool1.png",
+"ctex": "res://.godot/imported/interior environment main1_metal dark stool1.png-b701af15e323537c282f6a39caed05d9.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_metal sheet_power supply holder1.png",
+"ctex": "res://.godot/imported/interior environment main1_metal sheet_power supply holder1.png-ebbfc2b8d67fbe25aee9ec80dd4130f6.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_Metal021_1K_Color.png",
+"ctex": "res://.godot/imported/interior environment main1_Metal021_1K_Color.png-747d4e7282e159f62ff9ffef477e63bf.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_Metal025_1K_Color.png",
+"ctex": "res://.godot/imported/interior environment main1_Metal025_1K_Color.png-83f36ac3cb66502f5d5c46e26376f582.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_metal_0018 darkened.png",
+"ctex": "res://.godot/imported/interior environment main1_metal_0018 darkened.png-1a53232f573eea8ecca6e4e4e55c352a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_metal_0018_color_1k.png",
+"ctex": "res://.godot/imported/interior environment main1_metal_0018_color_1k.png-8cd19b31921218de2814163e923b76ce.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_mp interior fixture2.png",
+"ctex": "res://.godot/imported/interior environment main1_mp interior fixture2.png-a5d17c5d3b782e2f9a7dce5599c2b5d5.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_outlet1.png",
+"ctex": "res://.godot/imported/interior environment main1_outlet1.png-e67fdbb533c9f2d2663817d6051b185e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_paperwork1.png",
+"ctex": "res://.godot/imported/interior environment main1_paperwork1.png-27752f4202603ed864deede0c8893e0d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_pipe base blue1 valve2.png",
+"ctex": "res://.godot/imported/interior environment main1_pipe base blue1 valve2.png-6c21ae52048aab45e885d4d237de626d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_pipe base2 copy3.png",
+"ctex": "res://.godot/imported/interior environment main1_pipe base2 copy3.png-ddd4422592f9ea414aa89de85c465a40.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_plastic blue base crate1.png",
+"ctex": "res://.godot/imported/interior environment main1_plastic blue base crate1.png-ea4646366b1eec12ddae419cd2ee0cdd.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_radiator base copy main.png",
+"ctex": "res://.godot/imported/interior environment main1_radiator base copy main.png-6c4f09b3a088ed8e64a4d0e2be0be0b0.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_radiator base copy pipe.png",
+"ctex": "res://.godot/imported/interior environment main1_radiator base copy pipe.png-e97e17a8b4a27017b575925e3a7b4079.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_rust7.png",
+"ctex": "res://.godot/imported/interior environment main1_rust7.png-e853e6dc965f1161d12f322646a5a3c7.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_shelf1.png",
+"ctex": "res://.godot/imported/interior environment main1_shelf1.png-027c825236d251f862d278b0fa974293.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_speaker plastic base2.png",
+"ctex": "res://.godot/imported/interior environment main1_speaker plastic base2.png-fb70cec06b7baf3fece0275cc9fee333.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_speaker tall base.png",
+"ctex": "res://.godot/imported/interior environment main1_speaker tall base.png-977fdb464de1debeede0aa9603767737.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_speaker1 edited.png",
+"ctex": "res://.godot/imported/interior environment main1_speaker1 edited.png-e9a0af2304cfe7a36f30b69837cd362d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_sponge1.png",
+"ctex": "res://.godot/imported/interior environment main1_sponge1.png-21acf9567d44242fc10f9b1225256dec.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_TexturesCom_OldWood2_512_albedo.png",
+"ctex": "res://.godot/imported/interior environment main1_TexturesCom_OldWood2_512_albedo.png-7c1390a8b8e7dec154cc9104c4332eb1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_TexturesCom_OldWood2_512_normal.png",
+"ctex": "res://.godot/imported/interior environment main1_TexturesCom_OldWood2_512_normal.png-6329edc5213f0e7de4f8fe6b96db872a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_TexturesCom_WornMetal_512_albedo.png",
+"ctex": "res://.godot/imported/interior environment main1_TexturesCom_WornMetal_512_albedo.png-9e6a9ecbd764aa20a428476e7c77a9dc.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_vhs spines1.png",
+"ctex": "res://.godot/imported/interior environment main1_vhs spines1.png-088b2c548242f97104319d5dc0ffb41a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_wood grain pallet1.png",
+"ctex": "res://.godot/imported/interior environment main1_wood grain pallet1.png-094d3b5a2f6393b97f486432cb550df6.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_wood grain stool.png",
+"ctex": "res://.godot/imported/interior environment main1_wood grain stool.png-5ce41f60abd2ccfeee2a3eccb23f8748.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment main1/interior environment main1_wood worn albedo.png",
+"ctex": "res://.godot/imported/interior environment main1_wood worn albedo.png-edd31c0167c9086d6544d4bbd2c3dd4e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment wall separate1/interior environment wall separate1_brick 2048 edited_left side1.png",
+"ctex": "res://.godot/imported/interior environment wall separate1_brick 2048 edited_left side1.png-9560e2fdef1728eccf6948ec0bcbc412.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment wall separate1/interior environment wall separate1_brick 2048 edited_side2.png",
+"ctex": "res://.godot/imported/interior environment wall separate1_brick 2048 edited_side2.png-a08a01a1b40b60cb07385ab0d1ff8532.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment wall separate1/interior environment wall separate1_concrete dark1.png",
+"ctex": "res://.godot/imported/interior environment wall separate1_concrete dark1.png-99c70fc032a85cced4f13ddc4fc5384a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment wall separate1/interior environment wall separate1_concrete dark1_copy window.png",
+"ctex": "res://.godot/imported/interior environment wall separate1_concrete dark1_copy window.png-ce2948d082e017628b20e25d0dd48093.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/interior environment/interior environment wall separate1/interior environment wall separate1_outlet1.png",
+"ctex": "res://.godot/imported/interior environment wall separate1_outlet1.png-a46c1d56578fb7390ec262bcdf65652c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/environments/mp_wall gasket1/mp_wall gasket1_asphalt seamless temp.png",
+"ctex": "res://.godot/imported/mp_wall gasket1_asphalt seamless temp.png-5447a5bf6022dfa5971002edb662804c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/indicator remote2/indicator remote2_koni remote1.png",
+"ctex": "res://.godot/imported/indicator remote2_koni remote1.png-86cbabb0f8c949fca691ccbdb5a015be.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/indicator remote2/indicator remote3_koni remote1.png",
+"ctex": "res://.godot/imported/indicator remote3_koni remote1.png-026d00daa49a1d81b9424e468ee6c57e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/indicator remote3/indicator remote3_koni remote1.png",
+"ctex": "res://.godot/imported/indicator remote3_koni remote1.png-76e811b251bbc4ebfb2416f1db653165.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/magnifier broken/mp_magnifier broken1_magnifying glass.png",
+"ctex": "res://.godot/imported/mp_magnifier broken1_magnifying glass.png-e30c3442e21623ff9d6a8721ec03e5b5.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/magnifier broken/mp_magnifier broken1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/mp_magnifier broken1_TCom_Wood_Worn2_512_normal.png-dc50e5934ad7c522fe7b9ba35f26d7bc.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/magnifier broken/mp_magnifier broken1_TexturesCom_Metal_BronzeBare_512_albedo.png",
+"ctex": "res://.godot/imported/mp_magnifier broken1_TexturesCom_Metal_BronzeBare_512_albedo.png-bc6018cb4429b2bdb7a2d9dd60e25b27.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/magnifier broken/mp_magnifier broken1_TexturesCom_Metal_BronzeBare_512_normal.png",
+"ctex": "res://.godot/imported/mp_magnifier broken1_TexturesCom_Metal_BronzeBare_512_normal.png-79f18807905a51b2b756c1f79f24a7e8.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/magnifier broken/mp_magnifier broken1_wood worn albedo.png",
+"ctex": "res://.godot/imported/mp_magnifier broken1_wood worn albedo.png-56a9981a3900e033077761654b2f6202.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_adrenaline1/mp_adrenaline1_aehathateh.png",
+"ctex": "res://.godot/imported/mp_adrenaline1_aehathateh.png-75120fc81313947e671919c4197fdd4d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_adrenaline1/mp_adrenaline1_brass albedo1.png",
+"ctex": "res://.godot/imported/mp_adrenaline1_brass albedo1.png-1676ff9ab9c3177d9309ac60a1bf5f62.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_adrenaline1/mp_adrenaline1_syringe test2.png",
+"ctex": "res://.godot/imported/mp_adrenaline1_syringe test2.png-07f8da8dc55c52795909ce8b44245298.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_adrenaline1/mp_adrenaline1_valve thing.png",
+"ctex": "res://.godot/imported/mp_adrenaline1_valve thing.png-709d48101a121f5a8a4e726014e43c20.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_beer can interaction1/mp_beer can interaction1_beer can brighter metal.png",
+"ctex": "res://.godot/imported/mp_beer can interaction1_beer can brighter metal.png-c30e8ec099548d598890a2a31a87557d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_beer can interaction1/mp_beer can interaction1_beer can2 no text.png",
+"ctex": "res://.godot/imported/mp_beer can interaction1_beer can2 no text.png-f1d48f7db94c7ed7e88dd9de19ced4ee.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_beer can interaction1/mp_beer can interaction1_metal sheet brighter2.png",
+"ctex": "res://.godot/imported/mp_beer can interaction1_metal sheet brighter2.png-0343549e182525008a261b6c5fd1f28a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_beer can interaction1/mp_beer can interaction1_metal sheet copy_beer can brighter.png",
+"ctex": "res://.godot/imported/mp_beer can interaction1_metal sheet copy_beer can brighter.png-78c366188f45d81a10405bb47dc7ef5c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_beer can interaction1/mp_beer can interaction1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/mp_beer can interaction1_TexturesCom_MetalSheet_Aged_512_normal.png-fdf6f11e2ba5e7e35e7bae4e4985627c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_burner phone interaction1/mp_burner phone interaction1_burner phone2.png",
+"ctex": "res://.godot/imported/mp_burner phone interaction1_burner phone2.png-eea5a897f5a61c60fc2ff0d29993817d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_cigarette interaction2/mp_cigarette interaction2_cig box front 2.png",
+"ctex": "res://.godot/imported/mp_cigarette interaction2_cig box front 2.png-2b49e98a43aea262d456bd24122e06ae.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_cigarette interaction2/mp_cigarette interaction2_cig box side2.png",
+"ctex": "res://.godot/imported/mp_cigarette interaction2_cig box side2.png-0dd3889159843c72b2af3a0daff4d444.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_cigarette interaction2/mp_cigarette interaction2_cigarette.png",
+"ctex": "res://.godot/imported/mp_cigarette interaction2_cigarette.png-00cbc47e502bd0f3cfbfd269d2d25bd0.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_cigarette interaction2/mp_cigarette interaction2_health counter metal.png",
+"ctex": "res://.godot/imported/mp_cigarette interaction2_health counter metal.png-ffcc24b6abfd000a2fdaa3cfc0170116.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_cigarette interaction2/mp_cigarette interaction2_jet flame2.png",
+"ctex": "res://.godot/imported/mp_cigarette interaction2_jet flame2.png-8e7e88e74d452410cb078f386fe865fe.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_cigarette interaction2/mp_cigarette interaction2_plastic base zippo.png",
+"ctex": "res://.godot/imported/mp_cigarette interaction2_plastic base zippo.png-e8c7e426f6a67d92af72a846829551c2.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_cigarette interaction2/mp_cigarette interaction2_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/mp_cigarette interaction2_TexturesCom_MetalSheet_Aged_512_normal.png-1e75e0500e4915c2aa228a542aaa6216.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_cigarette interaction2/mp_cigarette interaction2_zippo steel base.png",
+"ctex": "res://.godot/imported/mp_cigarette interaction2_zippo steel base.png-bd9b50babca9b661b1da9e9071abfab1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_handsaw interactable1/mp_handsaw interactable1_metal sheet red.png",
+"ctex": "res://.godot/imported/mp_handsaw interactable1_metal sheet red.png-f25e81eb5c5fe497628c2bc1bc111f1a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_handsaw interactable1/mp_handsaw interactable1_metal sheet_hand saw.png",
+"ctex": "res://.godot/imported/mp_handsaw interactable1_metal sheet_hand saw.png-ff67829b3307595b387b2a16293c8263.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_handsaw interactable1/mp_handsaw interactable1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/mp_handsaw interactable1_TexturesCom_MetalSheet_Aged_512_normal.png-96aecc1fe81654704e6546fff8e9befa.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_handsaw interactable1/mp_handsaw interactable1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/mp_handsaw interactable1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-17da44a71616a588fb7c3bde8f91308e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_handsaw interactable1/mp_handsaw interactable1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/mp_handsaw interactable1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-617796f822ced50195f86e278c352199.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_handsaw interactable1/mp_handsaw interactable1_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/mp_handsaw interactable1_TexturesCom_WornMetal_512_normal.png-18bab3f116cc3db3575d00c14f3b9c35.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_handsaw interactable1/mp_handsaw interactable1_worn bare darkened.png",
+"ctex": "res://.godot/imported/mp_handsaw interactable1_worn bare darkened.png-a8feadae1fec26fa0c40cf3cf6c74e2b.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_inverter interaction1/mp_inverter interaction1_inverter.png",
+"ctex": "res://.godot/imported/mp_inverter interaction1_inverter.png-fd8b572637bfaad10d555dddc023c7ad.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_inverter interaction1/mp_inverter interaction1_plastic stained.png",
+"ctex": "res://.godot/imported/mp_inverter interaction1_plastic stained.png-d5b636b89ab122d268617524535b8699.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_item briefcase test1/mp_item briefcase test1_item briefcase5.png",
+"ctex": "res://.godot/imported/mp_item briefcase test1_item briefcase5.png-fd2eb47d6e840e4b8aa7fbdf1915d9b8.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_item briefcase test1/mp_item briefcase test1_metal sheet briefcase base2.png",
+"ctex": "res://.godot/imported/mp_item briefcase test1_metal sheet briefcase base2.png-085a549ee8706f8ba3b722f140f4a375.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_item briefcase test1/mp_item briefcase test1_metal sheet briefcase inside2.png",
+"ctex": "res://.godot/imported/mp_item briefcase test1_metal sheet briefcase inside2.png-39180c41f4bb24c1351ba3e215b8bc0f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_beer can brighter metal.png",
+"ctex": "res://.godot/imported/mp_items3_beer can brighter metal.png-a2d205a5b0c6d5cf5273bd49164f1797.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_beer can2 no text.png",
+"ctex": "res://.godot/imported/mp_items3_beer can2 no text.png-6835c09dae390de1a9042764657ce5ce.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_burner phone2.png",
+"ctex": "res://.godot/imported/mp_items3_burner phone2.png-9d6f0037804ac23130766ba7315106f2.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_cig box front 2.png",
+"ctex": "res://.godot/imported/mp_items3_cig box front 2.png-3345c0351ba02c806c3984f8db6c0089.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_cig box side2.png",
+"ctex": "res://.godot/imported/mp_items3_cig box side2.png-d98e157e033e5dd3729311a5b90b464f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_health counter metal.png",
+"ctex": "res://.godot/imported/mp_items3_health counter metal.png-61674854295f7f2c0f7b31cf6756f28b.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_inverter.png",
+"ctex": "res://.godot/imported/mp_items3_inverter.png-6c99c222ff6791dd6f9fa31bebc429a3.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_magnifying glass.png",
+"ctex": "res://.godot/imported/mp_items3_magnifying glass.png-5f5987216db8bd4998247861034a59e6.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_metal sheet brighter2.png",
+"ctex": "res://.godot/imported/mp_items3_metal sheet brighter2.png-82b2faed8057e964719508e93543f346.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_metal sheet copy_beer can brighter.png",
+"ctex": "res://.godot/imported/mp_items3_metal sheet copy_beer can brighter.png-773439c9dedf23a24513edbc5066c428.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_metal sheet copy_handcuffs.png",
+"ctex": "res://.godot/imported/mp_items3_metal sheet copy_handcuffs.png-8a65961df0a090aa1c2b15e1176ca450.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_metal sheet red.png",
+"ctex": "res://.godot/imported/mp_items3_metal sheet red.png-b93ebb57031654530ea80ce0adc0ae32.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_metal sheet_hand saw.png",
+"ctex": "res://.godot/imported/mp_items3_metal sheet_hand saw.png-98df82d8f9054520a2272a1c909dcd68.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_pill box label new5.png",
+"ctex": "res://.godot/imported/mp_items3_pill box label new5.png-85ab03f91f05571fac147b101beef42c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_plastic stained.png",
+"ctex": "res://.godot/imported/mp_items3_plastic stained.png-a69d8efe50c88b08934272e39b969692.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/mp_items3_TCom_Wood_Worn2_512_normal.png-6f89c9178888d4820dd2db19189d4fa7.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/mp_items3_TexturesCom_MetalSheet_Aged_512_normal.png-953d1d50e692145874599058c8907a1c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_TexturesCom_Metal_BronzeBare_512_albedo.png",
+"ctex": "res://.godot/imported/mp_items3_TexturesCom_Metal_BronzeBare_512_albedo.png-c49f13f6594568f9a010bd64684996ac.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_TexturesCom_Metal_BronzeBare_512_normal.png",
+"ctex": "res://.godot/imported/mp_items3_TexturesCom_Metal_BronzeBare_512_normal.png-22f55c51243d7a9c0095789d7100cb76.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png",
+"ctex": "res://.godot/imported/mp_items3_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png-3b825d5724d43aeb5a24f62e7401485e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_TexturesCom_Rust_Heavy_MediumRust_512_normal.png",
+"ctex": "res://.godot/imported/mp_items3_TexturesCom_Rust_Heavy_MediumRust_512_normal.png-cc1883d1b97c82673742681c0a3ecc1d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_TexturesCom_WornMetal_512_normal.png",
+"ctex": "res://.godot/imported/mp_items3_TexturesCom_WornMetal_512_normal.png-1d9ad441502bfe3daf7b9686d1982274.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_wood worn albedo.png",
+"ctex": "res://.godot/imported/mp_items3_wood worn albedo.png-8c09b9ff8685066bcbf4680bb8c9e6ad.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_items3/mp_items3_worn bare darkened.png",
+"ctex": "res://.godot/imported/mp_items3_worn bare darkened.png-3ef19f34d7ded097f0da05d0453de5de.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_jammer proportions test1/mp_jammer proportions test1_jammer4.png",
+"ctex": "res://.godot/imported/mp_jammer proportions test1_jammer4.png-fab34e7ac17d8e9c22f49ca4ba2ab38d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_jammer2/mp_jammer2_jammer4.png",
+"ctex": "res://.godot/imported/mp_jammer2_jammer4.png-4f07452f48dee4579aee24eced009dba.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_jammer3/mp_jammer3_jammer4.png",
+"ctex": "res://.godot/imported/mp_jammer3_jammer4.png-a1a7ee2be442790aa5615ee851458910.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh base fixed1/mp_shotgun mesh base fixed1_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh base fixed1_metal024 pump action painted normal.png-beee3f539fb34587e3386dd279216701.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh base fixed1/mp_shotgun mesh base fixed1_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh base fixed1_metal24 pump action painted.png-7cfe750176e888c464f29173a7cd81fc.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh base fixed1/mp_shotgun mesh base fixed1_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh base fixed1_metal24 pump action painted2.png-d0a2c66a13954ba72dcba0db5499cf80.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh base fixed1/mp_shotgun mesh base fixed1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh base fixed1_TCom_Wood_Worn2_512_normal.png-5abdeb2ac5535882dd9af49599faf2b3.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh base fixed1/mp_shotgun mesh base fixed1_wood worn albedo.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh base fixed1_wood worn albedo.png-b5f98d36ec146bce055cd608e0dac2d5.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh cut segment1/mp_shotgun mesh cut segment1_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh cut segment1_metal024 pump action painted normal.png-9c028e46874527d1cfc6e25a5719f48b.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh cut segment1/mp_shotgun mesh cut segment1_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh cut segment1_metal24 pump action painted.png-7f796a685b9c4ec38bc4bf051894b3b7.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh cut segment1/mp_shotgun mesh cut segment1_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh cut segment1_metal24 pump action painted2.png-a217ce4b977e8ef99d32be199e3e028d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh cut segment1/mp_shotgun mesh cut segment1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh cut segment1_TCom_Wood_Worn2_512_normal.png-6a564322611edbe04bda2dd9fe4fd540.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/mp_shotgun mesh cut segment1/mp_shotgun mesh cut segment1_wood worn albedo.png",
+"ctex": "res://.godot/imported/mp_shotgun mesh cut segment1_wood worn albedo.png-fd86cbdc8378d6b0f1a020b2cd2e09a1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/shotgun main1/shotgun main1_metal sheet main rotator_copy1.png",
+"ctex": "res://.godot/imported/shotgun main1_metal sheet main rotator_copy1.png-2bfa18f46bd39f7697f02718d48e3536.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/shotgun main1/shotgun main1_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/shotgun main1_metal024 pump action painted normal.png-1b3c7ce2e315ea4f9387e348934c9f97.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/shotgun main1/shotgun main1_metal024 pump action painted normal2.png",
+"ctex": "res://.godot/imported/shotgun main1_metal024 pump action painted normal2.png-b03bde0ab5d25a7a635249bce0ae136e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/shotgun main1/shotgun main1_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/shotgun main1_metal24 pump action painted.png-6e9f2a303c0b259b18a5007dab061088.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/shotgun main1/shotgun main1_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/shotgun main1_metal24 pump action painted2.png-3e7e682c64f07a6bf4f7140105672756.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/shotgun main1/shotgun main1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/shotgun main1_TCom_Wood_Worn2_512_normal.png-6c6a356a787cb2abeadc34c74692e896.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/shotgun main1/shotgun main1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/shotgun main1_TexturesCom_MetalSheet_Aged_512_normal.png-551b5acfdb167fdb444d1c83e3214db2.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/items/shotgun main1/shotgun main1_wood worn albedo.png",
+"ctex": "res://.godot/imported/shotgun main1_wood worn albedo.png-dd4c4c009ec8cdd1d83e0a5fba18facd.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/globe2/globe2_world map png.png",
+"ctex": "res://.godot/imported/globe2_world map png.png-32ed9fa724656bb6bd30e9450e87cd03.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/mp_defibrillator1/mp_defibrillator1_metal defib device.png",
+"ctex": "res://.godot/imported/mp_defibrillator1_metal defib device.png-9bcb3c8eec877490e1f46e0b5931758b.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/mp_defibrillator1/mp_defibrillator1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/mp_defibrillator1_TexturesCom_MetalSheet_Aged_512_normal.png-8f4002fce321ecba6ad8141c7758a71d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/mp_ice machine model1/mp_ice machine model1_ice machine base1.png",
+"ctex": "res://.godot/imported/mp_ice machine model1_ice machine base1.png-c9d8c5df284c17f1a1d36047864197b1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/mp_ice machine model1/mp_ice machine model1_ice machine base2.jpg",
+"ctex": "res://.godot/imported/mp_ice machine model1_ice machine base2.jpg-d30108435546ff6ac53523ab6387fada.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/muzzle flash cone/muzzle flash cone1_mp_muzzle flash4.png",
+"ctex": "res://.godot/imported/muzzle flash cone1_mp_muzzle flash4.png-4091f2b4d283dfd4dd05f154eeed272b.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/muzzle flash plane main/muzzle flash plane main1_muzzle flash plane3.png",
+"ctex": "res://.godot/imported/muzzle flash plane main1_muzzle flash plane3.png-0bb4fb64720e67c1bf15f121d5eefd7f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/muzzle flash plane main/muzzle flash plane main1_muzzle flash plane4.png",
+"ctex": "res://.godot/imported/muzzle flash plane main1_muzzle flash plane4.png-d3109c39a4232705602ac3e71796aa18.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/orangefruit/orange3_leaf1.png",
+"ctex": "res://.godot/imported/orange3_leaf1.png-119727db6ded067e7b05ea877e35d57d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/orangefruit/orange3_orange1.png",
+"ctex": "res://.godot/imported/orange3_orange1.png-643331de0cb2afd3cd91433f421ffa18.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/single shell/single shell main1_mp_shell blank default.png",
+"ctex": "res://.godot/imported/single shell main1_mp_shell blank default.png-5ca38c866e94a9a6cbdcc1ff2c93a4ed.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/single shell/single shell main1_mp_shell cap.png",
+"ctex": "res://.godot/imported/single shell main1_mp_shell cap.png-66ebb8b05181602ea365816447622d67.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/misc/single shell/single shell main1_TexturesCom_Metal_BronzeBare_512_albedo.png",
+"ctex": "res://.godot/imported/single shell main1_TexturesCom_Metal_BronzeBare_512_albedo.png-3b82f8c937d608efd53e5e96026bd061.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/health indicator new1/health indicator new1_health indicator paint2.png",
+"ctex": "res://.godot/imported/health indicator new1_health indicator paint2.png-dc7acee583ff2c39b037d6698b7d8a8c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/health indicator new1/health indicator new1_metal sheet_health indicator paint3.png",
+"ctex": "res://.godot/imported/health indicator new1_metal sheet_health indicator paint3.png-6ecddfecbd7b2ae8266237a9788678d3.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/item remover main2/item remover main2_gauge indicator2_green.png",
+"ctex": "res://.godot/imported/item remover main2_gauge indicator2_green.png-1974727aa9f2522fb1d017f51104d465.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/item remover main2/item remover main2_item remover grille1.png",
+"ctex": "res://.godot/imported/item remover main2_item remover grille1.png-2575570046034a822f6472a20e7ddbff.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/item remover main2/item remover main2_metal sheet darkened_item remover hoist.png",
+"ctex": "res://.godot/imported/item remover main2_metal sheet darkened_item remover hoist.png-bdcb1f7ceb57d718b623082a7c155442.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/item remover main2/item remover main2_metal sheet_item remover hoist.png",
+"ctex": "res://.godot/imported/item remover main2_metal sheet_item remover hoist.png-cd680e38a37f4df72c04b96f4520f452.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/item remover main2/item remover main2_metal sheet_item remover holder2.png",
+"ctex": "res://.godot/imported/item remover main2_metal sheet_item remover holder2.png-5406c5be6f40b614b417bb3ae86340af.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/item remover main2/item remover main2_tech ten2.png",
+"ctex": "res://.godot/imported/item remover main2_tech ten2.png-4f9b8f45f1122f18076ef811aa0ccacf.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/item remover2/item remover2_metal sheet_item remover base1.png",
+"ctex": "res://.godot/imported/item remover2_metal sheet_item remover base1.png-c9fab86513e07f829e5c02d737a59191.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_briefcase machine1/mp_briefcase machine1_base metal_briefcase machine darkened3.png",
+"ctex": "res://.godot/imported/mp_briefcase machine1_base metal_briefcase machine darkened3.png-8c18abeeec26ed3c0a5d5b684d2cd61f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_briefcase machine1/mp_briefcase machine1_base metal_briefcase machine.png",
+"ctex": "res://.godot/imported/mp_briefcase machine1_base metal_briefcase machine.png-a4bd0d681e331a5cf42d4977d2e7e580.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_briefcase machine1/mp_briefcase machine1_metal sheet briefcasen ew.png",
+"ctex": "res://.godot/imported/mp_briefcase machine1_metal sheet briefcasen ew.png-996bf89a8eec5f3d0814dadb7b9a1b6c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_briefcase machine1/mp_briefcase machine1_money4.png",
+"ctex": "res://.godot/imported/mp_briefcase machine1_money4.png-d27ca3fa239e057f9e7e2cc42647093c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_briefcase machine1/mp_briefcase machine1_paper stack side money.png",
+"ctex": "res://.godot/imported/mp_briefcase machine1_paper stack side money.png-32cb324539c66d4a13ab98283ada9555.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_briefcase machine1/mp_briefcase machine1_suitsetamine keelatud.png",
+"ctex": "res://.godot/imported/mp_briefcase machine1_suitsetamine keelatud.png-bfd2299864c22fa1ea1ecc15711af22a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_briefcase machine1/mp_briefcase machine1_tabletop briefcase1_carbon fiber normal png.png",
+"ctex": "res://.godot/imported/mp_briefcase machine1_tabletop briefcase1_carbon fiber normal png.png-8350d70a71b145a027607bc44b8810f1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_briefcase machine1/mp_briefcase machine1_tabletop export6_carbon fiber albedo png.png",
+"ctex": "res://.godot/imported/mp_briefcase machine1_tabletop export6_carbon fiber albedo png.png-8b4ac38fa0057086f375aa70688e3a99.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_center piece arms new mesh3/mp_center piece arms new mesh3_metal sheet main rotator_copy1.png",
+"ctex": "res://.godot/imported/mp_center piece arms new mesh3_metal sheet main rotator_copy1.png-f38ab3ecd5cafb1a2f08aec2ae493c38.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_center piece arms new mesh3/mp_center piece arms new mesh3_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/mp_center piece arms new mesh3_TexturesCom_MetalSheet_Aged_512_normal.png-6c806f5b64db863a6ec1249c17f9ab99.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_health counter vertical with timeout indicator2/mp_health counter vertical with timeout indicator2_copper1.png",
+"ctex": "res://.godot/imported/mp_health counter vertical with timeout indicator2_copper1.png-e79f3c07dd93f10504eb56a62187b10d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_health counter vertical with timeout indicator2/mp_health counter vertical with timeout indicator2_metal sheet_health indicator new hardware1.png",
+"ctex": "res://.godot/imported/mp_health counter vertical with timeout indicator2_metal sheet_health indicator new hardware1.png-0ab41f62251d076753ac790ad3583bb1.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_item briefcase lid with timeout display1/mp_item briefcase lid with timeout display1_item briefcase5.png",
+"ctex": "res://.godot/imported/mp_item briefcase lid with timeout display1_item briefcase5.png-211f063692619d4ba204a5b026fc1f3e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_item briefcase lid with timeout display1/mp_item briefcase lid with timeout display1_metal sheet briefcase base2.png",
+"ctex": "res://.godot/imported/mp_item briefcase lid with timeout display1_metal sheet briefcase base2.png-c9a99ce473b0f24a42753db3163b2eb4.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_item briefcase lid with timeout display1/mp_item briefcase lid with timeout display1_mp item briefcase timeout casing2.png",
+"ctex": "res://.godot/imported/mp_item briefcase lid with timeout display1_mp item briefcase timeout casing2.png-9567eb3ec1a88736c3ba6200e13aaa3f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_item briefcase lid with timeout display1/mp_item briefcase lid with timeout display1_mp_item briefcase lid new timeout grunge1.png",
+"ctex": "res://.godot/imported/mp_item briefcase lid with timeout display1_mp_item briefcase lid new timeout grunge1.png-e034e66641d45f7a87de98944439eeea.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_vertical health indicator wood frame1/mp_vertical health indicator wood frame1_copper1.png",
+"ctex": "res://.godot/imported/mp_vertical health indicator wood frame1_copper1.png-d1c0b5dfd67e5d335e3bdcc7678418c5.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_vertical health indicator wood frame1/mp_vertical health indicator wood frame1_metal sheet_health indicator new hardware1.png",
+"ctex": "res://.godot/imported/mp_vertical health indicator wood frame1_metal sheet_health indicator new hardware1.png-d45439ba448531235e4dba1afa291650.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/mp_vertical health indicator wood frame1/mp_vertical health indicator wood frame1_wood worn albedo.png",
+"ctex": "res://.godot/imported/mp_vertical health indicator wood frame1_wood worn albedo.png-291a96876c4f3c7f6425acc86675fa20.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/shotgun test1/shotgun test1_metal sheet main rotator_copy1.png",
+"ctex": "res://.godot/imported/shotgun test1_metal sheet main rotator_copy1.png-c16fc95a9f031738cf3a7007f6410275.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/shotgun test1/shotgun test1_metal024 pump action painted normal.png",
+"ctex": "res://.godot/imported/shotgun test1_metal024 pump action painted normal.png-efee22ab5eaa918f282460fd26f5a8ca.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/shotgun test1/shotgun test1_metal024 pump action painted normal2.png",
+"ctex": "res://.godot/imported/shotgun test1_metal024 pump action painted normal2.png-f1a93b3ede76c583ced1fcbb3a00ea6d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/shotgun test1/shotgun test1_metal24 pump action painted.png",
+"ctex": "res://.godot/imported/shotgun test1_metal24 pump action painted.png-70fad8c6a651c31f05bc91fb8ec9ecc4.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/shotgun test1/shotgun test1_metal24 pump action painted2.png",
+"ctex": "res://.godot/imported/shotgun test1_metal24 pump action painted2.png-809336ed6dadf86a8b0a0cf9256dbc5e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/shotgun test1/shotgun test1_TCom_Wood_Worn2_512_normal.png",
+"ctex": "res://.godot/imported/shotgun test1_TCom_Wood_Worn2_512_normal.png-cd0bcd318ed3f16351ca4e17a66844cb.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/shotgun test1/shotgun test1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/shotgun test1_TexturesCom_MetalSheet_Aged_512_normal.png-e5277631cbfee916c75e244bb721c5a2.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/shotgun test1/shotgun test1_wood worn albedo.png",
+"ctex": "res://.godot/imported/shotgun test1_wood worn albedo.png-e4b809a076b15d71ec988b5dd75d7b54.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_main padding item remover1/table mp_main padding item remover1_metal sheet_lower table1.png",
+"ctex": "res://.godot/imported/table mp_main padding item remover1_metal sheet_lower table1.png-bca5d78c35b65e01871ca55cd3b5976a.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_main padding item remover1/table mp_main padding item remover1_tabletop felt highres9.png",
+"ctex": "res://.godot/imported/table mp_main padding item remover1_tabletop felt highres9.png-1071e778cb17db973f80c427fa5a9778.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_main padding item remover1/table mp_main padding item remover1_TexturesCom_MetalSheet_Aged_512_normal.png",
+"ctex": "res://.godot/imported/table mp_main padding item remover1_TexturesCom_MetalSheet_Aged_512_normal.png-586cbfb178aff210c5d2e26048ab392d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_main padding with health indicator side2/table mp_main padding with health indicator side2_metal sheet_health indicator side paint1.png",
+"ctex": "res://.godot/imported/table mp_main padding with health indicator side2_metal sheet_health indicator side paint1.png-68d45966c977db5b1fe8abf798d2a63c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_main padding with health indicator side2/table mp_main padding with health indicator side2_tabletop main4.png",
+"ctex": "res://.godot/imported/table mp_main padding with health indicator side2_tabletop main4.png-249d07215c7e7076f2872416fc4161e4.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_new frame1/table mp_new frame1_wood worn albedo.png",
+"ctex": "res://.godot/imported/table mp_new frame1_wood worn albedo.png-413019cda037ee2779f4893f338d0531.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine hinge1/table mp_shell sequence machine hinge1_metal sheet shell sequence machine base13.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine hinge1_metal sheet shell sequence machine base13.png-afa23e375c9971c7ecace31295cbc22b.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine1/table mp_shell sequence machine1_metal sheet shell sequence machine base13.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine1_metal sheet shell sequence machine base13.png-cd165ddf5c8997820b28a87b9e8e613d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine1/table mp_shell sequence machine1_metal sheet shell sequence machine upper base1.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine1_metal sheet shell sequence machine upper base1.png-58840ecb1dd491fd56b10bc3851e8617.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine1/table mp_shell sequence machine1_Metal023_1K-JPG_Color_edited.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine1_Metal023_1K-JPG_Color_edited.png-14c86e235ab6e537d188aea62bd6a6be.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine1/table mp_shell sequence machine1_tabletop felt highres9.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine1_tabletop felt highres9.png-73fd3cdec5ebe875ee10f81908292333.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine3/table mp_shell sequence machine3_metal sheet shell sequence machine base13.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine3_metal sheet shell sequence machine base13.png-0f84967d01bf435f94c4cd34ac86b7b9.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine3/table mp_shell sequence machine3_metal sheet shell sequence machine under padding base1.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine3_metal sheet shell sequence machine under padding base1.png-c08df74d3fcad122bce84db16a532277.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine3/table mp_shell sequence machine3_metal sheet shell sequence machine upper base1.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine3_metal sheet shell sequence machine upper base1.png-ae462e7cd91cba8ebe65b160093d23af.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine3/table mp_shell sequence machine3_Metal023_1K-JPG_Color_edited.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine3_Metal023_1K-JPG_Color_edited.png-5e15a4a2a16d770b51a6ad53b469bcfe.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/table mp_shell sequence machine3/table mp_shell sequence machine3_tabletop felt highres9.png",
+"ctex": "res://.godot/imported/table mp_shell sequence machine3_tabletop felt highres9.png-8f25088f456b0fd1986b36ce6cd2ddb6.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/tabletop blockout2/tabletop blockout2_health indicator paint2.png",
+"ctex": "res://.godot/imported/tabletop blockout2_health indicator paint2.png-2867e40104c35b7426d14a06b1e905e0.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/tabletop blockout2/tabletop blockout2_metal sheet main rotator_darkened3.png",
+"ctex": "res://.godot/imported/tabletop blockout2_metal sheet main rotator_darkened3.png-dcf127f3b87c7e24bf11ffafff70c3d9.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/tabletop blockout2/tabletop blockout2_tabletop main4.png",
+"ctex": "res://.godot/imported/tabletop blockout2_tabletop main4.png-48c4e93a6f954d381306599d70af0154.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/tabletop blockout2/tabletop blockout2_wood worn albedo.png",
+"ctex": "res://.godot/imported/tabletop blockout2_wood worn albedo.png-3e0c4a6adaf5ba7c77027df6f4c50c61.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/tabletop inner circle plates1/tabletop inner circle plates1_tabletop main4.png",
+"ctex": "res://.godot/imported/tabletop inner circle plates1_tabletop main4.png-6b41f31ee92bd7bb047ba60ba2398ef7.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/tabletops/turn order indicator1/turn order indicator1_thirty.png",
+"ctex": "res://.godot/imported/turn order indicator1_thirty.png-451b56d433fd9e944460b709d2d50c61.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/models/temporary/temp mesh_main hand grabbing1/temp mesh_main hand grabbing2_skin base hand_left.png",
+"ctex": "res://.godot/imported/temp mesh_main hand grabbing2_skin base hand_left.png-04a859a37184aa261124c0492d117030.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/chimney backdrop1.png",
+"ctex": "res://.godot/imported/chimney backdrop1.png-de77eda090f9b44140cac6c92e6cf9d4.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/concrete plane1_overlay1.png",
+"ctex": "res://.godot/imported/concrete plane1_overlay1.png-ad4c63e56b0103043cde6f63be0d9f6e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/health counter winner state temp1.png",
+"ctex": "res://.godot/imported/health counter winner state temp1.png-1275a1547b0a241a2c5ba1fb69db6117.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface5.png",
+"ctex": "res://.godot/imported/jammer interface5.png-bef545fca43a903f5615deee63703e22.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer4 edited.png",
+"ctex": "res://.godot/imported/jammer4 edited.png-6e1e0c36d601a9deede342b5fe944e9d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer4 edited2.png",
+"ctex": "res://.godot/imported/jammer4 edited2.png-6182ab48e865f1464e1989342758c7af.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer5.png",
+"ctex": "res://.godot/imported/jammer5.png-ec9aa64bb6d2d08459130f35c8cdb41c.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_blood splatter1.png",
+"ctex": "res://.godot/imported/mp_blood splatter1.png-2c98f48fe5919bf868f9fb08f83d781d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_blood splatter2.png",
+"ctex": "res://.godot/imported/mp_blood splatter2.png-eb84ee590eece8dc2eb6254609dcfc43.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_health counter charge1.png",
+"ctex": "res://.godot/imported/mp_health counter charge1.png-bba04b908c4a65e99d88a18ecd3f84ff.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_muzzle flash5.png",
+"ctex": "res://.godot/imported/mp_muzzle flash5.png-b15fea3312970145217d003e32badcf0.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_phone screen backdrop cracked.png",
+"ctex": "res://.godot/imported/mp_phone screen backdrop cracked.png-8d620a249c4b004dbb23853304ad09e4.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_phone screen backdrop cracked2.png",
+"ctex": "res://.godot/imported/mp_phone screen backdrop cracked2.png-0a0313aea2a405fe2c80ed85c43542e2.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_phone screen backdrop.png",
+"ctex": "res://.godot/imported/mp_phone screen backdrop.png-3c0ad7bb71121ae227fd3e2c55c8928f.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_round indicator base.png",
+"ctex": "res://.godot/imported/mp_round indicator base.png-f861d60ab0be6d81ea2647fe97b74a16.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_round indicator circle.png",
+"ctex": "res://.godot/imported/mp_round indicator circle.png-15bc9fea1440c0885d0cb832b8143894.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_shell blank default.png",
+"ctex": "res://.godot/imported/mp_shell blank default.png-48aa178bfa507dc35c9b6afcaa3ecb74.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_shell blank default1.png",
+"ctex": "res://.godot/imported/mp_shell blank default1.png-997989d723c271658b8b162a76e689ee.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_shell live colorblind.png",
+"ctex": "res://.godot/imported/mp_shell live colorblind.png-0dc7ba1b812a543ff02042223e80fb77.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_shell live default.png",
+"ctex": "res://.godot/imported/mp_shell live default.png-a9b69ee8d034b916ec6ed2fe85b1a10e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/mp_shell unknown default1.png",
+"ctex": "res://.godot/imported/mp_shell unknown default1.png-4b8ced0becb2580f115eaedd148d5fb6.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/pink_sunrise_1k.hdr",
+"ctex": "res://.godot/imported/pink_sunrise_1k.hdr-24d291576c4e456a512fa9adcba2753f.bptc.ctex"
+},
+{
+"src": "res://multiplayer/textures/tabletop felt highres9.png",
+"ctex": "res://.godot/imported/tabletop felt highres9.png-c9d2d01a6e89ede9be0779dd9de81df9.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/window mask overlay1.png",
+"ctex": "res://.godot/imported/window mask overlay1.png-24f9f1e47e401a8fd29b27f5d6c7a9df.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/window mask overlay2.png",
+"ctex": "res://.godot/imported/window mask overlay2.png-0032c4f817a8fc1aa613c2a71dcc8231.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface/jammer interface3_blank.png",
+"ctex": "res://.godot/imported/jammer interface3_blank.png-d670f5b78b526b665dd190336ae37411.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface/jammer interface3_frame.png",
+"ctex": "res://.godot/imported/jammer interface3_frame.png-639c84fc49fc7d17ebf150fd67a1336d.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface/jammer interface3_grid bootup1.png",
+"ctex": "res://.godot/imported/jammer interface3_grid bootup1.png-58a183c7707430a056a148ddb4a79cc7.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface/jammer interface3_idle.png",
+"ctex": "res://.godot/imported/jammer interface3_idle.png-19b4ff099c33b91976687a44f423c1d8.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface/jammer interface3_select forward.png",
+"ctex": "res://.godot/imported/jammer interface3_select forward.png-65cca63a00d934e4a3c0355af163ded6.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface/jammer interface3_select left.png",
+"ctex": "res://.godot/imported/jammer interface3_select left.png-dd822cb009a2d315beca7a84cb22707e.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface/jammer interface3_select right.png",
+"ctex": "res://.godot/imported/jammer interface3_select right.png-dee0aa692aeb5076b35c1111d5595555.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface/jammer interface3_tracker.png",
+"ctex": "res://.godot/imported/jammer interface3_tracker.png-85727232bceaf0284622e08626eb5848.s3tc.ctex"
+},
+{
+"src": "res://multiplayer/textures/jammer interface/jammer screen dirt overlay.png",
+"ctex": "res://.godot/imported/jammer screen dirt overlay.png-43eed6a1ad791d24de6962af66741e06.s3tc.ctex"
+},
+{
+"src": "res://textures/expired medicine texture corrected1.png",
+"ctex": "res://.godot/imported/expired medicine texture corrected1.png-49e123ed3bc9ad897d948a5ed10bbb9b.s3tc.ctex"
+},
+{
+"src": "res://textures/release form new2.png",
+"ctex": "res://.godot/imported/release form new2.png-403f599d727aac7ed688d73637f0a7c5.s3tc.ctex"
+},
+{
+"src": "res://textures/smoke.png",
+"ctex": "res://.godot/imported/smoke.png-ca92037af54291e7c4ac41b03252fb32.s3tc.ctex"
+},
+{
+"src": "res://textures/tabletop compartment grid_new.png",
+"ctex": "res://.godot/imported/tabletop compartment grid_new.png-fa9a0ce17ee3619b955686c1ccea10ea.s3tc.ctex"
+},
+{
+"src": "res://textures/blood/layer0.png",
+"ctex": "res://.godot/imported/layer0.png-4e7b512e6fad186247014394b17357e9.s3tc.ctex"
+},
+{
+"src": "res://textures/blood/layer3.png",
+"ctex": "res://.godot/imported/layer3.png-a18a8a1c3226769d994175f9e037cbe5.s3tc.ctex"
+},
+{
+"src": "res://textures/brass main menu/brass texture_shell marking albedo desat.png",
+"ctex": "res://.godot/imported/brass texture_shell marking albedo desat.png-90ea8e8284d8ab80acb8b8e246c4efb4.s3tc.ctex"
+},
+{
+"src": "res://textures/brass main menu/brass texture_shell marking albedo.png",
+"ctex": "res://.godot/imported/brass texture_shell marking albedo.png-1657ebbaa1443327478374917a785e3f.s3tc.ctex"
+},
+{
+"src": "res://textures/brass main menu/brass texture_shell marking improved albedo.png",
+"ctex": "res://.godot/imported/brass texture_shell marking improved albedo.png-43c91f6a6d8f19a9207aec365bfb932c.s3tc.ctex"
+},
+{
+"src": "res://textures/brass main menu/brass texture_shell marking improved normal.png",
+"ctex": "res://.godot/imported/brass texture_shell marking improved normal.png-45e10d703951d86034179d0b0004ef58.s3tc.ctex"
+},
+{
+"src": "res://textures/brass main menu/brass texture_shell marking normal.png",
+"ctex": "res://.godot/imported/brass texture_shell marking normal.png-01f0a55290fdd946709d690c9b1e9f73.s3tc.ctex"
+}
+]

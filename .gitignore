@@ -1,0 +1,9 @@
+build/
+*.pck
+*.ipa
+*.log
+.DS_Store
+# original shipped binary — not part of the port source
+*.exe
+*.dll
+steam_appid.txt

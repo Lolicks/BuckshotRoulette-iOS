@@ -1,0 +1,1384 @@
+bdbec74c6e5bd72edee867077d70896c
+::res://::1795469965
+export_presets.cfg::TextFile::-1::1795466355::0::1::::<><>::
+steam_stub.gd::GDScript::-1::1795465812::0::1::::<>Node<>::
+::res://audio/::1795466311
+::res://audio/music/::1795466311
+::res://fonts/::1795466311
+::res://fonts/fonts language/::1795466311
+::res://GodotRetro/::1795466311
+::res://GodotRetro/Object Shaders/::1795466311
+::res://GodotRetro/Object Shaders/Debug/::1795466311
+helloworld2-2d.gdshader::Shader::-1::1795465279::0::1::::<><>::
+helloworld2.gdshader::Shader::-1::1795465279::0::1::::<><>::
+helloworld-2d.gdshader::Shader::-1::1795465279::0::1::::<><>::
+helloworld.gdshader::Shader::-1::1795465279::0::1::::<><>::
+::res://GodotRetro/Object Shaders/PSX Shaders/::1795466311
+psx_lit.gdshader::Shader::-1::1795465279::0::1::::<><>::
+psx_unlit.gdshader::Shader::-1::1795465279::0::1::::<><>::
+::res://GodotRetro/Other/::1795466311
+::res://GodotRetro/Other/Images/::1795469989
+grain.jpg::CompressedTexture2D::8458096452168245866::0::0::1::::<><>::
+::res://GodotRetro/Screen Shaders/::1795466311
+AccurateCRT.gdshader::Shader::-1::1795465279::0::1::::<><>::
+Glitch.gdshader::Shader::-1::1795465279::0::1::::<><>::
+Grain.gdshader::Shader::-1::1795465279::0::1::::<><>::
+JpegCompression.gdshader::Shader::-1::1795465279::0::1::::<><>::
+LensDistortion.gdshader::Shader::-1::1795465279::0::1::::<><>::
+NTSC.gdshader::Shader::-1::1795465279::0::1::::<><>::
+NTSCBasic.gdshader::Shader::-1::1795465279::0::1::::<><>::
+SimpleGlitch.gdshader::Shader::-1::1795465279::0::1::::<><>::
+SimpleGrain.gdshader::Shader::-1::1795465279::0::1::::<><>::
+TV.gdshader::Shader::-1::1795465279::0::1::::<><>::
+VHS.gdshader::Shader::-1::1795465279::0::1::::<><>::
+VHSPause.gdshader::Shader::-1::1795465279::0::1::::<><>::
+::res://GodotRetro/Screen Shaders/Aditional Shaders/::1795466311
+B&W.gdshader::Shader::-1::1795465279::0::1::::<><>::
+BetterCC.gdshader::Shader::-1::1795465279::0::1::::<><>::
+Blur.gdshader::Shader::-1::1795465279::0::1::::<><>::
+ColorPrecission.gdshader::Shader::-1::1795465279::0::1::::<><>::
+Dithering.gdshader::Shader::-1::1795465279::0::1::::<><>::
+Sharpness.gdshader::Shader::-1::1795465279::0::1::::<><>::
+::res://instances/::1795466311
+player.gd::GDScript::-1::1795465279::0::1::::Player<>CharacterBody3D<>::
+::res://localization/::1795466311
+Buckshot Roulette - Localization Sheet - Sheet26.BR.translation::OptimizedTranslation::1947811450160924504::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.DE.translation::OptimizedTranslation::5211864074044046193::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.EE.translation::OptimizedTranslation::8018935057983150092::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.EN.translation::OptimizedTranslation::5955273629207183735::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.ES LATAM.translation::OptimizedTranslation::7685780288612851067::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.ES.translation::OptimizedTranslation::6679323929773041313::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.FR.translation::OptimizedTranslation::8441189733138947468::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.IT.translation::OptimizedTranslation::5673902368006533713::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.JA.translation::OptimizedTranslation::8212078460588992730::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.KO.translation::OptimizedTranslation::3265037410608937680::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.PL.translation::OptimizedTranslation::4810135057532056576::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.PT.translation::OptimizedTranslation::3006195897011262221::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.RU.translation::OptimizedTranslation::8333351511807404041::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.TR.translation::OptimizedTranslation::2257828840608714523::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.UA.translation::OptimizedTranslation::5408384274181144841::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.ZHS.translation::OptimizedTranslation::4172591651057078391::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet26.ZHT.translation::OptimizedTranslation::1217447677200999932::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.BR.translation::OptimizedTranslation::7938887254420831382::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.DE.translation::OptimizedTranslation::1754748048985269066::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.EE.translation::OptimizedTranslation::8427115954689208473::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.EN.translation::OptimizedTranslation::7593429300173689779::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.ES LATAM.translation::OptimizedTranslation::1325121246904632572::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.ES.translation::OptimizedTranslation::4784386920205866754::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.FR.translation::OptimizedTranslation::5006680356321034424::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.IT.translation::OptimizedTranslation::7693903665626333547::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.JA.translation::OptimizedTranslation::1619874214506202414::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.KO.translation::OptimizedTranslation::4590873461130997786::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.PL.translation::OptimizedTranslation::2062887847271718704::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.PT.translation::OptimizedTranslation::1102365960508825747::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.RU.translation::OptimizedTranslation::8582609949011785024::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.TR.translation::OptimizedTranslation::16941631462730892::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.UA.translation::OptimizedTranslation::1893264915825880329::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.ZHS.translation::OptimizedTranslation::8473404292388362024::1795465279::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - Sheet47.ZHT.translation::OptimizedTranslation::7008726063111069479::1795465279::0::1::::<><>::
+::res://main player/::1795466311
+posterization test.gdshader::Shader::-1::1795465279::0::1::::<><>::
+vignette.gdshader::Shader::-1::1795465279::0::1::::<><>::
+::res://materials/::1795466311
+::res://misc/::1795469996
+bracket selection_briefcase intake1.png::CompressedTexture2D::1170474238579406779::1795469990::1795470681::1::::<><>::
+bracket selection_square1.png::CompressedTexture2D::7680760312769271896::1795469990::1795470681::1::::<><>::
+bracket selection_square2 inverted.png::CompressedTexture2D::5351177332440536258::1795469990::1795470681::1::::<><>::
+bracket selection_square2.png::CompressedTexture2D::4882719747961366539::1795469990::1795470681::1::::<><>::
+bracket selection_square3.png::CompressedTexture2D::8987007048151586486::1795469990::1795470682::1::::<><>::
+CR White splash.png::CompressedTexture2D::8307105629012566735::1795465279::1795469855::1::::<><>::
+crt buttons3_window.png::CompressedTexture2D::3726724656036450838::1795469991::1795470682::1::::<><>::
+crt icon_friends inactive.png::CompressedTexture2D::1749644247342446423::1795469991::1795470682::1::::<><>::
+crt icon_friends.png::CompressedTexture2D::4546025573540203910::1795469991::1795470682::1::::<><>::
+crt icon_global overview.png::CompressedTexture2D::5513058269734331423::1795469991::1795470682::1::::<><>::
+crt icon_line.png::CompressedTexture2D::280418798484243687::1795469991::1795470682::1::::<><>::
+crt icon_player stats inactive.png::CompressedTexture2D::2489375296579671994::1795469991::1795470682::1::::<><>::
+crt icon_player stats.png::CompressedTexture2D::3562742540058180447::1795469991::1795470682::1::::<><>::
+crt icon_top leaderboard.png::CompressedTexture2D::9120500404904988807::1795469991::1795470682::1::::<><>::
+defib charge broke5.png::CompressedTexture2D::705223817905963768::1795469991::1795470682::1::::<><>::
+defib charge broke6.png::CompressedTexture2D::3985042297470729759::1795469991::1795470682::1::::<><>::
+defib charge broken4.png::CompressedTexture2D::1708057997421480464::1795469991::1795470682::1::::<><>::
+defib charge png.png::CompressedTexture2D::1060356729094643666::1795469992::1795470682::1::::<><>::
+defib charge_excl.png::CompressedTexture2D::2670892068222547141::1795469992::1795470682::1::::<><>::
+defib charge_skull png.png::CompressedTexture2D::6816172597920138676::1795469992::1795470682::1::::<><>::
+display round indicator.png::CompressedTexture2D::562703322885869910::1795469992::1795470683::1::::<><>::
+display rounds.png::CompressedTexture2D::4812303742789985644::1795469992::1795470683::1::::<><>::
+health counter corruption.png::CompressedTexture2D::1258992741116195062::1795469992::1795470683::1::::<><>::
+icon1.png::CompressedTexture2D::7486539341489767167::1795465279::1795469854::1::::<><>::
+lock icon.png::CompressedTexture2D::3098927044303050127::1795469992::1795470683::1::::<><>::
+logo1 main2.png::CompressedTexture2D::4919959903271187512::1795469994::1795470686::1::::<><>::
+logo1 main buckshot1.png::CompressedTexture2D::7202840484278796461::1795469992::1795470684::1::::<><>::
+logo1 main buckshot2.png::CompressedTexture2D::3949420526748412975::1795469993::1795470686::1::::<><>::
+logo1 main.png::CompressedTexture2D::2523356346882109978::1795469994::1795470686::1::::<><>::
+no connection.png::CompressedTexture2D::1193860621433777796::1795469994::1795470677::1::::<><>::
+phone screen backdrop cracked2.png::CompressedTexture2D::5021926691076563456::1795469994::1795470677::1::::<><>::
+phone screen backdrop cracked23.png::CompressedTexture2D::2595432757732851620::1795469995::1795470678::1::::<><>::
+phone screen backdrop cracked.png::CompressedTexture2D::8499303241501211318::1795469994::1795470678::1::::<><>::
+phone screen backdrop UI.png::CompressedTexture2D::8494004058644061153::1795469995::1795470678::1::::<><>::
+release form bloody god.png::CompressedTexture2D::6877785750854980959::1795469996::1795470679::1::::<><>::
+title_buckshot1.png::CompressedTexture2D::6373498697606417772::1795469996::1795470681::1::::<><>::
+xanax label new1.png::CompressedTexture2D::3612757105776932539::1795469996::1795470678::1::::<><>::
+yes no stereo lingual.png::CompressedTexture2D::4860118625691597184::1795469996::1795470678::1::::<><>::
+::res://models/::1795470000
+dealer flow1_burner phone2.png::CompressedTexture2D::7804259183783940259::1795469997::1795470582::1::::<><>::
+dealer flow1_copy1.png::CompressedTexture2D::6909252025221075191::1795469998::1795470582::1::::<><>::
+dealer flow1_mp_items2_worn bare darkened.png::CompressedTexture2D::3881674671515382175::1795469998::1795470582::1::::<><>::
+dealer flow1_skin base copy.png::CompressedTexture2D::1208838021384118911::1795469998::1795470583::1::::<><>::
+tabletop interior1_tabletop interior device.png::CompressedTexture2D::2698984658090509190::1795470000::1795470583::1::::<><>::
+::res://models/adrenaline without pointers/::1795470003
+adrenalline without pointers1_aehathateh.png::CompressedTexture2D::1625491201446071722::1795470000::1795470678::1::::<><>::
+adrenalline without pointers1_brass albedo1.png::CompressedTexture2D::8952412322384425152::1795470000::1795470678::1::::<><>::
+adrenalline without pointers1_syringe test2.png::CompressedTexture2D::8335245683022226218::1795470002::1795470680::1::::<><>::
+adrenalline without pointers1_valve thing.png::CompressedTexture2D::6010393391664232477::1795470003::1795470679::1::::<><>::
+::res://models/backroom blockout3/::1795470018
+backroom blockout4_5145UYCSGoL.png::CompressedTexture2D::4295904576887789489::1795470003::1795470680::1::::<><>::
+backroom blockout4_boombox.png::CompressedTexture2D::1787642388840798306::1795470003::1795470680::1::::<><>::
+backroom blockout4_brick industrial png.png::CompressedTexture2D::8979323515299094986::1795470003::1795470680::1::::<><>::
+backroom blockout4_cigarette.png::CompressedTexture2D::3310646383256385285::1795470003::1795470680::1::::<><>::
+backroom blockout4_concrete dark png.png::CompressedTexture2D::361411067310343753::1795470004::1795470680::1::::<><>::
+backroom blockout4_dirt.png::CompressedTexture2D::4715555158012603993::1795470004::1795470680::1::::<><>::
+backroom blockout4_document1.png::CompressedTexture2D::8660104444094880187::1795470004::1795470680::1::::<><>::
+backroom blockout4_fire extinguisher label.png::CompressedTexture2D::163076401514497243::1795470004::1795470680::1::::<><>::
+backroom blockout4_fixture.png::CompressedTexture2D::1709060295154372605::1795470005::1795470681::1::::<><>::
+backroom blockout4_magazine1.png::CompressedTexture2D::7353768196155501129::1795470005::1795470681::1::::<><>::
+backroom blockout4_magazine2.png::CompressedTexture2D::7503437518706009183::1795470005::1795470681::1::::<><>::
+backroom blockout4_matchbox1.png::CompressedTexture2D::295803337557072229::1795470006::1795470681::1::::<><>::
+backroom blockout4_metal_0018 darkened.png::CompressedTexture2D::8491489631857824067::1795470006::1795470681::1::::<><>::
+backroom blockout4_metal_0018_color_1k.png::CompressedTexture2D::8623175116001602569::1795470006::1795470681::1::::<><>::
+backroom blockout4_paper normal map.png::CompressedTexture2D::7000633014473844766::1795470007::1795470691::1::::<><>::
+backroom blockout4_paper normal map_25.png::CompressedTexture2D::2792649861795807605::1795470008::1795470692::1::::<><>::
+backroom blockout4_paperwork1.png::CompressedTexture2D::3946655846996152885::1795470008::1795470691::1::::<><>::
+backroom blockout4_paperwork1_with coffee leak.png::CompressedTexture2D::6602896013690142393::1795470008::1795470691::1::::<><>::
+backroom blockout4_paperwork2.png::CompressedTexture2D::3609370005881653582::1795470008::1795470691::1::::<><>::
+backroom blockout4_paperwork3.png::CompressedTexture2D::4981460320052440974::1795470008::1795470691::1::::<><>::
+backroom blockout4_paperwork4.png::CompressedTexture2D::1987781740542393571::1795470009::1795470691::1::::<><>::
+backroom blockout4_rough steel darkened png.png::CompressedTexture2D::2293673688100906800::1795470010::1795470691::1::::<><>::
+backroom blockout4_rough steel darkened.png::CompressedTexture2D::5947997805423322805::1795470011::1795470691::1::::<><>::
+backroom blockout4_TCom_AudioEquipment0039_1_M.png::CompressedTexture2D::4948006847688679758::1795470014::1795470694::1::::<><>::
+backroom blockout4_TCom_AudioEquipment0068_S.png::CompressedTexture2D::9155943030980787440::1795470014::1795470692::1::::<><>::
+backroom blockout4_TCom_WoodPlanksFloors0026_1_seamless_S.png::CompressedTexture2D::6499848193544629872::1795470015::1795470693::1::::<><>::
+backroom blockout4_TexturesCom_Metal_SteelRough2_512_normal.png::CompressedTexture2D::2379852763105002809::1795470016::1795470693::1::::<><>::
+backroom blockout4_TexturesCom_OldWood2_512_albedo.png::CompressedTexture2D::2925268111283623956::1795470016::1795470693::1::::<><>::
+backroom blockout4_TexturesCom_OldWood2_512_normal.png::CompressedTexture2D::5045384155243062485::1795470016::1795470693::1::::<><>::
+backroom blockout4_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::1668819212727768575::1795470016::1795470693::1::::<><>::
+backroom blockout4_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::4320997840675780805::1795470017::1795470694::1::::<><>::
+backroom blockout4_TexturesCom_WornMetal_512_albedo.png::CompressedTexture2D::7747799200082690982::1795470017::1795470693::1::::<><>::
+backroom blockout4_wood worn albedo.png::CompressedTexture2D::5882357971072457843::1795470018::1795470694::1::::<><>::
+backroom blockout4_worn bare metal red lightened.png::CompressedTexture2D::2119343481367712809::1795470018::1795470694::1::::<><>::
+backroom blockout4_worn metal png.png::CompressedTexture2D::7568675101771728800::1795470018::1795470694::1::::<><>::
+::res://models/backroom blockout5/::1795470042
+backroom blockout6_5145UYCSGoL.png::CompressedTexture2D::6553054139670630485::1795470019::1795470695::1::::<><>::
+backroom blockout6_boombox.png::CompressedTexture2D::7888225307373440805::1795470019::1795470694::1::::<><>::
+backroom blockout6_brick industrial png.png::CompressedTexture2D::8595190436436744734::1795470019::1795470694::1::::<><>::
+backroom blockout6_cigarette.png::CompressedTexture2D::6674757080844733495::1795470019::1795470694::1::::<><>::
+backroom blockout6_circuitboards.png::CompressedTexture2D::1691474248741279499::1795470021::1795470697::1::::<><>::
+backroom blockout6_concrete dark png.png::CompressedTexture2D::1535087382413205056::1795470021::1795470695::1::::<><>::
+backroom blockout6_dirt.png::CompressedTexture2D::3462752680718479327::1795470022::1795470695::1::::<><>::
+backroom blockout6_document1.png::CompressedTexture2D::7154061973994623240::1795470022::1795470685::1::::<><>::
+backroom blockout6_edfited.png::CompressedTexture2D::4675387954325898364::1795470022::1795470685::1::::<><>::
+backroom blockout6_fire extinguisher label.png::CompressedTexture2D::7332724488650348285::1795470022::1795470685::1::::<><>::
+backroom blockout6_fixture.png::CompressedTexture2D::314666104800224601::1795470023::1795470686::1::::<><>::
+backroom blockout6_magazine1.png::CompressedTexture2D::5357144515357652600::1795470023::1795470686::1::::<><>::
+backroom blockout6_magazine2.png::CompressedTexture2D::6145348704934605621::1795470023::1795470686::1::::<><>::
+backroom blockout6_matchbox1.png::CompressedTexture2D::390832435531251688::1795470024::1795470686::1::::<><>::
+backroom blockout6_metal_0018 darkened.png::CompressedTexture2D::6870472047808736087::1795470024::1795470687::1::::<><>::
+backroom blockout6_metal_0018_color_1k.png::CompressedTexture2D::162699131357862786::1795470024::1795470687::1::::<><>::
+backroom blockout6_paper normal map.png::CompressedTexture2D::3228711500927802087::1795470025::1795470687::1::::<><>::
+backroom blockout6_paper normal map_33.png::CompressedTexture2D::227212138246712815::1795470026::1795470688::1::::<><>::
+backroom blockout6_paperwork1.png::CompressedTexture2D::6556872363866802271::1795470026::1795470687::1::::<><>::
+backroom blockout6_paperwork1_with coffee leak.png::CompressedTexture2D::5490496746426721982::1795470026::1795470687::1::::<><>::
+backroom blockout6_paperwork2.png::CompressedTexture2D::7299094401530573125::1795470026::1795470687::1::::<><>::
+backroom blockout6_paperwork3.png::CompressedTexture2D::1349516465035957078::1795470026::1795470687::1::::<><>::
+backroom blockout6_paperwork4.png::CompressedTexture2D::1934495906506962463::1795470026::1795470687::1::::<><>::
+backroom blockout6_rough steel darkened png.png::CompressedTexture2D::6594764642998691986::1795470027::1795470687::1::::<><>::
+backroom blockout6_rough steel darkened.png::CompressedTexture2D::3395886440433729239::1795470027::1795470688::1::::<><>::
+backroom blockout6_tabletop felt normal.png::CompressedTexture2D::3613287371854724499::1795470029::1795470690::1::::<><>::
+backroom blockout6_tabletop felt shell compartment.png::CompressedTexture2D::8310018395033335308::1795470030::1795470688::1::::<><>::
+backroom blockout6_tabletop felt shotgun radius compartment2.png::CompressedTexture2D::783570359116488844::1795470031::1795470689::1::::<><>::
+backroom blockout6_tabletop felt shotgun radius with lines greyed out.png::CompressedTexture2D::4208960740684931144::1795470032::1795470688::1::::<><>::
+backroom blockout6_tabletop felt_without lines.png::CompressedTexture2D::6016764600389998236::1795470033::1795470689::1::::<><>::
+backroom blockout6_TCom_AudioEquipment0039_1_M.png::CompressedTexture2D::6601873741510891107::1795470035::1795470691::1::::<><>::
+backroom blockout6_TCom_AudioEquipment0068_S.png::CompressedTexture2D::1737905079031753509::1795470036::1795470689::1::::<><>::
+backroom blockout6_TCom_WoodPlanksFloors0026_1_seamless_S.png::CompressedTexture2D::5360030972613238544::1795470037::1795470691::1::::<><>::
+backroom blockout6_TexturesCom_Metal_SteelRough2_512_normal.png::CompressedTexture2D::833794707536774399::1795470037::1795470690::1::::<><>::
+backroom blockout6_TexturesCom_OldWood2_512_albedo.png::CompressedTexture2D::1809747621197570504::1795470038::1795470654::1::::<><>::
+backroom blockout6_TexturesCom_OldWood2_512_normal.png::CompressedTexture2D::7658668094307473506::1795470038::1795470655::1::::<><>::
+backroom blockout6_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::4940512130344579272::1795470038::1795470655::1::::<><>::
+backroom blockout6_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::7015906380005074707::1795470039::1795470655::1::::<><>::
+backroom blockout6_TexturesCom_WornMetal_512_albedo.png::CompressedTexture2D::7458351116329920190::1795470040::1795470655::1::::<><>::
+backroom blockout6_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::7713295513903822364::1795470040::1795470657::1::::<><>::
+backroom blockout6_wood worn albedo.png::CompressedTexture2D::7205088277233049736::1795470041::1795470657::1::::<><>::
+backroom blockout6_worn bare darkened.png::CompressedTexture2D::3704885398888326875::1795470041::1795470658::1::::<><>::
+backroom blockout6_worn bare metal red lightened.png::CompressedTexture2D::8426061005951501939::1795470041::1795470658::1::::<><>::
+backroom blockout6_worn metal png.png::CompressedTexture2D::3839914175402815781::1795470042::1795470658::1::::<><>::
+::res://models/backroom upper cable/::1795470042
+backroom upper cables1_rough steel darkened png.png::CompressedTexture2D::4772221111688757655::1795470042::1795470658::1::::<><>::
+::res://models/bird1/::1795470045
+bird4_angel base.png::CompressedTexture2D::3772750804477566880::1795470045::1795470660::1::::<><>::
+::res://models/bird copy1/::1795470043
+bird copy1_angel base.png::CompressedTexture2D::7889316872441730634::1795470043::1795470660::1::::<><>::
+::res://models/birthday hat/::1795470048
+birthday hat1_birthday.png::CompressedTexture2D::698451207481692822::1795470046::1795470661::1::::<><>::
+cake2_candle png.png::CompressedTexture2D::404400964166497438::1795470046::1795470660::1::::<><>::
+cake2_soil-none-5i4x9p.png::CompressedTexture2D::1543439844474839434::1795470048::1795470663::1::::<><>::
+eragreagearg.png::CompressedTexture2D::2506480379215271112::1795470048::1795470663::1::::<><>::
+::res://models/briefcase machine/::1795470050
+briefcase machine1_briefcase machine tex.png::CompressedTexture2D::207713648570046577::1795470049::1795470663::1::::<><>::
+briefcase machine1_metal sheet briefcasen ew.png::CompressedTexture2D::8099713125152575831::1795470050::1795470663::1::::<><>::
+briefcase machine1_money4.png::CompressedTexture2D::8295442558906932499::1795470050::1795470664::1::::<><>::
+briefcase machine1_paper stack side money.png::CompressedTexture2D::7255805280170512079::1795470050::1795470664::1::::<><>::
+briefcase machine1_tabletop briefcase1_carbon fiber normal png.png::CompressedTexture2D::9050843773250980791::1795470050::1795470664::1::::<><>::
+briefcase machine1_tabletop export6_carbon fiber albedo png.png::CompressedTexture2D::1808991202771952214::1795470050::1795470664::1::::<><>::
+::res://models/crt/::1795470061
+crt main1_bvm_front edited2.png::CompressedTexture2D::4845500537751506000::1795470051::1795470664::1::::<><>::
+crt main1_bvm_side edited bw desat1.png::CompressedTexture2D::1131619065279183975::1795470052::1795470665::1::::<><>::
+crt main1_bvm_side edited bw desat.png::CompressedTexture2D::1788022458467456079::1795470051::1795470665::1::::<><>::
+crt main1_ceramic 512.png::CompressedTexture2D::7118836694993968071::1795470052::1795470665::1::::<><>::
+crt main1_crt buttons2.png::CompressedTexture2D::4279520033288883718::1795470053::1795470647::1::::<><>::
+crt main1_meat.png::CompressedTexture2D::6026398262383418580::1795470053::1795470646::1::::<><>::
+crt main1_soap.png::CompressedTexture2D::968560573254495734::1795470053::1795470647::1::::<><>::
+crt main1_TCom_Grungemaps0164_1_S.png::CompressedTexture2D::5509729015487000436::1795470054::1795470647::1::::<><>::
+crt main1_tiles broken 1024 albedo.png::CompressedTexture2D::5683539097410989062::1795470055::1795470648::1::::<><>::
+crt main1_tiles broken 1024 nromal.png::CompressedTexture2D::5929874588505284930::1795470056::1795470649::1::::<><>::
+crt main1_tiles normal 2048.png::CompressedTexture2D::1821875452177630982::1795470058::1795470651::1::::<><>::
+crt main1_tilies normal 2048 normal map.png::CompressedTexture2D::8504389746816612873::1795470061::1795470657::1::::<><>::
+::res://models/crt sa11/::1795470063
+crt sa1_bvm_front edited2.png::CompressedTexture2D::7641587673132109892::1795470061::1795470648::1::::<><>::
+crt sa1_bvm_side edited bw desat1.png::CompressedTexture2D::845949215893535078::1795470061::1795470649::1::::<><>::
+crt sa1_bvm_side edited bw desat.png::CompressedTexture2D::9049132636550357261::1795470061::1795470650::1::::<><>::
+crt sa1_ceramic 512.png::CompressedTexture2D::8409506232901625585::1795470061::1795470650::1::::<><>::
+crt sa1_meat.png::CompressedTexture2D::7439421926350844024::1795470061::1795470650::1::::<><>::
+crt sa1_soap.png::CompressedTexture2D::6301738168081584902::1795470062::1795470650::1::::<><>::
+crt sa1_TCom_Grungemaps0164_1_S.png::CompressedTexture2D::2238976646948580181::1795470063::1795470651::1::::<><>::
+::res://models/cuff bar/::1795470063
+player cuff bar1_cuff bar.png::CompressedTexture2D::5792025431647308115::1795470063::1795470651::1::::<><>::
+::res://models/dealer flow/::1795470065
+dealer flow1_burner phone2.png::CompressedTexture2D::1100285588959971337::1795470063::1795470651::1::::<><>::
+dealer flow1_copy1.png::CompressedTexture2D::226694704963589811::1795470064::1795470652::1::::<><>::
+dealer flow1_mp_items2_worn bare darkened.png::CompressedTexture2D::279012435870787580::1795470064::1795470652::1::::<><>::
+dealer flow1_skin base copy.png::CompressedTexture2D::4014605626769160295::1795470065::1795470652::1::::<><>::
+::res://models/dealer hand adrenaline/::1795470068
+dealer hands_adrenaline1_aehathateh.png::CompressedTexture2D::4118265714210515323::1795470065::1795470653::1::::<><>::
+dealer hands_adrenaline1_brass albedo1.png::CompressedTexture2D::7619379062252902450::1795470065::1795470653::1::::<><>::
+dealer hands_adrenaline1_skin base hand_left.png::CompressedTexture2D::6409518745561321984::1795470066::1795470653::1::::<><>::
+dealer hands_adrenaline1_syringe test2.png::CompressedTexture2D::8108459830756789015::1795470067::1795470654::1::::<><>::
+dealer hands_adrenaline1_valve thing.png::CompressedTexture2D::6238885714846916884::1795470068::1795470653::1::::<><>::
+::res://models/dealer hand burner phone/::1795470069
+dealer hands_burner phone1_burner phone2.png::CompressedTexture2D::157552468184266179::1795470068::1795470653::1::::<><>::
+dealer hands_burner phone1_skin base hand_left.png::CompressedTexture2D::8387262156937168303::1795470068::1795470655::1::::<><>::
+dealer hands_burner phone1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::274991840694602516::1795470068::1795470672::1::::<><>::
+dealer hands_burner phone1_wood worn albedo.png::CompressedTexture2D::8075062599840463642::1795470069::1795470672::1::::<><>::
+::res://models/dealer hand handcuffed/::1795470070
+dealer hand_handcuffed1_metal sheet copy_handcuffs.png::CompressedTexture2D::3051877649229952055::1795470069::1795470673::1::::<><>::
+dealer hand_handcuffed1_skin base hand_left.png::CompressedTexture2D::5483509241227793695::1795470070::1795470673::1::::<><>::
+dealer hand_handcuffed1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::4103640441030040797::1795470070::1795470673::1::::<><>::
+::res://models/dealer hand zippo/::1795470075
+dealer hand_zippo_Asphalt007_1K_NormalGL.png::CompressedTexture2D::1607291821171306972::1795470072::1795470676::1::::<><>::
+dealer hand_zippo_Metal021_1K_Color.png::CompressedTexture2D::6093871742144251200::1795470073::1795470674::1::::<><>::
+dealer hand_zippo_Metal022_1K_Color.png::CompressedTexture2D::7543682426197554429::1795470074::1795470674::1::::<><>::
+dealer hand_zippo_skin base hand_left.png::CompressedTexture2D::7019625939415613753::1795470075::1795470674::1::::<><>::
+::res://models/dealer hands main/::1795470084
+dealer hands main1_beer can2 no text.png::CompressedTexture2D::5283698226440417685::1795470076::1795470675::1::::<><>::
+dealer hands main1_beer can brighter metal.png::CompressedTexture2D::1337145699694359662::1795470076::1795470675::1::::<><>::
+dealer hands main1_cig box front 2.png::CompressedTexture2D::5703345329393874118::1795470077::1795470675::1::::<><>::
+dealer hands main1_cig box side2.png::CompressedTexture2D::7097642178020438391::1795470077::1795470675::1::::<><>::
+dealer hands main1_cigarette.png::CompressedTexture2D::288931207076047930::1795470077::1795470675::1::::<><>::
+dealer hands main1_health counter metal.png::CompressedTexture2D::7193366362653205675::1795470078::1795470675::1::::<><>::
+dealer hands main1_magnifying glass.png::CompressedTexture2D::6155271509908321162::1795470078::1795470675::1::::<><>::
+dealer hands main1_metal sheet brighter2.png::CompressedTexture2D::3651157641142576502::1795470078::1795470675::1::::<><>::
+dealer hands main1_metal sheet copy_beer can brighter.png::CompressedTexture2D::8853908195669851192::1795470079::1795470676::1::::<><>::
+dealer hands main1_metal sheet copy_handcuffs.png::CompressedTexture2D::4449140399774550918::1795470079::1795470676::1::::<><>::
+dealer hands main1_metal sheet red.png::CompressedTexture2D::3839079289167377253::1795470079::1795470676::1::::<><>::
+dealer hands main1_metal sheet_hand saw.png::CompressedTexture2D::424158785602163306::1795470080::1795470676::1::::<><>::
+dealer hands main1_skin base hand_left.png::CompressedTexture2D::8542563922519103572::1795470080::1795470677::1::::<><>::
+dealer hands main1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::6045030295135269658::1795470080::1795470676::1::::<><>::
+dealer hands main1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::8770057589744787924::1795470080::1795470676::1::::<><>::
+dealer hands main1_TexturesCom_Metal_BronzeBare_512_albedo.png::CompressedTexture2D::3154481759644034383::1795470081::1795470676::1::::<><>::
+dealer hands main1_TexturesCom_Metal_BronzeBare_512_normal.png::CompressedTexture2D::4305508421247445215::1795470081::1795470677::1::::<><>::
+dealer hands main1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::1057651269749239736::1795470082::1795470677::1::::<><>::
+dealer hands main1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::4494403459878975016::1795470082::1795470678::1::::<><>::
+dealer hands main1_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::3153724099471088809::1795470083::1795470666::1::::<><>::
+dealer hands main1_wood worn albedo.png::CompressedTexture2D::630685991356627178::1795470083::1795470665::1::::<><>::
+dealer hands main1_worn bare darkened.png::CompressedTexture2D::6952512359629763795::1795470084::1795470665::1::::<><>::
+::res://models/dealer hands medicine/::1795470091
+dealer hands_expired medicine1_blister pack2.png::CompressedTexture2D::2581416204845519630::1795470089::1795470668::1::::<><>::
+dealer hands_expired medicine1_pill box label new5.png::CompressedTexture2D::6564477067364581640::1795470090::1795470667::1::::<><>::
+dealer hands_expired medicine1_skin base hand_left.png::CompressedTexture2D::8419261874765202069::1795470091::1795470667::1::::<><>::
+dealer hands_expired medicine blister pack1_blister pack2.png::CompressedTexture2D::1525806545211791169::1795470086::1795470669::1::::<><>::
+dealer hands_expired medicine blister pack1_pill box label new5.png::CompressedTexture2D::6476322559656649086::1795470087::1795470669::1::::<><>::
+::res://models/dealer hands on table/::1795470091
+dealer hands on table1_skin base hand_left.png::CompressedTexture2D::4239218639134905869::1795470091::1795470669::1::::<><>::
+::res://models/dealer hands_inverter/::1795470093
+dealer hands_inverter1_inverter.png::CompressedTexture2D::2480929679671191130::1795470092::1795470669::1::::<><>::
+dealer hands_inverter1_plastic stained.png::CompressedTexture2D::488520618510839750::1795470093::1795470671::1::::<><>::
+dealer hands_inverter1_skin base hand_left.png::CompressedTexture2D::8657632078059682026::1795470093::1795470670::1::::<><>::
+::res://models/dealer head crushed/::1795470095
+dealer head crushed test1_skin base.png::CompressedTexture2D::8858996663509985322::1795470094::1795470670::1::::<><>::
+dealer head crushed test_skin base.png::CompressedTexture2D::7024903857440903614::1795470095::1795470670::1::::<><>::
+::res://models/dealer head rigged/::1795470095
+dealer head rigged1_skin base.png::CompressedTexture2D::4334179166954339299::1795470095::1795470671::1::::<><>::
+::res://models/double nothing machine/::1795470096
+double nothing machine1_metal sheet double nothing.png::CompressedTexture2D::4459666591084420778::1795470096::1795470671::1::::<><>::
+double nothing machine1_yes no.png::CompressedTexture2D::1191459212207466897::1795470096::1795470670::1::::<><>::
+::res://models/expired medicine opaque/::1795470097
+expired medicine opaque2_pill box label new5.png::CompressedTexture2D::9192071788679466805::1795470097::1795470671::1::::<><>::
+::res://models/health counter main/::1795470101
+health counter main1_circuitboards.png::CompressedTexture2D::1087973804841993191::1795470099::1795470674::1::::<><>::
+health counter main1_cutter device panel.png::CompressedTexture2D::5603613145266610899::1795470099::1795470671::1::::<><>::
+health counter main1_health counter metal.png::CompressedTexture2D::4689303776665142443::1795470099::1795470671::1::::<><>::
+health counter main1_sheet base_adapter.png::CompressedTexture2D::1191568014010912866::1795470100::1795470671::1::::<><>::
+health counter main1_sheet base_knife hoist.png::CompressedTexture2D::3013943098331839493::1795470100::1795470672::1::::<><>::
+health counter main1_sheet base_knife.png::CompressedTexture2D::1923288429147088481::1795470100::1795470672::1::::<><>::
+health counter main1_sheet base_wire holder.png::CompressedTexture2D::73121295514689827::1795470100::1795470672::1::::<><>::
+health counter main1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::261232402157389541::1795470101::1795470672::1::::<><>::
+::res://models/heaven1/::1795470104
+heaven1_TCom_Ground_MudWet_512_normal.png::CompressedTexture2D::4268815060273412486::1795470103::1795470672::1::::<><>::
+heaven1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::7139322826336650423::1795470104::1795470730::1::::<><>::
+heaven1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::6830597996416381916::1795470104::1795470730::1::::<><>::
+heaven pokers1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::6681432945558064737::1795470102::1795470730::1::::<><>::
+heaven pokers1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::5573713578188093302::1795470103::1795470730::1::::<><>::
+::res://models/heaven door1/::1795470101
+heaven door1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::6284302757425356617::1795470101::1795470730::1::::<><>::
+heaven door1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::8842864199093068965::1795470101::1795470734::1::::<><>::
+::res://models/heaven pokers reimport1/::1795470102
+heaven pokers reimport1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::4447596641844910946::1795470102::1795470730::1::::<><>::
+heaven pokers reimport1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::2167528219382862732::1795470102::1795470734::1::::<><>::
+::res://models/ibm key/::1795470105
+ibm key1_ibm key the other side computer.png::CompressedTexture2D::3432749458191167095::1795470105::1795470734::1::::<><>::
+::res://models/inverter shattered frame/::1795470105
+inverter shattered frame1_plastic stained.png::CompressedTexture2D::5254022929813027064::1795470105::1795470735::1::::<><>::
+::res://models/item grid indicator/::1795466312
+::res://models/lobby area1/::1795470107
+lobby area blockout1_brick industrial png.png::CompressedTexture2D::3935913462143395832::1795470106::1795470734::1::::<><>::
+lobby area blockout1_concrete dark png.png::CompressedTexture2D::7366391199945433388::1795470106::1795470734::1::::<><>::
+lobby area blockout1_TCom_WoodPlanksFloors0026_1_seamless_S.png::CompressedTexture2D::5645718207144843143::1795470107::1795470736::1::::<><>::
+::res://models/lobby area2/::1795470108
+lobby area blockout2_brick industrial png.png::CompressedTexture2D::1630471363197746601::1795470107::1795470735::1::::<><>::
+lobby area blockout2_concrete dark png.png::CompressedTexture2D::2834905831068850817::1795470107::1795470735::1::::<><>::
+lobby area blockout2_TCom_WoodPlanksFloors0026_1_seamless_S.png::CompressedTexture2D::4370821642792928955::1795470108::1795470736::1::::<><>::
+::res://models/lobby area3/::1795470110
+lobby area blockout3_brick industrial png.png::CompressedTexture2D::5923261202112567727::1795470108::1795470736::1::::<><>::
+lobby area blockout3_concrete dark png.png::CompressedTexture2D::1925059032999340876::1795470109::1795470736::1::::<><>::
+lobby area blockout3_metal sheet albedo darker.png::CompressedTexture2D::4536471197541400962::1795470109::1795470736::1::::<><>::
+lobby area blockout3_TCom_WoodPlanksFloors0026_1_seamless_S.png::CompressedTexture2D::159857972965823452::1795470110::1795470737::1::::<><>::
+::res://models/lobby area4/::1795470114
+lobby area blockout4_brick industrial png.png::CompressedTexture2D::6987090165723879217::1795470110::1795470737::1::::<><>::
+lobby area blockout4_concrete dark png.png::CompressedTexture2D::516602953664443340::1795470110::1795470737::1::::<><>::
+lobby area blockout4_metal door.png::CompressedTexture2D::971815755821354706::1795470112::1795470738::1::::<><>::
+lobby area blockout4_metal sheet albedo darker.png::CompressedTexture2D::5153547556335917261::1795470113::1795470737::1::::<><>::
+lobby area blockout4_TCom_WoodPlanksFloors0026_1_seamless_S.png::CompressedTexture2D::5507920900746310494::1795470114::1795470739::1::::<><>::
+lobby area blockout4_window.png::CompressedTexture2D::1573886611451600897::1795470114::1795470738::1::::<><>::
+::res://models/lobby area5/::1795470118
+lobby area blockout5_brick industrial png.png::CompressedTexture2D::4382238430805457113::1795470115::1795470738::1::::<><>::
+lobby area blockout5_concrete dark png.png::CompressedTexture2D::8371143883836139068::1795470115::1795470738::1::::<><>::
+lobby area blockout5_metal door.png::CompressedTexture2D::2921068202670355372::1795470116::1795470724::1::::<><>::
+lobby area blockout5_metal sheet albedo darker.png::CompressedTexture2D::8954731676072496451::1795470117::1795470724::1::::<><>::
+lobby area blockout5_TCom_WoodPlanksFloors0026_1_seamless_S.png::CompressedTexture2D::2056871657290693174::1795470118::1795470725::1::::<><>::
+lobby area blockout5_window.png::CompressedTexture2D::7522278330466674502::1795470118::1795470724::1::::<><>::
+::res://models/main items/::1795470134
+handsaw1_metal sheet red.png::CompressedTexture2D::2448518272068291859::1795470118::1795470725::1::::<><>::
+handsaw1_metal sheet_hand saw.png::CompressedTexture2D::8190309263489382070::1795470119::1795470725::1::::<><>::
+handsaw1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::7753211779529231324::1795470119::1795470725::1::::<><>::
+handsaw1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::7279267403106784381::1795470119::1795470725::1::::<><>::
+handsaw1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::1817286378175759939::1795470120::1795470726::1::::<><>::
+handsaw1_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::8498457728258327825::1795470120::1795470726::1::::<><>::
+handsaw1_worn bare darkened.png::CompressedTexture2D::3933195039246667962::1795470121::1795470726::1::::<><>::
+main items1_Asphalt007_1K_NormalGL.png::CompressedTexture2D::9215046063681786244::1795470123::1795470729::1::::<><>::
+main items1_beer can2 no text.png::CompressedTexture2D::69630952710817481::1795470124::1795470726::1::::<><>::
+main items1_beer can brighter metal.png::CompressedTexture2D::1124311523254285452::1795470124::1795470727::1::::<><>::
+main items1_cig box front 2.png::CompressedTexture2D::7058187840426078914::1795470124::1795470727::1::::<><>::
+main items1_cig box side2.png::CompressedTexture2D::6171894189753117780::1795470125::1795470727::1::::<><>::
+main items1_cigarette.png::CompressedTexture2D::3172129597528981136::1795470125::1795470727::1::::<><>::
+main items1_coin2 normal.png::CompressedTexture2D::250194906683194204::1795470125::1795470727::1::::<><>::
+main items1_coin2.png::CompressedTexture2D::4403071258513608360::1795470125::1795470727::1::::<><>::
+main items1_health counter metal.png::CompressedTexture2D::783137151752724832::1795470125::1795470727::1::::<><>::
+main items1_magnifying glass.png::CompressedTexture2D::5525370537790836869::1795470125::1795470727::1::::<><>::
+main items1_Metal021_1K_Color.png::CompressedTexture2D::1297176259200243755::1795470128::1795470729::1::::<><>::
+main items1_Metal022_1K_Color.png::CompressedTexture2D::3031990524606445508::1795470129::1795470729::1::::<><>::
+main items1_metal sheet brighter2.png::CompressedTexture2D::674546909658536310::1795470126::1795470728::1::::<><>::
+main items1_metal sheet copy_beer can brighter.png::CompressedTexture2D::8299939191265561210::1795470126::1795470728::1::::<><>::
+main items1_metal sheet copy_handcuffs.png::CompressedTexture2D::8140557706792965870::1795470126::1795470729::1::::<><>::
+main items1_metal sheet red saw_painted.png::CompressedTexture2D::3456647601523155297::1795470127::1795470729::1::::<><>::
+main items1_saw texture2.png::CompressedTexture2D::4454576966682983691::1795470131::1795470744::1::::<><>::
+main items1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::6864515617510714313::1795470131::1795470744::1::::<><>::
+main items1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::2814518783749924081::1795470131::1795470744::1::::<><>::
+main items1_TexturesCom_Metal_BronzeBare_512_albedo.png::CompressedTexture2D::2052990843271452525::1795470131::1795470744::1::::<><>::
+main items1_TexturesCom_Metal_BronzeBare_512_normal.png::CompressedTexture2D::4841681029637853331::1795470132::1795470745::1::::<><>::
+main items1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::3935516016883640102::1795470132::1795470744::1::::<><>::
+main items1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::8569346107589750797::1795470133::1795470745::1::::<><>::
+main items1_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::5416196169944484229::1795470133::1795470745::1::::<><>::
+main items1_wood worn albedo.png::CompressedTexture2D::6787976690360478575::1795470133::1795470745::1::::<><>::
+main items1_worn bare darkened.png::CompressedTexture2D::3808777704294576189::1795470134::1795470745::1::::<><>::
+::res://models/makeship plushie/::1795470137
+makeship plushie1_metal24 pump action painted2.png::CompressedTexture2D::8397988807447098022::1795470136::1795470746::1::::<><>::
+makeship plushie1_metal024 pump action painted normal.png::CompressedTexture2D::4469795147873767544::1795470134::1795470746::1::::<><>::
+makeship plushie1_metal24 pump action painted.png::CompressedTexture2D::8183189662046332868::1795470135::1795470747::1::::<><>::
+makeship plushie1_teddy fur base.png::CompressedTexture2D::1326429700287507238::1795470137::1795470747::1::::<><>::
+makeship plushie1_wood worn albedo.png::CompressedTexture2D::8038712836554961896::1795470137::1795470747::1::::<><>::
+::res://models/mouthwash bottle/::1795470144
+mouthwash bottle1_Cap-Colour.png::CompressedTexture2D::1616953000984793831::1795470141::1795470750::1::::<><>::
+mouthwash bottle1_NEWmouthwashBottle-Colour1.png::CompressedTexture2D::6158633779773407324::1795470144::1795470750::1::::<><>::
+::res://models/muzzle flash1/::1795470145
+muzzle flash test1_muzzle flash.png::CompressedTexture2D::8622881732573622202::1795470145::1795470747::1::::<><>::
+::res://models/new items/::1795470149
+new items main1_aehathateh.png::CompressedTexture2D::8310546382617225330::1795470145::1795470747::1::::<><>::
+new items main1_blister pack2.png::CompressedTexture2D::955556083623001839::1795470146::1795470749::1::::<><>::
+new items main1_brass albedo1.png::CompressedTexture2D::7342656348486993767::1795470146::1795470747::1::::<><>::
+new items main1_burner phone2.png::CompressedTexture2D::503464343383997622::1795470146::1795470748::1::::<><>::
+new items main1_inverter.png::CompressedTexture2D::8734145464304901429::1795470146::1795470748::1::::<><>::
+new items main1_pill box label new5.png::CompressedTexture2D::7626806014665285816::1795470147::1795470749::1::::<><>::
+new items main1_plastic stained.png::CompressedTexture2D::1665193892418062206::1795470148::1795470750::1::::<><>::
+new items main1_syringe test2.png::CompressedTexture2D::4198024944297866862::1795470149::1795470751::1::::<><>::
+new items main1_valve thing.png::CompressedTexture2D::6674825019441866280::1795470149::1795470750::1::::<><>::
+::res://models/player defib device2/::1795470150
+player defib device3_metal defib device.png::CompressedTexture2D::904298588541201565::1795470150::1795470750::1::::<><>::
+player defib device3_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::5815023823379935305::1795470150::1795470738::1::::<><>::
+::res://models/player handcuffs on bar/::1795470150
+handcuffs_player bar2_metal sheet copy_handcuffs.png::CompressedTexture2D::2654996545061658400::1795470150::1795470739::1::::<><>::
+handcuffs_player bar2_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::8160711484795724684::1795470150::1795470738::1::::<><>::
+::res://models/player leg/::1795470151
+player leg1_smoker dude.png::CompressedTexture2D::1450679046593358895::1795470151::1795470739::1::::<><>::
+::res://models/player vehicle/::1795470157
+player vehicle1_car interior base1.png::CompressedTexture2D::8579381954515988896::1795470151::1795470739::1::::<><>::
+player vehicle1_car interior main.png::CompressedTexture2D::2871811640215535078::1795470152::1795470739::1::::<><>::
+player vehicle1_car seat base1.png::CompressedTexture2D::6446279488288031360::1795470152::1795470739::1::::<><>::
+player vehicle1_metal24 pump action painted2.png::CompressedTexture2D::7864806118849720341::1795470156::1795470741::1::::<><>::
+player vehicle1_metal024 pump action painted normal2.png::CompressedTexture2D::2197212267781216561::1795470153::1795470741::1::::<><>::
+player vehicle1_metal024 pump action painted normal.png::CompressedTexture2D::6870692212744965058::1795470153::1795470741::1::::<><>::
+player vehicle1_metal24 pump action painted.png::CompressedTexture2D::3264741263244578884::1795470154::1795470741::1::::<><>::
+player vehicle1_metal sheet briefcasen ew.png::CompressedTexture2D::3418212480047307754::1795470152::1795470741::1::::<><>::
+player vehicle1_metal sheet door details.png::CompressedTexture2D::7566987128788158507::1795470153::1795470741::1::::<><>::
+player vehicle1_money4.png::CompressedTexture2D::4905983826422600278::1795470156::1795470741::1::::<><>::
+player vehicle1_paper stack side money.png::CompressedTexture2D::4666005629225857608::1795470156::1795470741::1::::<><>::
+player vehicle1_tabletop briefcase1_carbon fiber normal png.png::CompressedTexture2D::8397618951476808972::1795470156::1795470742::1::::<><>::
+player vehicle1_tabletop export6_carbon fiber albedo png.png::CompressedTexture2D::4362616218166004926::1795470156::1795470742::1::::<><>::
+player vehicle1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::8015051919440782306::1795470156::1795470742::1::::<><>::
+player vehicle1_wood worn albedo.png::CompressedTexture2D::3789198959075298028::1795470157::1795470742::1::::<><>::
+::res://models/release form patched/::1795470158
+release form patched1_release form new2.png::CompressedTexture2D::1411249071629055576::1795470157::1795470743::1::::<><>::
+release form patched2_release form new2.png::CompressedTexture2D::754295283636684613::1795470158::1795470743::1::::<><>::
+::res://models/restroom1/::1795470170
+restroom1_ceramic 512.png::CompressedTexture2D::1269265027233949301::1795470159::1795470742::1::::<><>::
+restroom1_ceramic 1024.png::CompressedTexture2D::3537993043194101201::1795470159::1795470743::1::::<><>::
+restroom1_marble png2.png::CompressedTexture2D::1648916217881407259::1795470160::1795470743::1::::<><>::
+restroom1_marble png.png::CompressedTexture2D::8535237776261849434::1795470159::1795470743::1::::<><>::
+restroom1_metal door.png::CompressedTexture2D::9018751005105949515::1795470161::1795470744::1::::<><>::
+restroom1_metal sheet albedo darker.png::CompressedTexture2D::2965614544215247215::1795470161::1795470743::1::::<><>::
+restroom1_pill bottle.png::CompressedTexture2D::196681666773138024::1795470161::1795470699::1::::<><>::
+restroom1_pills cap.png::CompressedTexture2D::5218876873940344130::1795470161::1795470699::1::::<><>::
+restroom1_soap.png::CompressedTexture2D::3474380988592649871::1795470162::1795470700::1::::<><>::
+restroom1_stall door.png::CompressedTexture2D::392018103182646017::1795470162::1795470699::1::::<><>::
+restroom1_TCom_Grungemaps0164_1_S.png::CompressedTexture2D::5908564877386332266::1795470162::1795470700::1::::<><>::
+restroom1_tiles broken 1024 albedo.png::CompressedTexture2D::5615542017232991344::1795470163::1795470701::1::::<><>::
+restroom1_tiles broken 1024 nromal.png::CompressedTexture2D::5552290425232848574::1795470164::1795470702::1::::<><>::
+restroom1_tiles normal 2048.png::CompressedTexture2D::261371883262645670::1795470167::1795470706::1::::<><>::
+restroom1_tilies normal 2048 normal map.png::CompressedTexture2D::2766864768659669357::1795470169::1795470713::1::::<><>::
+restroom1_towel dispenser base.png::CompressedTexture2D::1417181873100927614::1795470170::1795470703::1::::<><>::
+restroom1_xanax label.png::CompressedTexture2D::6339124897633576405::1795470170::1795470702::1::::<><>::
+::res://models/rpg shitpost/::1795470173
+rpg shitpost1_Metal046B_1K-JPG_Color.png::CompressedTexture2D::2868452720922544818::1795470172::1795470704::1::::<><>::
+rpg shitpost1_rpg metal_green.png::CompressedTexture2D::1073252349274809801::1795470172::1795470704::1::::<><>::
+rpg shitpost1_Wood066_1K-JPG_Color.png::CompressedTexture2D::4330006202892397980::1795470173::1795470706::1::::<><>::
+::res://models/sample object/::1795470176
+sample object export1_Metal025_1K_Color.png::CompressedTexture2D::7938034258943844190::1795470174::1795470706::1::::<><>::
+sample object export1_Metal025_1K_NormalGL.png::CompressedTexture2D::7363935631304733784::1795470176::1795470709::1::::<><>::
+::res://models/shell waterfall/::1795470178
+shell waterfall2_metal sheet blue.png::CompressedTexture2D::5115221158771271894::1795470176::1795470707::1::::<><>::
+shell waterfall2_metal sheet red new.png::CompressedTexture2D::4509210827658152611::1795470177::1795470707::1::::<><>::
+shell waterfall2_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::5235665792960851904::1795470177::1795470707::1::::<><>::
+shell waterfall2_TexturesCom_Metal_BronzeBare_512_albedo.png::CompressedTexture2D::7353167502543059208::1795470177::1795470707::1::::<><>::
+shell waterfall2_TexturesCom_Metal_BronzeBare_512_normal.png::CompressedTexture2D::1524833896266820418::1795470178::1795470708::1::::<><>::
+::res://models/shotgun new/::1795470183
+shotgun with hands2_metal24 pump action painted2.png::CompressedTexture2D::5052354060835987765::1795470182::1795470709::1::::<><>::
+shotgun with hands2_metal024 pump action painted normal2.png::CompressedTexture2D::2866780193092793635::1795470179::1795470709::1::::<><>::
+shotgun with hands2_metal024 pump action painted normal.png::CompressedTexture2D::7186127207428483663::1795470178::1795470710::1::::<><>::
+shotgun with hands2_metal24 pump action painted.png::CompressedTexture2D::4291874632974716896::1795470181::1795470710::1::::<><>::
+shotgun with hands2_skin base hand_left.png::CompressedTexture2D::336823907776573281::1795470183::1795470711::1::::<><>::
+shotgun with hands2_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::3095294044328408829::1795470183::1795470711::1::::<><>::
+shotgun with hands2_wood worn albedo.png::CompressedTexture2D::3416067236624533515::1795470183::1795470695::1::::<><>::
+::res://models/shotgun shells/::1795470185
+shotgun shells export1_metal sheet blue.png::CompressedTexture2D::1047281843835525848::1795470184::1795470695::1::::<><>::
+shotgun shells export1_metal sheet red.png::CompressedTexture2D::2184559602975189549::1795470184::1795470695::1::::<><>::
+shotgun shells export1_TexturesCom_MetalSheet_Aged_512_albedo.png::CompressedTexture2D::900821125854552954::1795470184::1795470695::1::::<><>::
+shotgun shells export1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::3420348938503066154::1795470184::1795470695::1::::<><>::
+shotgun shells export1_TexturesCom_Metal_BronzeBare_512_albedo.png::CompressedTexture2D::4745709037437460855::1795470185::1795470696::1::::<><>::
+shotgun shells export1_TexturesCom_Metal_BronzeBare_512_normal.png::CompressedTexture2D::6467229454737803337::1795470185::1795470696::1::::<><>::
+::res://models/signature machine/::1795470188
+signature machine2_base metal keyboard.png::CompressedTexture2D::3736577713347258495::1795470187::1795470697::1::::<><>::
+signature machine2_keyboard base.png::CompressedTexture2D::6473790426402202418::1795470187::1795470696::1::::<><>::
+signature machine2_release form1.png::CompressedTexture2D::7513177420949751150::1795470188::1795470697::1::::<><>::
+::res://models/signature machine colliders/::1795466312
+::res://models/signature machine lid/::1795470190
+signature machine lid1_base metal keyboard.png::CompressedTexture2D::8383051600500170867::1795470190::1795470698::1::::<><>::
+signature machine lid1_keyhole signature machine2.png::CompressedTexture2D::8478362733913423181::1795470190::1795470697::1::::<><>::
+::res://models/signature machine writer/::1795470193
+signature machine writer1_base metal keyboard.png::CompressedTexture2D::3753393034378748454::1795470193::1795470698::1::::<><>::
+signature machine writer1_keyhole signature machine2.png::CompressedTexture2D::461741050772889506::1795470193::1795470697::1::::<><>::
+::res://models/smoker dude revive player/::1795470195
+smoker dude revive player1_metal defib device.png::CompressedTexture2D::299786756469714069::1795470194::1795470698::1::::<><>::
+smoker dude revive player1_smoker dude.png::CompressedTexture2D::9140826376562885279::1795470195::1795470698::1::::<><>::
+smoker dude revive player1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::7493803939454032364::1795470195::1795470698::1::::<><>::
+::res://models/smoking dude1/::1795470196
+smoking dude12_cigarette.png::CompressedTexture2D::4392779385545207650::1795470195::1795470698::1::::<><>::
+smoking dude12_smoker dude.png::CompressedTexture2D::3285760718448414108::1795470196::1795470699::1::::<><>::
+::res://models/tabletop briefcase/::1795470198
+tabletop briefcase1_carbon fiber albedo png.png::CompressedTexture2D::1048728000600323865::1795470196::1795470698::1::::<><>::
+tabletop briefcase1_carbon fiber normal png.png::CompressedTexture2D::1697858957919102546::1795470196::1795470699::1::::<><>::
+tabletop briefcase1_darkened png.png::CompressedTexture2D::8542585150604224220::1795470197::1795470699::1::::<><>::
+tabletop briefcase1_metal sheet albedo darkened png.png::CompressedTexture2D::8996389576677309593::1795470197::1795470699::1::::<><>::
+tabletop briefcase1_metal sheet normal.png::CompressedTexture2D::6520779244403884476::1795470197::1795470699::1::::<><>::
+tabletop briefcase1_steel barred normal png.png::CompressedTexture2D::4035887535377825491::1795470198::1795470699::1::::<><>::
+tabletop briefcase1_steel battered albedo png.png::CompressedTexture2D::9191859715412293728::1795470198::1795470699::1::::<><>::
+::res://models/tabletop compartment origins2/::1795470207
+tabletop compartment origins fix2_tabletop felt normal.png::CompressedTexture2D::1110388026975546635::1795470201::1795470702::1::::<><>::
+tabletop compartment origins fix2_tabletop felt shell compartment.png::CompressedTexture2D::3529147637568399508::1795470202::1795470718::1::::<><>::
+tabletop compartment origins fix2_tabletop felt shotgun radius compartment2.png::CompressedTexture2D::4056221013787499638::1795470203::1795470718::1::::<><>::
+tabletop compartment origins fix2_tabletop felt shotgun radius with lines greyed out.png::CompressedTexture2D::6427449093205737852::1795470204::1795470719::1::::<><>::
+tabletop compartment origins fix2_tabletop felt shotgun radius wo lines.png::CompressedTexture2D::2832477987296265594::1795470205::1795470720::1::::<><>::
+tabletop compartment origins fix2_tabletop felt_without lines.png::CompressedTexture2D::3048766555908572278::1795470206::1795470720::1::::<><>::
+tabletop compartment origins fix2_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::6930098528616284470::1795470206::1795470719::1::::<><>::
+tabletop compartment origins fix2_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::7459922604588754591::1795470207::1795470720::1::::<><>::
+tabletop compartment origins fix2_wood worn albedo.png::CompressedTexture2D::8316924338278947224::1795470207::1795470720::1::::<><>::
+tabletop compartment origins fix2_worn bare darkened.png::CompressedTexture2D::8748871690889651842::1795470207::1795470720::1::::<><>::
+::res://models/tabletop export1/::1795470250
+tabletop export1_beer can2 no text.png::CompressedTexture2D::5582985224052445031::1795470209::1795470720::1::::<><>::
+tabletop export1_beer can brighter metal.png::CompressedTexture2D::6772374538337898827::1795470208::1795470721::1::::<><>::
+tabletop export1_carbon fiber albedo png.png::CompressedTexture2D::4101449723797264587::1795470209::1795470720::1::::<><>::
+tabletop export1_carbon fiber normal png.png::CompressedTexture2D::6972389021410793663::1795470209::1795470721::1::::<><>::
+tabletop export1_cig box front 2.png::CompressedTexture2D::7605118719098761436::1795470210::1795470721::1::::<><>::
+tabletop export1_cig box side2.png::CompressedTexture2D::6412217579673553146::1795470210::1795470721::1::::<><>::
+tabletop export1_cigarette.png::CompressedTexture2D::3496808614614529291::1795470211::1795470721::1::::<><>::
+tabletop export1_darkened png.png::CompressedTexture2D::1784572447097003139::1795470211::1795470721::1::::<><>::
+tabletop export1_metal24 pump action painted2.png::CompressedTexture2D::5303291782702250285::1795470216::1795470722::1::::<><>::
+tabletop export1_metal024 pump action painted normal2.png::CompressedTexture2D::2166979951736067316::1795470214::1795470722::1::::<><>::
+tabletop export1_metal024 pump action painted normal.png::CompressedTexture2D::5963827042035635827::1795470214::1795470722::1::::<><>::
+tabletop export1_metal24 pump action painted.png::CompressedTexture2D::7001850887089522307::1795470215::1795470722::1::::<><>::
+tabletop export1_metal sheet albedo darkened png.png::CompressedTexture2D::5905069041298287142::1795470211::1795470723::1::::<><>::
+tabletop export1_metal sheet brighter2.png::CompressedTexture2D::1576054585936384585::1795470212::1795470723::1::::<><>::
+tabletop export1_metal sheet copy_beer can brighter.png::CompressedTexture2D::858204740975800168::1795470212::1795470723::1::::<><>::
+tabletop export1_metal sheet copy_handcuffs.png::CompressedTexture2D::8659260983818788862::1795470213::1795470723::1::::<><>::
+tabletop export1_metal sheet normal.png::CompressedTexture2D::2931445274547155270::1795470213::1795470723::1::::<><>::
+tabletop export1_metal sheet red saw_painted.png::CompressedTexture2D::5322385727081957345::1795470213::1795470723::1::::<><>::
+tabletop export1_saw texture2.png::CompressedTexture2D::1783878041709088430::1795470218::1795470724::1::::<><>::
+tabletop export1_steel barred normal png.png::CompressedTexture2D::4178794317593028725::1795470218::1795470711::1::::<><>::
+tabletop export1_steel battered albedo png.png::CompressedTexture2D::2606023893383033967::1795470218::1795470711::1::::<><>::
+tabletop export1_tabletop felt normal.png::CompressedTexture2D::4232886088329434027::1795470220::1795470714::1::::<><>::
+tabletop export1_tabletop felt shotgun radius compartment2.png::CompressedTexture2D::6444981637433158001::1795470221::1795470712::1::::<><>::
+tabletop export1_tabletop felt shotgun radius with lines greyed out flippeed.png::CompressedTexture2D::4210683684626727568::1795470222::1795470712::1::::<><>::
+tabletop export1_tabletop felt shotgun radius with lines greyed out.png::CompressedTexture2D::587785227023984071::1795470222::1795470713::1::::<><>::
+tabletop export1_tabletop felt shotgun radius wo lines.png::CompressedTexture2D::8749386774879946857::1795470224::1795470713::1::::<><>::
+tabletop export1_tabletop felt.png::CompressedTexture2D::2417066211353962748::1795470225::1795470714::1::::<><>::
+tabletop export1_tabletop felt_without lines.png::CompressedTexture2D::3814398009386122678::1795470226::1795470714::1::::<><>::
+tabletop export1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::9138963672664888379::1795470226::1795470714::1::::<><>::
+tabletop export1_TexturesCom_MetalSheet_Aged_512_albedo.png::CompressedTexture2D::8282789768441313679::1795470227::1795470714::1::::<><>::
+tabletop export1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::1404143673237334161::1795470227::1795470714::1::::<><>::
+tabletop export1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::2833844457544403549::1795470227::1795470715::1::::<><>::
+tabletop export1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::2913673746992904454::1795470228::1795470715::1::::<><>::
+tabletop export1_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::8934855006393599091::1795470228::1795470715::1::::<><>::
+tabletop export1_wood worn albedo.png::CompressedTexture2D::53587515793211187::1795470228::1795470715::1::::<><>::
+tabletop export1_worn bare darkened.png::CompressedTexture2D::4189343075948154698::1795470229::1795470715::1::::<><>::
+tabletop export2_beer can2 no text.png::CompressedTexture2D::4780402060610647258::1795470230::1795470716::1::::<><>::
+tabletop export2_beer can brighter metal.png::CompressedTexture2D::7132712089077926886::1795470229::1795470716::1::::<><>::
+tabletop export2_carbon fiber albedo png.png::CompressedTexture2D::3079402942956575512::1795470230::1795470716::1::::<><>::
+tabletop export2_carbon fiber normal png.png::CompressedTexture2D::7699842043361497845::1795470230::1795470716::1::::<><>::
+tabletop export2_cig box front 2.png::CompressedTexture2D::2166829771561520278::1795470231::1795470716::1::::<><>::
+tabletop export2_cig box side2.png::CompressedTexture2D::5098506917387579736::1795470231::1795470716::1::::<><>::
+tabletop export2_cigarette.png::CompressedTexture2D::9056839903031324652::1795470231::1795470716::1::::<><>::
+tabletop export2_darkened png.png::CompressedTexture2D::4750944494284707189::1795470232::1795470716::1::::<><>::
+tabletop export2_metal24 pump action painted2.png::CompressedTexture2D::2202470602712181208::1795470238::1795470718::1::::<><>::
+tabletop export2_metal024 pump action painted normal2.png::CompressedTexture2D::1771391860415999879::1795470235::1795470719::1::::<><>::
+tabletop export2_metal024 pump action painted normal.png::CompressedTexture2D::8177368382113872383::1795470235::1795470576::1::::<><>::
+tabletop export2_metal24 pump action painted.png::CompressedTexture2D::438869950258120176::1795470237::1795470577::1::::<><>::
+tabletop export2_metal sheet albedo darkened png.png::CompressedTexture2D::855087517933947172::1795470232::1795470576::1::::<><>::
+tabletop export2_metal sheet brighter2.png::CompressedTexture2D::4935914394918519581::1795470233::1795470576::1::::<><>::
+tabletop export2_metal sheet copy_beer can brighter.png::CompressedTexture2D::4404610349381634725::1795470233::1795470577::1::::<><>::
+tabletop export2_metal sheet copy_handcuffs.png::CompressedTexture2D::7678161027591066453::1795470234::1795470577::1::::<><>::
+tabletop export2_metal sheet normal.png::CompressedTexture2D::8901862043093506024::1795470234::1795470577::1::::<><>::
+tabletop export2_metal sheet red saw_painted.png::CompressedTexture2D::8949118603409888286::1795470234::1795470577::1::::<><>::
+tabletop export2_saw texture2.png::CompressedTexture2D::3148300087702764276::1795470239::1795470578::1::::<><>::
+tabletop export2_steel barred normal png.png::CompressedTexture2D::1297531101417993273::1795470240::1795470577::1::::<><>::
+tabletop export2_steel battered albedo png.png::CompressedTexture2D::739237799067384167::1795470241::1795470577::1::::<><>::
+tabletop export2_tabletop felt normal.png::CompressedTexture2D::5753467962980780219::1795470242::1795470580::1::::<><>::
+tabletop export2_tabletop felt shotgun radius compartment2.png::CompressedTexture2D::7318677050822058453::1795470243::1795470578::1::::<><>::
+tabletop export2_tabletop felt shotgun radius with lines greyed out flippeed.png::CompressedTexture2D::6584905627551850966::1795470244::1795470578::1::::<><>::
+tabletop export2_tabletop felt shotgun radius with lines greyed out.png::CompressedTexture2D::7166607033878342511::1795470244::1795470579::1::::<><>::
+tabletop export2_tabletop felt shotgun radius wo lines.png::CompressedTexture2D::3046872126557183593::1795470245::1795470579::1::::<><>::
+tabletop export2_tabletop felt.png::CompressedTexture2D::2500873944542646857::1795470246::1795470579::1::::<><>::
+tabletop export2_tabletop felt_without lines.png::CompressedTexture2D::4272112718719811678::1795470247::1795470580::1::::<><>::
+tabletop export2_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::528869964991262909::1795470248::1795470580::1::::<><>::
+tabletop export2_TexturesCom_MetalSheet_Aged_512_albedo.png::CompressedTexture2D::6519100494171882903::1795470248::1795470580::1::::<><>::
+tabletop export2_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::4980741863807571679::1795470248::1795470580::1::::<><>::
+tabletop export2_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::1302476866307306725::1795470248::1795470580::1::::<><>::
+tabletop export2_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::2045784645697956187::1795470249::1795470580::1::::<><>::
+tabletop export2_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::5865457126809445647::1795470249::1795470581::1::::<><>::
+tabletop export2_wood worn albedo.png::CompressedTexture2D::88540686113949775::1795470250::1795470580::1::::<><>::
+tabletop export2_worn bare darkened.png::CompressedTexture2D::944778582299639570::1795470250::1795470580::1::::<><>::
+::res://models/tabletop export6/::1795470271
+tabletop export6_beer can2 no text.png::CompressedTexture2D::4303908815949737519::1795470251::1795470581::1::::<><>::
+tabletop export6_beer can brighter metal.png::CompressedTexture2D::7062308547606996398::1795470251::1795470570::1::::<><>::
+tabletop export6_carbon fiber albedo png.png::CompressedTexture2D::2379242662502062595::1795470251::1795470570::1::::<><>::
+tabletop export6_carbon fiber normal png.png::CompressedTexture2D::2733709196409239951::1795470252::1795470570::1::::<><>::
+tabletop export6_cig box front 2.png::CompressedTexture2D::7453002572996996156::1795470252::1795470570::1::::<><>::
+tabletop export6_cig box side2.png::CompressedTexture2D::4947922658607454567::1795470252::1795470571::1::::<><>::
+tabletop export6_cigarette.png::CompressedTexture2D::1460670370729800880::1795470252::1795470571::1::::<><>::
+tabletop export6_darkened png.png::CompressedTexture2D::305809704268311360::1795470253::1795470571::1::::<><>::
+tabletop export6_metal24 pump action painted2.png::CompressedTexture2D::2914932194783187943::1795470258::1795470572::1::::<><>::
+tabletop export6_metal024 pump action painted normal2.png::CompressedTexture2D::6247632814075713302::1795470256::1795470572::1::::<><>::
+tabletop export6_metal024 pump action painted normal.png::CompressedTexture2D::4433900003889341619::1795470255::1795470572::1::::<><>::
+tabletop export6_metal24 pump action painted.png::CompressedTexture2D::7229264291077242777::1795470257::1795470572::1::::<><>::
+tabletop export6_metal sheet albedo darkened png.png::CompressedTexture2D::4781156801941764568::1795470253::1795470572::1::::<><>::
+tabletop export6_metal sheet brighter2.png::CompressedTexture2D::5550294786435754026::1795470253::1795470572::1::::<><>::
+tabletop export6_metal sheet copy_beer can brighter.png::CompressedTexture2D::7304152312378422613::1795470254::1795470573::1::::<><>::
+tabletop export6_metal sheet copy_handcuffs.png::CompressedTexture2D::8654807646139657843::1795470254::1795470573::1::::<><>::
+tabletop export6_metal sheet normal.png::CompressedTexture2D::3468535524440278916::1795470254::1795470572::1::::<><>::
+tabletop export6_metal sheet red saw_painted.png::CompressedTexture2D::2117070712961769149::1795470255::1795470573::1::::<><>::
+tabletop export6_saw texture2.png::CompressedTexture2D::1088745208142384073::1795470260::1795470574::1::::<><>::
+tabletop export6_steel barred normal png.png::CompressedTexture2D::1706754580297267919::1795470260::1795470573::1::::<><>::
+tabletop export6_steel battered albedo png.png::CompressedTexture2D::7817114397276069326::1795470260::1795470573::1::::<><>::
+tabletop export6_tabletop felt normal.png::CompressedTexture2D::1705213587234103618::1795470262::1795470576::1::::<><>::
+tabletop export6_tabletop felt shotgun radius compartment2.png::CompressedTexture2D::6421471364237942574::1795470263::1795470574::1::::<><>::
+tabletop export6_tabletop felt shotgun radius with lines greyed out flippeed.png::CompressedTexture2D::8608113497598047989::1795470264::1795470574::1::::<><>::
+tabletop export6_tabletop felt shotgun radius with lines greyed out.png::CompressedTexture2D::3438378658291226915::1795470265::1795470575::1::::<><>::
+tabletop export6_tabletop felt shotgun radius wo lines.png::CompressedTexture2D::3121783670514371413::1795470266::1795470575::1::::<><>::
+tabletop export6_tabletop felt.png::CompressedTexture2D::7131178794337575155::1795470267::1795470575::1::::<><>::
+tabletop export6_tabletop felt_without lines.png::CompressedTexture2D::5171198861287145063::1795470268::1795470576::1::::<><>::
+tabletop export6_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::1083380248566164288::1795470268::1795470586::1::::<><>::
+tabletop export6_TexturesCom_MetalSheet_Aged_512_albedo.png::CompressedTexture2D::1536048824454244950::1795470269::1795470587::1::::<><>::
+tabletop export6_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::1430002641217767218::1795470269::1795470587::1::::<><>::
+tabletop export6_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::8807051082896789693::1795470269::1795470587::1::::<><>::
+tabletop export6_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::294103230373376277::1795470270::1795470588::1::::<><>::
+tabletop export6_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::4755773845629379743::1795470270::1795470588::1::::<><>::
+tabletop export6_wood worn albedo.png::CompressedTexture2D::2665352365162277215::1795470270::1795470587::1::::<><>::
+tabletop export6_worn bare darkened.png::CompressedTexture2D::2636705683429926196::1795470271::1795470587::1::::<><>::
+::res://models/tabletop health counter/::1795470278
+tabletop health counter export1_health counter metal.png::CompressedTexture2D::3393517661523462560::1795470271::1795470588::1::::<><>::
+tabletop health counter export1_tabletop felt normal.png::CompressedTexture2D::8933747771277286646::1795470273::1795470590::1::::<><>::
+tabletop health counter export1_tabletop felt shell compartment.png::CompressedTexture2D::2176252067621117811::1795470274::1795470589::1::::<><>::
+tabletop health counter export1_tabletop felt shotgun radius compartment2.png::CompressedTexture2D::289835839467755405::1795470275::1795470589::1::::<><>::
+tabletop health counter export1_tabletop felt shotgun radius with lines greyed out.png::CompressedTexture2D::4730508812844152596::1795470275::1795470589::1::::<><>::
+tabletop health counter export1_tabletop felt_without lines.png::CompressedTexture2D::2606701388637299714::1795470277::1795470590::1::::<><>::
+tabletop health counter export1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::2894370839458761328::1795470277::1795470590::1::::<><>::
+tabletop health counter export1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::5768576434684979698::1795470277::1795470589::1::::<><>::
+tabletop health counter export1_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::455098486892370205::1795470277::1795470590::1::::<><>::
+tabletop health counter export1_wood worn albedo.png::CompressedTexture2D::8377520757478879141::1795470278::1795470590::1::::<><>::
+tabletop health counter export1_worn bare darkened.png::CompressedTexture2D::154942822806129842::1795470278::1795470590::1::::<><>::
+::res://models/tabletop standalone2/::1795470287
+tabletop standalone export2_tabletop felt normal.png::CompressedTexture2D::4501065877521547722::1795470280::1795470595::1::::<><>::
+tabletop standalone export2_tabletop felt shell compartment.png::CompressedTexture2D::3681622703415159737::1795470280::1795470592::1::::<><>::
+tabletop standalone export2_tabletop felt shotgun radius compartment2.png::CompressedTexture2D::3945719999905874441::1795470281::1795470592::1::::<><>::
+tabletop standalone export2_tabletop felt shotgun radius with lines greyed out flippeed.png::CompressedTexture2D::4432051851860124931::1795470282::1795470592::1::::<><>::
+tabletop standalone export2_tabletop felt shotgun radius with lines greyed out.png::CompressedTexture2D::1826168088737184969::1795470282::1795470593::1::::<><>::
+tabletop standalone export2_tabletop felt shotgun radius wo lines.png::CompressedTexture2D::1642390435433335635::1795470283::1795470594::1::::<><>::
+tabletop standalone export2_tabletop felt.png::CompressedTexture2D::8300258083875229794::1795470284::1795470594::1::::<><>::
+tabletop standalone export2_tabletop felt_without lines.png::CompressedTexture2D::3643581308262204526::1795470285::1795470595::1::::<><>::
+tabletop standalone export2_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::2426878846763004907::1795470285::1795470595::1::::<><>::
+tabletop standalone export2_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::3230341126509395376::1795470286::1795470581::1::::<><>::
+tabletop standalone export2_wood worn albedo.png::CompressedTexture2D::6138248999353720847::1795470286::1795470581::1::::<><>::
+tabletop standalone export2_worn bare darkened.png::CompressedTexture2D::8869157617175282688::1795470287::1795470581::1::::<><>::
+::res://models/temp delaer export1/::1795470287
+dealer temp model export1_skin base.png::CompressedTexture2D::3834916622221565780::1795470287::1795470582::1::::<><>::
+::res://models/vehicle backdrop/::1795470287
+vehicle backdrop1_metal sheet highway guard.png::CompressedTexture2D::3950399962929093241::1795470287::1795470581::1::::<><>::
+vehicle backdrop1_wooden fence main.png::CompressedTexture2D::4835156187281444987::1795470287::1795470581::1::::<><>::
+::res://models/vellon statue/::1795470288
+vellon statue1_vellon statue.png::CompressedTexture2D::971625618254535741::1795470288::1795470582::1::::<><>::
+::res://multiplayer/::1795466314
+::res://multiplayer/audio/::1795466313
+::res://multiplayer/audio/dialogue clicks/::1795466312
+::res://multiplayer/audio/item audio/::1795466312
+::res://multiplayer/audio/main audio/::1795466313
+::res://multiplayer/audio/misc audio/::1795466313
+::res://multiplayer/audio/music/::1795466313
+::res://multiplayer/instances/::1795466313
+::res://multiplayer/instances/item instances/::1795466313
+::res://multiplayer/instances/main hand instances/::1795466313
+::res://multiplayer/instances/main hand instances/main hand instance separate mesh test1/::1795470289
+main hand instance separate mesh test1_item briefcase5.png::CompressedTexture2D::7947435541207485802::1795470289::1795470583::1::::<><>::
+::res://multiplayer/instances/main hand instances/main hand instance separate mesh test1_L/::1795470290
+main hand instance separate mesh test1_L_item briefcase5.png::CompressedTexture2D::4376543708552676090::1795470290::1795470584::1::::<><>::
+::res://multiplayer/instances/main hand instances/main hand instance_L/::1795470290
+main hand instance_L_skin base hand_left.png::CompressedTexture2D::2350386576900891215::1795470290::1795470584::1::::<><>::
+::res://multiplayer/instances/main hand instances/main hand instance_LR_additional grab1/::1795470291
+main hand instance_LR_additional grab2_skin base hand_left.png::CompressedTexture2D::6381181224472373763::1795470291::1795470584::1::::<><>::
+::res://multiplayer/instances/main hand instances/main hand instance_R/::1795470291
+main hand instance_R_skin base hand_left.png::CompressedTexture2D::1122596041472991727::1795470291::1795470584::1::::<><>::
+::res://multiplayer/instances/main hand instances/main hand instance_R_additional1/::1795470292
+main hand instance_R_additional1_skin base hand_left.png::CompressedTexture2D::1909155487130419804::1795470292::1795470584::1::::<><>::
+::res://multiplayer/instances/main hand instances/main hand instance_R_pinch1/::1795466313
+::res://multiplayer/instances/main hand instances/main hand instance_R_pinch2/::1795466313
+::res://multiplayer/instances/main hand instances/main hand instance_R_pinch5/::1795470292
+main hand instance_R_pinch5_skin base hand_left.png::CompressedTexture2D::6092916920016180123::1795470292::1795470585::1::::<><>::
+::res://multiplayer/instances/main hand instances/main hand instance_R_point1/::1795470293
+main hand instance_R_point1_skin base hand_left.png::CompressedTexture2D::4755114892374977649::1795470293::1795470585::1::::<><>::
+::res://multiplayer/instances/main hand instances/mp_customization hand wire hole1/::1795470293
+mp_customization hand wire hole1_metal base_hand wire2.png::CompressedTexture2D::5842133456714234023::1795470293::1795470585::1::::<><>::
+::res://multiplayer/instances/main hand instances/mp_customization temp_hand wire3/::1795466313
+::res://multiplayer/instances/main hand instances/mp_customization temp_hand wire4/::1795466313
+::res://multiplayer/instances/main hand instances/temp mesh_pinch1/::1795470294
+temp mesh_pinch1_skin base hand_left.png::CompressedTexture2D::5995559779757194272::1795470294::1795470585::1::::<><>::
+::res://multiplayer/instances/main hand instances/temp mesh_pinch2/::1795470295
+temp mesh_pinch2_skin base hand_left.png::CompressedTexture2D::718951229324145938::1795470295::1795470585::1::::<><>::
+::res://multiplayer/instances/main hand instances/temp mesh_R_point1/::1795470295
+temp mesh_R_point1_skin base hand_left.png::CompressedTexture2D::8246909318159751830::1795470295::1795470586::1::::<><>::
+::res://multiplayer/materials/::1795466313
+::res://multiplayer/misc/::1795470296
+billboard_shader.gdshader::Shader::-1::1795465280::0::1::::<><>::
+mp_shader_sky.gdshader::Shader::-1::1795465280::0::1::::<><>::
+stars.png::CompressedTexture2D::4922974174327243400::1795470296::1795470586::1::::<><>::
+vhs2.gdshader::Shader::-1::1795465280::0::1::::<><>::
+vhs3.gdshader::Shader::-1::1795465280::0::1::::<><>::
+vhs_shader.gdshader::Shader::-1::1795465280::0::1::::<><>::
+::res://multiplayer/misc/icons/::1795466313
+::res://multiplayer/models/::1795466314
+::res://multiplayer/models/characters/::1795466313
+::res://multiplayer/models/characters/hands1/::1795470296
+hands1_skin base hand_left.png::CompressedTexture2D::4571899710760403093::1795470296::1795470586::1::::<><>::
+::res://multiplayer/models/characters/hands_briefcase1/::1795470297
+hands_briefcase1_skin base hand_left.png::CompressedTexture2D::7435353727796656828::1795470297::1795470586::1::::<><>::
+::res://multiplayer/models/characters/hands_on table/::1795470298
+hands_on table1_skin base hand_left.png::CompressedTexture2D::2305646324405725811::1795470298::1795470551::1::::<><>::
+::res://multiplayer/models/characters/mp_customization gas mask1/::1795470299
+mp_customization gas mask1_gas mask base2.png::CompressedTexture2D::2814283031293121793::1795470299::1795470551::1::::<><>::
+mp_customization gas mask1_gas mask strap1.png::CompressedTexture2D::7994858650665745287::1795470299::1795470551::1::::<><>::
+mp_customization gas mask1_mp gambler skin_gas mask1.png::CompressedTexture2D::6028336113675059519::1795470299::1795470551::1::::<><>::
+::res://multiplayer/models/characters/mp_customization respirator2/::1795470301
+mp_customization respirator2_mp gambler skin_respirator1.png::CompressedTexture2D::3853217638946201164::1795470300::1795470551::1::::<><>::
+mp_customization respirator2_mp_gambler teeth base1.png::CompressedTexture2D::6078767838812204477::1795470300::1795470551::1::::<><>::
+mp_customization respirator2_respirator base1.png::CompressedTexture2D::5565382234498172784::1795470301::1795470553::1::::<><>::
+mp_customization respirator2_respirator filter base2.png::CompressedTexture2D::3858215806152511808::1795470301::1795470552::1::::<><>::
+::res://multiplayer/models/characters/mp_customization temp_hand wire2/::1795466313
+::res://multiplayer/models/characters/mp_customization welding mask1/::1795470305
+mp_customization welding mask1_mp gambler skin_welding mask.png::CompressedTexture2D::91357984217381283::1795470302::1795470552::1::::<><>::
+mp_customization welding mask1_mp_gambler teeth base1.png::CompressedTexture2D::706050988228682718::1795470302::1795470552::1::::<><>::
+mp_customization welding mask1_strap1.png::CompressedTexture2D::6192923844065770091::1795470302::1795470552::1::::<><>::
+mp_customization welding mask1_welding mask base2.png::CompressedTexture2D::3677001874416896543::1795470305::1795470553::1::::<><>::
+::res://multiplayer/models/characters/mp_gambler mesh3/::1795470305
+mp gambler skin2 - Copy.png::CompressedTexture2D::6217976945389464064::1795470305::1795470552::1::::<><>::
+mp_gambler mesh3_mp gambler skin2.png::CompressedTexture2D::8967024780096896070::1795470305::1795470553::1::::<><>::
+mp_gambler mesh3_mp_gambler teeth base1.png::CompressedTexture2D::5405356176917831599::1795470305::1795470553::1::::<><>::
+::res://multiplayer/models/characters/placeholder characters1/::1795470310
+placeholder characters1_metal24 pump action painted2.png::CompressedTexture2D::3324195670606989138::1795470309::1795470554::1::::<><>::
+placeholder characters1_metal024 pump action painted normal2.png::CompressedTexture2D::2185603700064570698::1795470306::1795470554::1::::<><>::
+placeholder characters1_metal024 pump action painted normal.png::CompressedTexture2D::7515609869145814426::1795470306::1795470554::1::::<><>::
+placeholder characters1_metal24 pump action painted.png::CompressedTexture2D::4297730860350266271::1795470308::1795470555::1::::<><>::
+placeholder characters1_smoker dude.png::CompressedTexture2D::4569725815062316804::1795470310::1795470555::1::::<><>::
+placeholder characters1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::5416617045011211140::1795470310::1795470555::1::::<><>::
+placeholder characters1_wood worn albedo.png::CompressedTexture2D::3733503557681576260::1795470310::1795470555::1::::<><>::
+::res://multiplayer/models/characters/placeholder instance1/::1795470311
+placeholder instance1_placeholder instance1.png::CompressedTexture2D::2443510403748802880::1795470311::1795470555::1::::<><>::
+::res://multiplayer/models/environments/::1795466313
+::res://multiplayer/models/environments/airplane1/::1795470312
+airplane1_concrete plane1.png::CompressedTexture2D::8593827788084493666::1795470312::1795470556::1::::<><>::
+::res://multiplayer/models/environments/chimney1/::1795470313
+chimney1_chimney base1.png::CompressedTexture2D::1878841825069679807::1795470313::1795470556::1::::<><>::
+::res://multiplayer/models/environments/club dancers/::1795466313
+::res://multiplayer/models/environments/exterior environment/::1795466313
+::res://multiplayer/models/environments/exterior environment/exterior environment blockout1/::1795470319
+exterior environment blockout1_asphalt seamless temp.png::CompressedTexture2D::9101640331489484365::1795470313::1795470556::1::::<><>::
+exterior environment blockout1_concrete 2048 exterior2.png::CompressedTexture2D::2565358102755434349::1795470318::1795470561::1::::<><>::
+exterior environment blockout1_door1.png::CompressedTexture2D::1277810664048449832::1795470318::1795470544::1::::<><>::
+exterior environment blockout1_windows1.png::CompressedTexture2D::3179939300617524369::1795470319::1795470544::1::::<><>::
+::res://multiplayer/models/environments/exterior environment/exterior environment main1/::1795470338
+exterior environment main1_abduction van engine.png::CompressedTexture2D::4845146070191335287::1795470319::1795470543::1::::<><>::
+exterior environment main1_anodized aluminum red 1024.png::CompressedTexture2D::6233891758221534457::1795470320::1795470544::1::::<><>::
+exterior environment main1_anodized aluminum red trunk latch.png::CompressedTexture2D::65630586828421804::1795470320::1795470544::1::::<><>::
+exterior environment main1_anodized aluminum white.png::CompressedTexture2D::4584586759878076255::1795470321::1795470545::1::::<><>::
+exterior environment main1_asphalt painted sector1.png::CompressedTexture2D::6383578249219738347::1795470322::1795470545::1::::<><>::
+exterior environment main1_asphalt seamless temp.png::CompressedTexture2D::2578613700240397961::1795470322::1795470544::1::::<><>::
+exterior environment main1_boombox1.png::CompressedTexture2D::1345417304129081312::1795470322::1795470545::1::::<><>::
+exterior environment main1_canned food1.png::CompressedTexture2D::2879072082709322841::1795470322::1795470545::1::::<><>::
+exterior environment main1_concrete 2048 exterior2.png::CompressedTexture2D::8391021691901844698::1795470327::1795470551::1::::<><>::
+exterior environment main1_door1.png::CompressedTexture2D::5849167883265200437::1795470328::1795470545::1::::<><>::
+exterior environment main1_ford headlights.png::CompressedTexture2D::3181844644638192198::1795470328::1795470545::1::::<><>::
+exterior environment main1_ford tire.png::CompressedTexture2D::4297454073506180920::1795470329::1795470547::1::::<><>::
+exterior environment main1_grass2 png.png::CompressedTexture2D::8540441033199026087::1795470329::1795470546::1::::<><>::
+exterior environment main1_hustler1.png::CompressedTexture2D::8197281899968073122::1795470330::1795470547::1::::<><>::
+exterior environment main1_Metal025_1K_Color.png::CompressedTexture2D::50447675030414097::1795470331::1795470548::1::::<><>::
+exterior environment main1_tag1.png::CompressedTexture2D::534252802687672954::1795470331::1795470547::1::::<><>::
+exterior environment main1_tag2.png::CompressedTexture2D::6894353788612878225::1795470331::1795470548::1::::<><>::
+exterior environment main1_tag3.png::CompressedTexture2D::3315740414657245184::1795470331::1795470548::1::::<><>::
+exterior environment main1_TexturesCom_Grass12_512_normal.png::CompressedTexture2D::393587774174737721::1795470332::1795470548::1::::<><>::
+exterior environment main1_TexturesCom_Metal_Damaged_512_albedo.png::CompressedTexture2D::4680025325103839113::1795470332::1795470548::1::::<><>::
+exterior environment main1_TexturesCom_Rust_Pitted_512_albedo.png::CompressedTexture2D::6824079677904349770::1795470332::1795470548::1::::<><>::
+exterior environment main1_tire rusty desat.png::CompressedTexture2D::711055926854778765::1795470333::1795470549::1::::<><>::
+exterior environment main1_tire tread it1.png::CompressedTexture2D::263040288415365594::1795470334::1795470550::1::::<><>::
+exterior environment main1_trash1.png::CompressedTexture2D::285123367606795305::1795470335::1795470550::1::::<><>::
+exterior environment main1_tree1.png::CompressedTexture2D::4006245018565151788::1795470336::1795470552::1::::<><>::
+exterior environment main1_tree2.png::CompressedTexture2D::4532171660164195186::1795470336::1795470564::1::::<><>::
+exterior environment main1_whindshield ford courier1.png::CompressedTexture2D::249570118645539705::1795470336::1795470563::1::::<><>::
+exterior environment main1_windows1.png::CompressedTexture2D::7705122812310598429::1795470337::1795470564::1::::<><>::
+exterior environment main1_wood grain pallet1.png::CompressedTexture2D::8268509583615140735::1795470338::1795470564::1::::<><>::
+::res://multiplayer/models/environments/exterior environment/exterior window emission plane1/::1795470339
+exterior window emission plane1_window mask.png::CompressedTexture2D::5849201316047221962::1795470339::1795470564::1::::<><>::
+exterior window emission plane1_windows1.png::CompressedTexture2D::2191510093791938893::1795470339::1795470564::1::::<><>::
+::res://multiplayer/models/environments/exterior environment/exterior window emission plane segment2/::1795470338
+exterior window emission plane segment2_window mask.png::CompressedTexture2D::7902740980946734543::1795470338::1795470564::1::::<><>::
+exterior window emission plane segment2_windows1.png::CompressedTexture2D::5379501313093838020::1795470338::1795470564::1::::<><>::
+::res://multiplayer/models/environments/interior club environment/::1795470342
+exterior window environment new2_brick industrial png.png::CompressedTexture2D::4390085626554041142::1795470340::1795470564::1::::<><>::
+exterior window environment new2_diry window1.png::CompressedTexture2D::1838655509168877858::1795470340::1795470565::1::::<><>::
+exterior window environment new2_metal door.png::CompressedTexture2D::5162367298082234572::1795470341::1795470565::1::::<><>::
+exterior window environment new2_metal sheet albedo darker.png::CompressedTexture2D::5394754344771900069::1795470342::1795470565::1::::<><>::
+exterior window environment new2_window.png::CompressedTexture2D::1273184866540874366::1795470342::1795470565::1::::<><>::
+exterior window environment new2_windows1.png::CompressedTexture2D::466427399409431719::1795470342::1795470565::1::::<><>::
+::res://multiplayer/models/environments/interior environment/::1795466313
+::res://multiplayer/models/environments/interior environment/fan blade reimport1/::1795470343
+fan blade reimport1_fan base texture2.png::CompressedTexture2D::1379331731893495268::1795470343::1795470566::1::::<><>::
+::res://multiplayer/models/environments/interior environment/interior environment blockout2/::1795470343
+interior environment blockout2_dev texture.png::CompressedTexture2D::984002745264557752::1795470343::1795470565::1::::<><>::
+::res://multiplayer/models/environments/interior environment/interior environment blockout4/::1795470344
+interior environment blockout4_temp seamless concrete.png::CompressedTexture2D::5997214361771739860::1795470344::1795470565::1::::<><>::
+::res://multiplayer/models/environments/interior environment/interior environment blockout5/::1795470344
+interior environment blockout5_temp seamless concrete.png::CompressedTexture2D::1852412721089745397::1795470344::1795470565::1::::<><>::
+::res://multiplayer/models/environments/interior environment/interior environment blockout6/::1795470344
+interior environment blockout6_concrete seamless1.png::CompressedTexture2D::8078343754347645795::1795470344::1795470565::1::::<><>::
+::res://multiplayer/models/environments/interior environment/interior environment main1/::1795470370
+interior environment main1_brick 2048 edited_left side1.png::CompressedTexture2D::1963627315428375829::1795470346::1795470571::1::::<><>::
+interior environment main1_brick 2048 edited_side2.png::CompressedTexture2D::5408789587498212886::1795470349::1795470571::1::::<><>::
+interior environment main1_bucket base1.png::CompressedTexture2D::2184107915124910328::1795470349::1795470567::1::::<><>::
+interior environment main1_canned food1.png::CompressedTexture2D::5383996922649071132::1795470349::1795470566::1::::<><>::
+interior environment main1_cardboard box3.png::CompressedTexture2D::6339740885682600917::1795470350::1795470568::1::::<><>::
+interior environment main1_cigarette.png::CompressedTexture2D::1199038889908670957::1795470350::1795470567::1::::<><>::
+interior environment main1_cigarette_28.png::CompressedTexture2D::2316487223804239365::1795470350::1795470567::1::::<><>::
+interior environment main1_concrete dark1.png::CompressedTexture2D::1673636060073714957::1795470351::1795470569::1::::<><>::
+interior environment main1_concrete dark1_copy window.png::CompressedTexture2D::8299392103418538517::1795470352::1795470569::1::::<><>::
+interior environment main1_cup base1.png::CompressedTexture2D::7528544250539266851::1795470352::1795470556::1::::<><>::
+interior environment main1_device1 edited1.png::CompressedTexture2D::3888980937353816353::1795470352::1795470557::1::::<><>::
+interior environment main1_device2 edited2.png::CompressedTexture2D::6090958578415098523::1795470353::1795470557::1::::<><>::
+interior environment main1_device4 edited3.png::CompressedTexture2D::3909791631129236443::1795470353::1795470557::1::::<><>::
+interior environment main1_device8 edited3.png::CompressedTexture2D::8315612938334074393::1795470353::1795470557::1::::<><>::
+interior environment main1_device9 base2.png::CompressedTexture2D::2791250656124522658::1795470354::1795470558::1::::<><>::
+interior environment main1_dirt.png::CompressedTexture2D::4729627730378424310::1795470354::1795470557::1::::<><>::
+interior environment main1_estonia speaker base2.png::CompressedTexture2D::1736275796182381105::1795470355::1795470558::1::::<><>::
+interior environment main1_fabrtic1.png::CompressedTexture2D::5546848716820102472::1795470355::1795470559::1::::<><>::
+interior environment main1_fan base texture2.png::CompressedTexture2D::387032219383360897::1795470356::1795470559::1::::<><>::
+interior environment main1_fixture.png::CompressedTexture2D::5547088833022060925::1795470356::1795470559::1::::<><>::
+interior environment main1_lintmakk2.png::CompressedTexture2D::8909773247987389360::1795470357::1795470560::1::::<><>::
+interior environment main1_lucky strike ripped2.png::CompressedTexture2D::5118700971898404264::1795470357::1795470559::1::::<><>::
+interior environment main1_Metal021_1K_Color.png::CompressedTexture2D::88296054662370164::1795470358::1795470560::1::::<><>::
+interior environment main1_Metal025_1K_Color.png::CompressedTexture2D::7316773858878047702::1795470359::1795470561::1::::<><>::
+interior environment main1_metal dark stool1.png::CompressedTexture2D::5566385104577446565::1795470357::1795470560::1::::<><>::
+interior environment main1_metal sheet_power supply holder1.png::CompressedTexture2D::6332822172176943322::1795470357::1795470561::1::::<><>::
+interior environment main1_metal_0018 darkened.png::CompressedTexture2D::7293209523790310536::1795470359::1795470561::1::::<><>::
+interior environment main1_metal_0018_color_1k.png::CompressedTexture2D::2157792497623052425::1795470359::1795470561::1::::<><>::
+interior environment main1_mp interior fixture2.png::CompressedTexture2D::5166068889768169318::1795470360::1795470561::1::::<><>::
+interior environment main1_outlet1.png::CompressedTexture2D::6899793608329751322::1795470360::1795470562::1::::<><>::
+interior environment main1_paperwork1.png::CompressedTexture2D::893057976406478375::1795470360::1795470561::1::::<><>::
+interior environment main1_pipe base2 copy3.png::CompressedTexture2D::9220954037688381551::1795470361::1795470562::1::::<><>::
+interior environment main1_pipe base blue1 valve2.png::CompressedTexture2D::6181111500255204405::1795470360::1795470562::1::::<><>::
+interior environment main1_plastic blue base crate1.png::CompressedTexture2D::3722376539652750480::1795470362::1795470563::1::::<><>::
+interior environment main1_radiator base copy main.png::CompressedTexture2D::6441574785585384095::1795470363::1795470563::1::::<><>::
+interior environment main1_radiator base copy pipe.png::CompressedTexture2D::4731035640131203417::1795470364::1795470563::1::::<><>::
+interior environment main1_rust7.png::CompressedTexture2D::8068625698086295288::1795470364::1795470627::1::::<><>::
+interior environment main1_shelf1.png::CompressedTexture2D::8253041629701293928::1795470365::1795470627::1::::<><>::
+interior environment main1_speaker1 edited.png::CompressedTexture2D::8862339692579413833::1795470366::1795470627::1::::<><>::
+interior environment main1_speaker plastic base2.png::CompressedTexture2D::6783187940726476580::1795470366::1795470628::1::::<><>::
+interior environment main1_speaker tall base.png::CompressedTexture2D::1183400422221314007::1795470366::1795470628::1::::<><>::
+interior environment main1_sponge1.png::CompressedTexture2D::7248307305360337398::1795470366::1795470627::1::::<><>::
+interior environment main1_TexturesCom_OldWood2_512_albedo.png::CompressedTexture2D::7446513125131093155::1795470367::1795470627::1::::<><>::
+interior environment main1_TexturesCom_OldWood2_512_normal.png::CompressedTexture2D::6476814310832587784::1795470367::1795470628::1::::<><>::
+interior environment main1_TexturesCom_WornMetal_512_albedo.png::CompressedTexture2D::9164296735441533507::1795470368::1795470628::1::::<><>::
+interior environment main1_vhs spines1.png::CompressedTexture2D::8269011837769007699::1795470369::1795470629::1::::<><>::
+interior environment main1_wood grain pallet1.png::CompressedTexture2D::326375687145963940::1795470370::1795470629::1::::<><>::
+interior environment main1_wood grain stool.png::CompressedTexture2D::770311653989885703::1795470370::1795470628::1::::<><>::
+interior environment main1_wood worn albedo.png::CompressedTexture2D::618378335866690275::1795470370::1795470629::1::::<><>::
+::res://multiplayer/models/environments/interior environment/interior environment wall separate1/::1795470377
+interior environment wall separate1_brick 2048 edited_left side1.png::CompressedTexture2D::5078642668033516405::1795470373::1795470634::1::::<><>::
+interior environment wall separate1_brick 2048 edited_side2.png::CompressedTexture2D::3470281786258105609::1795470376::1795470634::1::::<><>::
+interior environment wall separate1_concrete dark1.png::CompressedTexture2D::6769166859825101396::1795470376::1795470630::1::::<><>::
+interior environment wall separate1_concrete dark1_copy window.png::CompressedTexture2D::1918696630364882236::1795470377::1795470631::1::::<><>::
+interior environment wall separate1_outlet1.png::CompressedTexture2D::3643992682691613690::1795470377::1795470631::1::::<><>::
+::res://multiplayer/models/environments/mp_wall gasket1/::1795470377
+mp_wall gasket1_asphalt seamless temp.png::CompressedTexture2D::2258260442908621409::1795470377::1795470631::1::::<><>::
+::res://multiplayer/models/items/::1795466313
+::res://multiplayer/models/items/indicator remote2/::1795470378
+indicator remote2_koni remote1.png::CompressedTexture2D::4033468578491280132::1795470378::1795470632::1::::<><>::
+indicator remote3_koni remote1.png::CompressedTexture2D::6524491019645973524::1795470378::1795470632::1::::<><>::
+::res://multiplayer/models/items/indicator remote3/::1795470379
+indicator remote3_koni remote1.png::CompressedTexture2D::5676047643236932225::1795470379::1795470633::1::::<><>::
+::res://multiplayer/models/items/magnifier broken/::1795470380
+mp_magnifier broken1_magnifying glass.png::CompressedTexture2D::1339670538079809264::1795470379::1795470632::1::::<><>::
+mp_magnifier broken1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::3815714230611499072::1795470379::1795470633::1::::<><>::
+mp_magnifier broken1_TexturesCom_Metal_BronzeBare_512_albedo.png::CompressedTexture2D::8404815719257324290::1795470379::1795470633::1::::<><>::
+mp_magnifier broken1_TexturesCom_Metal_BronzeBare_512_normal.png::CompressedTexture2D::3191920375497423434::1795470380::1795470634::1::::<><>::
+mp_magnifier broken1_wood worn albedo.png::CompressedTexture2D::7980220052935915618::1795470380::1795470634::1::::<><>::
+::res://multiplayer/models/items/mp_adrenaline1/::1795470382
+mp_adrenaline1_aehathateh.png::CompressedTexture2D::3431972833416068475::1795470381::1795470634::1::::<><>::
+mp_adrenaline1_brass albedo1.png::CompressedTexture2D::8215705325091806246::1795470381::1795470622::1::::<><>::
+mp_adrenaline1_syringe test2.png::CompressedTexture2D::9009811848406744849::1795470382::1795470623::1::::<><>::
+mp_adrenaline1_valve thing.png::CompressedTexture2D::790146919725371475::1795470382::1795470622::1::::<><>::
+::res://multiplayer/models/items/mp_beer can interaction1/::1795470384
+mp_beer can interaction1_beer can2 no text.png::CompressedTexture2D::4520548999181798339::1795470384::1795470623::1::::<><>::
+mp_beer can interaction1_beer can brighter metal.png::CompressedTexture2D::1204504202392519508::1795470383::1795470623::1::::<><>::
+mp_beer can interaction1_metal sheet brighter2.png::CompressedTexture2D::4688042847913176915::1795470384::1795470623::1::::<><>::
+mp_beer can interaction1_metal sheet copy_beer can brighter.png::CompressedTexture2D::8229411972322042111::1795470384::1795470624::1::::<><>::
+mp_beer can interaction1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::7730061718015707880::1795470384::1795470624::1::::<><>::
+::res://multiplayer/models/items/mp_burner phone interaction1/::1795470385
+mp_burner phone interaction1_burner phone2.png::CompressedTexture2D::875631140057570941::1795470385::1795470624::1::::<><>::
+::res://multiplayer/models/items/mp_cigarette interaction2/::1795470388
+mp_cigarette interaction2_cig box front 2.png::CompressedTexture2D::4341726713193201030::1795470385::1795470624::1::::<><>::
+mp_cigarette interaction2_cig box side2.png::CompressedTexture2D::4649021466761616054::1795470386::1795470624::1::::<><>::
+mp_cigarette interaction2_cigarette.png::CompressedTexture2D::8644462583169559832::1795470386::1795470624::1::::<><>::
+mp_cigarette interaction2_health counter metal.png::CompressedTexture2D::4251945112186691496::1795470386::1795470624::1::::<><>::
+mp_cigarette interaction2_jet flame2.png::CompressedTexture2D::6432077974889408168::1795470386::1795470624::1::::<><>::
+mp_cigarette interaction2_plastic base zippo.png::CompressedTexture2D::7183096263251687316::1795470387::1795470624::1::::<><>::
+mp_cigarette interaction2_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::5936706040518970125::1795470387::1795470624::1::::<><>::
+mp_cigarette interaction2_zippo steel base.png::CompressedTexture2D::7581648871327215634::1795470388::1795470626::1::::<><>::
+::res://multiplayer/models/items/mp_handsaw interactable1/::1795470390
+mp_handsaw interactable1_metal sheet red.png::CompressedTexture2D::993724698628406078::1795470388::1795470625::1::::<><>::
+mp_handsaw interactable1_metal sheet_hand saw.png::CompressedTexture2D::733759023094378940::1795470388::1795470625::1::::<><>::
+mp_handsaw interactable1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::3345526928586094866::1795470388::1795470625::1::::<><>::
+mp_handsaw interactable1_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::1413887818538924364::1795470389::1795470625::1::::<><>::
+mp_handsaw interactable1_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::1716950278720043419::1795470390::1795470626::1::::<><>::
+mp_handsaw interactable1_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::4488978128426972496::1795470390::1795470625::1::::<><>::
+mp_handsaw interactable1_worn bare darkened.png::CompressedTexture2D::1560494106561569001::1795470390::1795470625::1::::<><>::
+::res://multiplayer/models/items/mp_inverter interaction1/::1795470391
+mp_inverter interaction1_inverter.png::CompressedTexture2D::3126900602722832772::1795470391::1795470626::1::::<><>::
+mp_inverter interaction1_plastic stained.png::CompressedTexture2D::1850617979481182762::1795470391::1795470627::1::::<><>::
+::res://multiplayer/models/items/mp_item briefcase test1/::1795470392
+mp_item briefcase test1_item briefcase5.png::CompressedTexture2D::5752855861741486799::1795470392::1795470627::1::::<><>::
+mp_item briefcase test1_metal sheet briefcase base2.png::CompressedTexture2D::4500746504107999024::1795470392::1795470640::1::::<><>::
+mp_item briefcase test1_metal sheet briefcase inside2.png::CompressedTexture2D::6991811085391755017::1795470392::1795470640::1::::<><>::
+::res://multiplayer/models/items/mp_items3/::1795470401
+mp_items3_beer can2 no text.png::CompressedTexture2D::8400134132284121595::1795470393::1795470641::1::::<><>::
+mp_items3_beer can brighter metal.png::CompressedTexture2D::7825442676872202796::1795470393::1795470641::1::::<><>::
+mp_items3_burner phone2.png::CompressedTexture2D::5874449668805366635::1795470393::1795470641::1::::<><>::
+mp_items3_cig box front 2.png::CompressedTexture2D::1934556150607096570::1795470394::1795470641::1::::<><>::
+mp_items3_cig box side2.png::CompressedTexture2D::8654053982703108215::1795470395::1795470642::1::::<><>::
+mp_items3_health counter metal.png::CompressedTexture2D::2880656147011003399::1795470395::1795470642::1::::<><>::
+mp_items3_inverter.png::CompressedTexture2D::2844029583134097368::1795470395::1795470642::1::::<><>::
+mp_items3_magnifying glass.png::CompressedTexture2D::71365930379553711::1795470395::1795470642::1::::<><>::
+mp_items3_metal sheet brighter2.png::CompressedTexture2D::4399958988568486489::1795470396::1795470642::1::::<><>::
+mp_items3_metal sheet copy_beer can brighter.png::CompressedTexture2D::16336442728917157::1795470396::1795470642::1::::<><>::
+mp_items3_metal sheet copy_handcuffs.png::CompressedTexture2D::3827603491861343816::1795470396::1795470643::1::::<><>::
+mp_items3_metal sheet red.png::CompressedTexture2D::2834433415611072493::1795470396::1795470643::1::::<><>::
+mp_items3_metal sheet_hand saw.png::CompressedTexture2D::8655451116602162129::1795470397::1795470643::1::::<><>::
+mp_items3_pill box label new5.png::CompressedTexture2D::4272425982948063429::1795470397::1795470644::1::::<><>::
+mp_items3_plastic stained.png::CompressedTexture2D::2653232270293620366::1795470398::1795470644::1::::<><>::
+mp_items3_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::224788248795789665::1795470399::1795470644::1::::<><>::
+mp_items3_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::2361570709601489524::1795470399::1795470643::1::::<><>::
+mp_items3_TexturesCom_Metal_BronzeBare_512_albedo.png::CompressedTexture2D::7230542401210070081::1795470399::1795470644::1::::<><>::
+mp_items3_TexturesCom_Metal_BronzeBare_512_normal.png::CompressedTexture2D::2486617198547747275::1795470399::1795470645::1::::<><>::
+mp_items3_TexturesCom_Rust_Heavy_MediumRust_512_albedo.png::CompressedTexture2D::8878663800373732448::1795470400::1795470645::1::::<><>::
+mp_items3_TexturesCom_Rust_Heavy_MediumRust_512_normal.png::CompressedTexture2D::958977022865237340::1795470400::1795470646::1::::<><>::
+mp_items3_TexturesCom_WornMetal_512_normal.png::CompressedTexture2D::8589668039952555283::1795470400::1795470646::1::::<><>::
+mp_items3_wood worn albedo.png::CompressedTexture2D::61553548614051356::1795470401::1795470645::1::::<><>::
+mp_items3_worn bare darkened.png::CompressedTexture2D::6494897152235796352::1795470401::1795470646::1::::<><>::
+::res://multiplayer/models/items/mp_jammer2/::1795470401
+mp_jammer2_jammer4.png::CompressedTexture2D::3540944222694690704::1795470401::1795470646::1::::<><>::
+::res://multiplayer/models/items/mp_jammer3/::1795470401
+mp_jammer3_jammer4.png::CompressedTexture2D::353172641257438407::1795470401::1795470646::1::::<><>::
+::res://multiplayer/models/items/mp_jammer proportions test1/::1795470401
+mp_jammer proportions test1_jammer4.png::CompressedTexture2D::8172326029615068514::1795470401::1795470634::1::::<><>::
+::res://multiplayer/models/items/mp_shotgun mesh base fixed1/::1795470404
+mp_shotgun mesh base fixed1_metal24 pump action painted2.png::CompressedTexture2D::1713957188410273585::1795470404::1795470635::1::::<><>::
+mp_shotgun mesh base fixed1_metal024 pump action painted normal.png::CompressedTexture2D::5051880621293051626::1795470402::1795470635::1::::<><>::
+mp_shotgun mesh base fixed1_metal24 pump action painted.png::CompressedTexture2D::1080423282908907305::1795470403::1795470636::1::::<><>::
+mp_shotgun mesh base fixed1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::5007207979321829735::1795470404::1795470635::1::::<><>::
+mp_shotgun mesh base fixed1_wood worn albedo.png::CompressedTexture2D::7533725787796179048::1795470404::1795470635::1::::<><>::
+::res://multiplayer/models/items/mp_shotgun mesh cut segment1/::1795470407
+mp_shotgun mesh cut segment1_metal24 pump action painted2.png::CompressedTexture2D::1924435977468724938::1795470407::1795470636::1::::<><>::
+mp_shotgun mesh cut segment1_metal024 pump action painted normal.png::CompressedTexture2D::5825878061597518604::1795470404::1795470636::1::::<><>::
+mp_shotgun mesh cut segment1_metal24 pump action painted.png::CompressedTexture2D::7230472529608495478::1795470405::1795470637::1::::<><>::
+mp_shotgun mesh cut segment1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::5062033862488530023::1795470407::1795470636::1::::<><>::
+mp_shotgun mesh cut segment1_wood worn albedo.png::CompressedTexture2D::3726731626722982302::1795470407::1795470637::1::::<><>::
+::res://multiplayer/models/items/shotgun base object1/::1795466313
+::res://multiplayer/models/items/shotgun main1/::1795470411
+shotgun main1_metal24 pump action painted2.png::CompressedTexture2D::2586537509521078254::1795470411::1795470638::1::::<><>::
+shotgun main1_metal024 pump action painted normal2.png::CompressedTexture2D::4936030783412849226::1795470409::1795470638::1::::<><>::
+shotgun main1_metal024 pump action painted normal.png::CompressedTexture2D::1598267050195655510::1795470409::1795470638::1::::<><>::
+shotgun main1_metal24 pump action painted.png::CompressedTexture2D::8234078692887999282::1795470410::1795470638::1::::<><>::
+shotgun main1_metal sheet main rotator_copy1.png::CompressedTexture2D::3116142680763866409::1795470408::1795470639::1::::<><>::
+shotgun main1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::7594796065817377329::1795470411::1795470638::1::::<><>::
+shotgun main1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::7211586299610584173::1795470411::1795470638::1::::<><>::
+shotgun main1_wood worn albedo.png::CompressedTexture2D::5363216532402085918::1795470411::1795470638::1::::<><>::
+::res://multiplayer/models/misc/::1795466313
+::res://multiplayer/models/misc/globe2/::1795470411
+globe2_world map png.png::CompressedTexture2D::2200050984570995316::1795470411::1795470639::1::::<><>::
+::res://multiplayer/models/misc/mp_defibrillator1/::1795470411
+mp_defibrillator1_metal defib device.png::CompressedTexture2D::7722587521738179219::1795470411::1795470639::1::::<><>::
+mp_defibrillator1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::6807857225778469547::1795470411::1795470639::1::::<><>::
+::res://multiplayer/models/misc/mp_ice machine model1/::1795470412
+mp_ice machine model1_ice machine base1.png::CompressedTexture2D::6755740653678784531::1795470412::1795470639::1::::<><>::
+mp_ice machine model1_ice machine base2.jpg::CompressedTexture2D::5390733573766688845::0::0::1::::<><>::
+::res://multiplayer/models/misc/muzzle flash cone/::1795470412
+muzzle flash cone1_mp_muzzle flash4.png::CompressedTexture2D::3642455604867822099::1795470412::1795470640::1::::<><>::
+::res://multiplayer/models/misc/muzzle flash plane main/::1795470413
+muzzle flash plane main1_muzzle flash plane3.png::CompressedTexture2D::4785961469322414689::1795470413::1795470639::1::::<><>::
+muzzle flash plane main1_muzzle flash plane4.png::CompressedTexture2D::3998501743255833252::1795470413::1795470640::1::::<><>::
+::res://multiplayer/models/misc/orangefruit/::1795470414
+orange3_leaf1.png::CompressedTexture2D::6234089464200535923::1795470413::1795470602::1::::<><>::
+orange3_orange1.png::CompressedTexture2D::485698521244832742::1795470414::1795470604::1::::<><>::
+::res://multiplayer/models/misc/single shell/::1795470414
+single shell main1_mp_shell blank default.png::CompressedTexture2D::3215787126320342042::1795470414::1795470603::1::::<><>::
+single shell main1_mp_shell cap.png::CompressedTexture2D::4613531191758165646::1795470414::1795470603::1::::<><>::
+single shell main1_TexturesCom_Metal_BronzeBare_512_albedo.png::CompressedTexture2D::7040726300161714472::1795470414::1795470603::1::::<><>::
+::res://multiplayer/models/tabletops/::1795466314
+::res://multiplayer/models/tabletops/health indicator new1/::1795470415
+health indicator new1_health indicator paint2.png::CompressedTexture2D::600021221168500471::1795470415::1795470605::1::::<><>::
+health indicator new1_metal sheet_health indicator paint3.png::CompressedTexture2D::4553273078669063918::1795470415::1795470604::1::::<><>::
+::res://multiplayer/models/tabletops/item remover2/::1795470417
+item remover2_metal sheet_item remover base1.png::CompressedTexture2D::4692403353063979716::1795470417::1795470604::1::::<><>::
+::res://multiplayer/models/tabletops/item remover main2/::1795470417
+item remover main2_gauge indicator2_green.png::CompressedTexture2D::3715699915891381407::1795470415::1795470604::1::::<><>::
+item remover main2_item remover grille1.png::CompressedTexture2D::1224755735895365514::1795470415::1795470605::1::::<><>::
+item remover main2_metal sheet darkened_item remover hoist.png::CompressedTexture2D::7725118429899948008::1795470416::1795470604::1::::<><>::
+item remover main2_metal sheet_item remover hoist.png::CompressedTexture2D::419442036982021034::1795470416::1795470605::1::::<><>::
+item remover main2_metal sheet_item remover holder2.png::CompressedTexture2D::6588134008510417995::1795470416::1795470605::1::::<><>::
+item remover main2_tech ten2.png::CompressedTexture2D::859974812630911682::1795470417::1795470606::1::::<><>::
+::res://multiplayer/models/tabletops/mp_briefcase machine1/::1795470420
+mp_briefcase machine1_base metal_briefcase machine darkened3.png::CompressedTexture2D::1617529438915744437::1795470418::1795470606::1::::<><>::
+mp_briefcase machine1_base metal_briefcase machine.png::CompressedTexture2D::5103840097878510469::1795470419::1795470606::1::::<><>::
+mp_briefcase machine1_metal sheet briefcasen ew.png::CompressedTexture2D::2358537789307172018::1795470419::1795470605::1::::<><>::
+mp_briefcase machine1_money4.png::CompressedTexture2D::2588531014713055309::1795470419::1795470605::1::::<><>::
+mp_briefcase machine1_paper stack side money.png::CompressedTexture2D::6564917931238563231::1795470419::1795470606::1::::<><>::
+mp_briefcase machine1_suitsetamine keelatud.png::CompressedTexture2D::8517623394409104651::1795470419::1795470606::1::::<><>::
+mp_briefcase machine1_tabletop briefcase1_carbon fiber normal png.png::CompressedTexture2D::4955563508637029030::1795470420::1795470607::1::::<><>::
+mp_briefcase machine1_tabletop export6_carbon fiber albedo png.png::CompressedTexture2D::3987609859033138714::1795470420::1795470606::1::::<><>::
+::res://multiplayer/models/tabletops/mp_center piece arms new mesh3/::1795470421
+mp_center piece arms new mesh3_metal sheet main rotator_copy1.png::CompressedTexture2D::5159236360228790099::1795470421::1795470608::1::::<><>::
+mp_center piece arms new mesh3_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::6200822446663615966::1795470421::1795470607::1::::<><>::
+::res://multiplayer/models/tabletops/mp_health counter vertical with timeout indicator2/::1795470422
+mp_health counter vertical with timeout indicator2_copper1.png::CompressedTexture2D::7087866669116530939::1795470421::1795470607::1::::<><>::
+mp_health counter vertical with timeout indicator2_metal sheet_health indicator new hardware1.png::CompressedTexture2D::4741666336134710205::1795470422::1795470607::1::::<><>::
+::res://multiplayer/models/tabletops/mp_item briefcase lid with timeout display1/::1795470423
+mp_item briefcase lid with timeout display1_item briefcase5.png::CompressedTexture2D::5084864460473695917::1795470422::1795470608::1::::<><>::
+mp_item briefcase lid with timeout display1_metal sheet briefcase base2.png::CompressedTexture2D::8964573057519352617::1795470423::1795470595::1::::<><>::
+mp_item briefcase lid with timeout display1_mp item briefcase timeout casing2.png::CompressedTexture2D::149550362025164100::1795470423::1795470595::1::::<><>::
+mp_item briefcase lid with timeout display1_mp_item briefcase lid new timeout grunge1.png::CompressedTexture2D::1932536484509695436::1795470423::1795470596::1::::<><>::
+::res://multiplayer/models/tabletops/mp_user grid placement colliders1/::1795466314
+::res://multiplayer/models/tabletops/mp_vertical health indicator wood frame1/::1795470424
+mp_vertical health indicator wood frame1_copper1.png::CompressedTexture2D::4005082512092291049::1795470424::1795470596::1::::<><>::
+mp_vertical health indicator wood frame1_metal sheet_health indicator new hardware1.png::CompressedTexture2D::1907837771703808562::1795470424::1795470596::1::::<><>::
+mp_vertical health indicator wood frame1_wood worn albedo.png::CompressedTexture2D::3104346644663777868::1795470424::1795470596::1::::<><>::
+::res://multiplayer/models/tabletops/shotgun test1/::1795470427
+shotgun test1_metal24 pump action painted2.png::CompressedTexture2D::4265879759259914817::1795470427::1795470597::1::::<><>::
+shotgun test1_metal024 pump action painted normal2.png::CompressedTexture2D::6001972128797851283::1795470426::1795470597::1::::<><>::
+shotgun test1_metal024 pump action painted normal.png::CompressedTexture2D::6573518634089781563::1795470425::1795470597::1::::<><>::
+shotgun test1_metal24 pump action painted.png::CompressedTexture2D::1657460693931621883::1795470426::1795470597::1::::<><>::
+shotgun test1_metal sheet main rotator_copy1.png::CompressedTexture2D::8773048130232687897::1795470425::1795470598::1::::<><>::
+shotgun test1_TCom_Wood_Worn2_512_normal.png::CompressedTexture2D::7915069980539955730::1795470427::1795470598::1::::<><>::
+shotgun test1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::3261410498535640845::1795470427::1795470597::1::::<><>::
+shotgun test1_wood worn albedo.png::CompressedTexture2D::8824948747841050672::1795470427::1795470598::1::::<><>::
+::res://multiplayer/models/tabletops/table mp_main padding item remover1/::1795470432
+table mp_main padding item remover1_metal sheet_lower table1.png::CompressedTexture2D::8845361669504280894::1795470428::1795470598::1::::<><>::
+table mp_main padding item remover1_tabletop felt highres9.png::CompressedTexture2D::209460325539051786::1795470432::1795470603::1::::<><>::
+table mp_main padding item remover1_TexturesCom_MetalSheet_Aged_512_normal.png::CompressedTexture2D::1405777165055243558::1795470432::1795470598::1::::<><>::
+::res://multiplayer/models/tabletops/table mp_main padding with health indicator side2/::1795470433
+table mp_main padding with health indicator side2_metal sheet_health indicator side paint1.png::CompressedTexture2D::4046039476813515207::1795470432::1795470598::1::::<><>::
+table mp_main padding with health indicator side2_tabletop main4.png::CompressedTexture2D::8400349058375736360::1795470433::1795470599::1::::<><>::
+::res://multiplayer/models/tabletops/table mp_new frame1/::1795470433
+table mp_new frame1_wood worn albedo.png::CompressedTexture2D::3512721330493726070::1795470433::1795470598::1::::<><>::
+::res://multiplayer/models/tabletops/table mp_shell sequence machine1/::1795470441
+table mp_shell sequence machine1_Metal023_1K-JPG_Color_edited.png::CompressedTexture2D::6530083246658129970::1795470437::1795470600::1::::<><>::
+table mp_shell sequence machine1_metal sheet shell sequence machine base13.png::CompressedTexture2D::4343499709413703968::1795470435::1795470600::1::::<><>::
+table mp_shell sequence machine1_metal sheet shell sequence machine upper base1.png::CompressedTexture2D::822951667737701462::1795470436::1795470601::1::::<><>::
+table mp_shell sequence machine1_tabletop felt highres9.png::CompressedTexture2D::3146136942863311752::1795470441::1795470605::1::::<><>::
+::res://multiplayer/models/tabletops/table mp_shell sequence machine3/::1795470448
+table mp_shell sequence machine3_Metal023_1K-JPG_Color_edited.png::CompressedTexture2D::5184196457421276381::1795470445::1795470601::1::::<><>::
+table mp_shell sequence machine3_metal sheet shell sequence machine base13.png::CompressedTexture2D::5682569524380785389::1795470442::1795470602::1::::<><>::
+table mp_shell sequence machine3_metal sheet shell sequence machine under padding base1.png::CompressedTexture2D::8201463760545769426::1795470443::1795470603::1::::<><>::
+table mp_shell sequence machine3_metal sheet shell sequence machine upper base1.png::CompressedTexture2D::7533558399329099105::1795470444::1795470615::1::::<><>::
+table mp_shell sequence machine3_tabletop felt highres9.png::CompressedTexture2D::4456611838868650353::1795470448::1795470621::1::::<><>::
+::res://multiplayer/models/tabletops/table mp_shell sequence machine blockout1/::1795466314
+::res://multiplayer/models/tabletops/table mp_shell sequence machine hinge1/::1795470434
+table mp_shell sequence machine hinge1_metal sheet shell sequence machine base13.png::CompressedTexture2D::4287569098309739581::1795470434::1795470616::1::::<><>::
+::res://multiplayer/models/tabletops/table mp_winner lightshow1/::1795466314
+::res://multiplayer/models/tabletops/tabletop blockout2/::1795470451
+tabletop blockout2_health indicator paint2.png::CompressedTexture2D::7749088358360801667::1795470449::1795470617::1::::<><>::
+tabletop blockout2_metal sheet main rotator_darkened3.png::CompressedTexture2D::1599803812465594569::1795470449::1795470618::1::::<><>::
+tabletop blockout2_tabletop main4.png::CompressedTexture2D::7003122733091959140::1795470450::1795470618::1::::<><>::
+tabletop blockout2_wood worn albedo.png::CompressedTexture2D::2102174704235380650::1795470451::1795470618::1::::<><>::
+::res://multiplayer/models/tabletops/tabletop inner circle plates1/::1795470451
+tabletop inner circle plates1_tabletop main4.png::CompressedTexture2D::6929782194069670755::1795470451::1795470619::1::::<><>::
+::res://multiplayer/models/tabletops/turn order indicator1/::1795470451
+turn order indicator1_thirty.png::CompressedTexture2D::5366188079649571201::1795470451::1795470618::1::::<><>::
+::res://multiplayer/models/tabletops/user inspect object1/::1795466314
+::res://multiplayer/models/temporary/::1795466314
+::res://multiplayer/models/temporary/temp mesh_main hand grabbing1/::1795470452
+temp mesh_main hand grabbing2_skin base hand_left.png::CompressedTexture2D::6320711284043154900::1795470452::1795470619::1::::<><>::
+::res://multiplayer/mp_localization/::1795466314
+Buckshot Roulette - Localization Sheet - multiplayer24.BR.translation::OptimizedTranslation::1704493643667007572::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.DE.translation::OptimizedTranslation::3146741949160494349::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.EE.translation::OptimizedTranslation::8442012366163897723::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.EN.translation::OptimizedTranslation::6132575704322451207::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.ES LATAM.translation::OptimizedTranslation::5413306323580286499::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.ES.translation::OptimizedTranslation::3257495533718092891::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.FR.translation::OptimizedTranslation::6672506244388835376::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.IT.translation::OptimizedTranslation::4555536934932709393::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.JA.translation::OptimizedTranslation::5955527530963792600::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.KO.translation::OptimizedTranslation::8636570419873526116::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.PL.translation::OptimizedTranslation::1666231175975215917::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.PT.translation::OptimizedTranslation::5809503406092268708::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.RU.translation::OptimizedTranslation::8376872292096213198::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.TR.translation::OptimizedTranslation::5018457575871750414::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.UA.translation::OptimizedTranslation::5995815628882929996::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.ZHS.translation::OptimizedTranslation::1460490566583059860::1795465280::0::1::::<><>::
+Buckshot Roulette - Localization Sheet - multiplayer24.ZHT.translation::OptimizedTranslation::9084989138876985520::1795465280::0::1::::<><>::
+::res://multiplayer/scenes/::1795466314
+::res://multiplayer/scripts/::1795466314
+MP_ControllerManager.gd::GDScript::-1::1795465280::0::1::::MP_ControllerManager<>Node<>::
+MP_CursorManager.gd::GDScript::-1::1795465280::0::1::::MP_CursorManager<>Node<>::
+MP_LobbyController.gd::GDScript::-1::1795465280::0::1::::LobbyController<>Node<>::
+MP_LobbyManager.gd::GDScript::-1::1795465280::0::1::::LobbyManager<>Node<>::
+MP_PacketManager.gd::GDScript::-1::1795465280::0::1::::PacketManager<>Node<>::
+::res://multiplayer/scripts/debugging/::1795466314
+MP_EditorDebug.gd::GDScript::-1::1795465280::0::1::::MP_EditorDebug<>Node<>::
+MP_FreeLookCamera.gd::GDScript::-1::1795465280::0::1::::MP_FreeLookCamera<>Camera3D<>::
+MP_ParentTest.gd::GDScript::-1::1795465280::0::1::::MP_ParentTest<>Node3D<>::
+::res://multiplayer/scripts/global scripts/::1795466314
+MP_ActiveUserProperties.gd::GDScript::-1::1795465280::0::1::::MP_ActiveUserProperties<>Node<>::
+MP_BlinkerBranch.gd::GDScript::-1::1795465280::0::1::::MP_Blinker<>Node<>::
+MP_ButtonClass.gd::GDScript::-1::1795465280::0::1::::MP_ButtonClass2<>Node<>::
+MP_ButtonClassMain.gd::GDScript::-1::1795465280::0::1::::MP_ButtonClassMain<>Node<>::
+MP_CenterPiece.gd::GDScript::-1::1795465280::0::1::::MP_CenterPiece<>Node<>::
+MP_CommandLineChecker.gd::GDScript::-1::1795465280::0::1::::MP_CommandLineChecker<>Node<>::
+MP_DescriptionManager.gd::GDScript::-1::1795465280::0::1::::MP_DescriptionManager<>Node<>::
+MP_EnvironmentalEvent.gd::GDScript::-1::1795465280::0::1::::MP_EnvironmentalEvent<>Node<>::
+MP_FilterController.gd::GDScript::-1::1795465280::0::1::::MP_FilterController<>Node<>::
+MP_GameStateManager.gd::GDScript::-1::1795465280::0::1::::MP_GameStateManager<>Node<>::
+MP_IngameLobbyUI.gd::GDScript::-1::1795465280::0::1::::MP_IngameLobbyUI<>Node<>::
+MP_InteractionBranch.gd::GDScript::-1::1795465280::0::1::::MP_InteractionBranch<>Node<>::
+MP_InteractionIntermediary.gd::GDScript::-1::1795465280::0::1::::MP_InteractionIntermed<>Node<>::
+MP_IntroManager.gd::GDScript::-1::1795465280::0::1::::MP_Intro<>Node<>::
+MP_ItemRemover.gd::GDScript::-1::1795465280::0::1::::MP_ItemRemover<>Node3D<>::
+MP_ItemRemover_Handler.gd::GDScript::-1::1795465280::0::1::::MP_ItemRemover_Handler<>Node<>::
+MP_ItemRemover_Main.gd::GDScript::-1::1795465280::0::1::::MP_ItemRemover_Main<>Node<>::
+MP_ItemResource.gd::GDScript::-1::1795465280::0::1::::MP_ItemResource<>Resource<>::
+MP_LightController.gd::GDScript::-1::1795465280::0::1::::MP_LightController<>Node<>::
+MP_LightFlicker.gd::GDScript::-1::1795465280::0::1::::MP_LightFlicker<>Node<>::
+MP_LobbyUI.gd::GDScript::-1::1795465280::0::1::::MP_LobbyUI<>Node<>::
+MP_MatchCustomization.gd::GDScript::-1::1795465280::0::1::::MP_MatchCustomization<>Node<>::
+MP_MatchCustomization_Branch.gd::GDScript::-1::1795465280::0::1::::MP_MatchCustomization_Branch<>Node<>::
+MP_MatchCustomization_ItemProperties.gd::GDScript::-1::1795465280::0::1::::MP_MatchCustomization_ItemProperties<>Node<>::
+MP_Matchmaking.gd::GDScript::-1::1795465280::0::1::::MP_Matchmaking<>Node<>::
+MP_Matchmaking_Result.gd::GDScript::-1::1795465280::0::1::::MP_Matchmaking_Result<>Node<>::
+MP_MemberChecker.gd::GDScript::-1::1795465280::0::1::::MemberChecker<>Node<>::
+MP_MusicManager.gd::GDScript::-1::1795465280::0::1::::MP_MusicManager<>Node<>::
+MP_OutroManager.gd::GDScript::-1::1795465280::0::1::::MP_OutroManager<>Node<>::
+MP_PacketVerification.gd::GDScript::-1::1795465280::0::1::::MP_PacketVerification<>Node<>::
+MP_PickupIndicator.gd::GDScript::-1::1795465280::0::1::::MP_PickupIndicator<>Node<>::
+MP_PropAudioDevice.gd::GDScript::-1::1795465280::0::1::::MP_PropAudioDevice<>Node<>::
+MP_PropVoltMeter.gd::GDScript::-1::1795465280::0::1::::MP_PropVoltMeter<>Node<>::
+MP_RandBlinkerBranch.gd::GDScript::-1::1795465280::0::1::::MP_RandBlinkerBranch<>Node<>::
+MP_RoundBatch.gd::GDScript::-1::1795465280::0::1::::MP_RoundBatch<>Node<>::
+MP_RoundClass.gd::GDScript::-1::1795465280::0::1::::MP_RoundClass<>Resource<>::
+MP_RoundManager.gd::GDScript::-1::1795465280::0::1::::MP_RoundManager<>Node<>::
+MP_SeparateLerp.gd::GDScript::-1::1795465280::0::1::::MP_SeparateLerp<>Node<>::
+MP_SequenceBatchResource.gd::GDScript::-1::1795465280::0::1::::MP_SequenceBatchResource<>Resource<>::
+MP_ShellBranch.gd::GDScript::-1::1795465280::0::1::::MP_ShellBranch<>Node<>::
+MP_ShellLoader.gd::GDScript::-1::1795465280::0::1::::MP_ShellLoader<>Node<>::
+MP_SpeakerController.gd::GDScript::-1::1795465280::0::1::::MP_SpeakerController<>Node<>::
+MP_Test.gd::GDScript::-1::1795465280::0::1::::MP_Test<>Node3D<>::
+MP_TextFire.gd::GDScript::-1::1795465280::0::1::::MP_TextFire<>Node<>::
+MP_TrackInstance.gd::GDScript::-1::1795465280::0::1::::MP_TrackInstance<>Resource<>::
+MP_TurnOrder.gd::GDScript::-1::1795465280::0::1::::MP_TurnOrder<>Node<>::
+MP_UserInfoSegment.gd::GDScript::-1::1795465280::0::1::::MP_UserInfoSegment<>Node<>::
+MP_UserInstanceHandler.gd::GDScript::-1::1795465280::0::1::::MP_UserInstanceHandler<>Node<>::
+MP_WinManager.gd::GDScript::-1::1795465280::0::1::::MP_WinManager<>Node<>::
+::res://multiplayer/scripts/user scripts/::1795466314
+MP_BriefcaseMachine.gd::GDScript::-1::1795465280::0::1::::MP_BriefcaseMachine<>Node<>::
+MP_BurnerPhone.gd::GDScript::-1::1795465280::0::1::::MP_BurnerPhone<>Node<>::
+MP_ButtonClass.gd::GDScript::-1::1795465280::0::1::::MP_ButtonClass<>Node<>::
+MP_CameraManager.gd::GDScript::-1::1795465280::0::1::::MP_CameraManager<>Node<>::
+MP_CameraShaker.gd::GDScript::-1::1795465280::0::1::::MP_CameraShaker<>Node<>::
+MP_CameraSocket.gd::GDScript::-1::1795465280::0::1::::MP_CameraSocket<>Resource<>::
+MP_DeathManager.gd::GDScript::-1::1795465280::0::1::::MP_DeathManager<>Node<>::
+MP_DialogueManager.gd::GDScript::-1::1795465280::0::1::::MP_Dialogue<>Node<>::
+MP_HandManager.gd::GDScript::-1::1795465280::0::1::::MP_HandManager<>Node<>::
+MP_HealthCounter.gd::GDScript::-1::1795465280::0::1::::MP_HealthCounter<>Node<>::
+MP_HoverPan.gd::GDScript::-1::1795465280::0::1::::MP_HoverPan<>Node<>::
+MP_InteractionManager.gd::GDScript::-1::1795465280::0::1::::MP_InteractionManager<>Node<>::
+MP_ItemInteraction.gd::GDScript::-1::1795465280::0::1::::MP_ItemInteraction<>Node<>::
+MP_ItemManager.gd::GDScript::-1::1795465280::0::1::::MP_ItemManager<>Node<>::
+MP_ItemResource_User.gd::GDScript::-1::1795465280::0::1::::MP_ItemResource_User<>Resource<>::
+MP_ItemStealing.gd::GDScript::-1::1795465280::0::1::::MP_ItemStealing<>Node<>::
+MP_Jammer.gd::GDScript::-1::1795465280::0::1::::MP_Jammer<>Node<>::
+MP_JammerButton.gd::GDScript::-1::1795465280::0::1::::MP_JammerButton<>Node<>::
+MP_MainHandInstance.gd::GDScript::-1::1795465280::0::1::::MP_MainHandInstance<>Node3D<>::
+MP_MainHandInstanceBranch.gd::GDScript::-1::1795465280::0::1::::MP_MainHandInstance_Branch<>Node<>::
+MP_MouseRaycast.gd::GDScript::-1::1795465280::0::1::::MP_MouseRaycast<>Camera3D<>::
+MP_Oscillate.gd::GDScript::-1::1795465280::0::1::::MP_Oscillate<>Node<>::
+MP_OscillateManager.gd::GDScript::-1::1795465280::0::1::::MP_OscillateManager<>Node<>::
+MP_ShellEjection.gd::GDScript::-1::1795465280::0::1::::MP_ShellEjection<>Node<>::
+MP_ShotgunInteraction.gd::GDScript::-1::1795465280::0::1::::MP_ShotgunInteraction<>Node<>::
+MP_SmokeParticles.gd::GDScript::-1::1795465280::0::1::::MP_SmokeParticles<>Node<>::
+MP_TextShaker.gd::GDScript::-1::1795465280::0::1::::MP_TextShaker<>Node<>::
+MP_UserCameraLook.gd::GDScript::-1::1795465280::0::1::::MP_UserCameraLook<>Node<>::
+MP_UserCustomization.gd::GDScript::-1::1795465280::0::1::::MP_UserCustomization<>Node<>::
+MP_UserDebug.gd::GDScript::-1::1795465280::0::1::::MP_UserDebug<>Node<>::
+MP_UserInspection.gd::GDScript::-1::1795465280::0::1::::MP_UserInspection<>Node<>::
+MP_UserInstanceProperties.gd::GDScript::-1::1795465280::0::1::::MP_UserInstanceProperties<>Node<>::
+MP_UserLook.gd::GDScript::-1::1795465280::0::1::::MP_UserLook<>Node<>::
+MP_UserPermissions.gd::GDScript::-1::1795465280::0::1::::MP_UserPermissions<>Node<>::
+MP_UserStateManager.gd::GDScript::-1::1795465280::0::1::::MP_UserStateManager<>Node<>::
+MP_UserTimeout.gd::GDScript::-1::1795465280::0::1::::MP_UserTimeout<>Node<>::
+MP_UserTimeout_BarLerp.gd::GDScript::-1::1795465280::0::1::::MP_UserTimeout_BarLerp<>Node<>::
+MP_UserTimeout_Branch.gd::GDScript::-1::1795465280::0::1::::MP_UserTimeout_Branch<>Node<>::
+MP_Viewblocker.gd::GDScript::-1::1795465280::0::1::::MP_Viewblocker<>Node<>::
+::res://multiplayer/separate animation files/::1795466314
+track_L_item grab generic main.res::Animation::7858072498962671800::1795465280::0::1::::<><>::
+track_L_item grab generic main_beer.res::Animation::467435493413756620::1795465280::0::1::::<><>::
+track_R_grabbing shotgun.res::Animation::1290608535833894114::1795465280::0::1::::<><>::
+track_R_holding item briefcase.res::Animation::2600485353424835564::1795465280::0::1::::<><>::
+track_R_item grab generic main.res::Animation::2235623066505992333::1795465280::0::1::::<><>::
+track_R_item grab generic main_beer.res::Animation::3715646100864437832::1795465280::0::1::::<><>::
+track_R_item grab pinch.res::Animation::4736644060489251304::1795465280::0::1::::<><>::
+track_R_item grab pinch_1.res::Animation::6793083405604588667::1795465280::0::1::::<><>::
+track_R_point.res::Animation::7403483162419263859::1795465280::0::1::::<><>::
+track_R_reset position.res::Animation::8807192405536624623::1795465280::0::1::::<><>::
+::res://multiplayer/textures/::1795470461
+chimney backdrop1.png::CompressedTexture2D::7032266996557020081::1795470452::1795470621::1::::<><>::
+concrete plane1_overlay1.png::CompressedTexture2D::1519101804077935461::1795470453::1795470622::1::::<><>::
+health counter winner state temp1.png::CompressedTexture2D::8098624717252414292::1795470453::1795470621::1::::<><>::
+jammer4 edited2.png::CompressedTexture2D::8452098743220859352::1795470453::1795470621::1::::<><>::
+jammer4 edited.png::CompressedTexture2D::3572004452770935508::1795470453::1795470621::1::::<><>::
+jammer5.png::CompressedTexture2D::8908082148136350059::1795470453::1795470621::1::::<><>::
+jammer interface5.png::CompressedTexture2D::1797907764573512947::1795470453::1795470622::1::::<><>::
+mp_blood splatter1.png::CompressedTexture2D::6772173234707555072::1795470453::1795470622::1::::<><>::
+mp_blood splatter2.png::CompressedTexture2D::2976561481830301206::1795470453::1795470622::1::::<><>::
+mp_health counter charge1.png::CompressedTexture2D::914316848722730776::1795470453::1795470607::1::::<><>::
+mp_muzzle flash5.png::CompressedTexture2D::8332120996532880655::1795470454::1795470609::1::::<><>::
+mp_phone screen backdrop cracked2.png::CompressedTexture2D::6251869547877911343::1795470455::1795470607::1::::<><>::
+mp_phone screen backdrop cracked.png::CompressedTexture2D::5829722649366203379::1795470454::1795470608::1::::<><>::
+mp_phone screen backdrop.png::CompressedTexture2D::5566607603935853712::1795470455::1795470608::1::::<><>::
+mp_round indicator base.png::CompressedTexture2D::2720531351823697984::1795470455::1795470608::1::::<><>::
+mp_round indicator circle.png::CompressedTexture2D::6196522453114976610::1795470455::1795470608::1::::<><>::
+mp_shell blank default1.png::CompressedTexture2D::2690690711895053638::1795470455::1795470608::1::::<><>::
+mp_shell blank default.png::CompressedTexture2D::7639599215435716651::1795470455::1795470608::1::::<><>::
+mp_shell live colorblind.png::CompressedTexture2D::5779522332471281656::1795470456::1795470609::1::::<><>::
+mp_shell live default.png::CompressedTexture2D::6673802495058741639::1795470456::1795470609::1::::<><>::
+mp_shell unknown default1.png::CompressedTexture2D::4061268491378416941::1795470456::1795470609::1::::<><>::
+pink_sunrise_1k.hdr::CompressedTexture2D::4313843884842797880::0::0::1::::<><>::
+tabletop felt highres9.png::CompressedTexture2D::5865873076170679676::1795470460::1795470617::1::::<><>::
+window mask overlay1.png::CompressedTexture2D::7923750874050300465::1795470460::1795470610::1::::<><>::
+window mask overlay2.png::CompressedTexture2D::6252398783932633596::1795470461::1795470610::1::::<><>::
+::res://multiplayer/textures/jammer interface/::1795470465
+jammer interface3_blank.png::CompressedTexture2D::8131106988253920129::1795470462::1795470619::1::::<><>::
+jammer interface3_frame.png::CompressedTexture2D::2404029949370110029::1795470462::1795470619::1::::<><>::
+jammer interface3_grid bootup1.png::CompressedTexture2D::7364100569908603330::1795470463::1795470620::1::::<><>::
+jammer interface3_idle.png::CompressedTexture2D::4002193041881846928::1795470463::1795470620::1::::<><>::
+jammer interface3_select forward.png::CompressedTexture2D::4835751479914434943::1795470463::1795470620::1::::<><>::
+jammer interface3_select left.png::CompressedTexture2D::277633413939236977::1795470463::1795470621::1::::<><>::
+jammer interface3_select right.png::CompressedTexture2D::7383076043568477176::1795470464::1795470621::1::::<><>::
+jammer interface3_tracker.png::CompressedTexture2D::2531433130343872222::1795470464::1795470621::1::::<><>::
+jammer screen dirt overlay.png::CompressedTexture2D::7931494961573701651::1795470465::1795470624::1::::<><>::
+::res://multiplayer/themes/::1795466314
+::res://multiplayer/worldenvironments/::1795466314
+::res://scenes/::1795466314
+::res://scripts/::1795466315
+AchievementManager.gd::GDScript::-1::1795465280::0::1::::Achievement<>Node<>::
+AmountResource.gd::GDScript::-1::1795465280::0::1::::AmountResource<>Resource<>::
+BlinkerBranch.gd::GDScript::-1::1795465280::0::1::::BlinkerBranch<>Node<>::
+BlockoutManager.gd::GDScript::-1::1795465280::0::1::::Blockout<>Node<>::
+BpmLight.gd::GDScript::-1::1795465280::0::1::::BpmLight<>Node<>::
+BriefcaseMachine.gd::GDScript::-1::1795465280::0::1::::BriefcaseMachine<>Node<>::
+BurnerPhone.gd::GDScript::-1::1795465280::0::1::::BurnerPhone<>Node<>::
+ButtonClass.gd::GDScript::-1::1795465280::0::1::::ButtonClass<>Node<>::
+ButtonClass_Main.gd::GDScript::-1::1795465280::0::1::::ButtonClass_Main<>Node<>::
+CameraManager.gd::GDScript::-1::1795465280::0::1::::CameraManager<>Node<>::
+CameraShaker.gd::GDScript::-1::1795465280::0::1::::CameraShaker<>Node<>::
+CameraSocket.gd::GDScript::-1::1795465280::0::1::::CameraSocket<>Resource<>::
+ChecmarkBranch.gd::GDScript::-1::1795465280::0::1::::Checkmark<>Node<>::
+ColorblindManager.gd::GDScript::-1::1795465280::0::1::::Colorblind<>Node<>::
+CompartmentManager.gd::GDScript::-1::1795465280::0::1::::CompartmentManager<>Node<>::
+ControllerManager.gd::GDScript::-1::1795465280::0::1::::ControllerManager<>Node<>::
+CrtButtonBranch.gd::GDScript::-1::1795465280::0::1::::CrtButton<>Node<>::
+CrtIcon.gd::GDScript::-1::1795465280::0::1::::CrtIcon<>Node<>::
+CrtManager.gd::GDScript::-1::1795465280::0::1::::CRT<>Node<>::
+CursorManager.gd::GDScript::-1::1795465280::0::1::::CursorManager<>Node<>::
+DealerIntelligence.gd::GDScript::-1::1795465280::0::1::::DealerIntelligence<>Node<>::
+DeathManager.gd::GDScript::-1::1795465280::0::1::::DeathManager<>Node<>::
+Debugging.gd::GDScript::-1::1795465280::0::1::::Debug<>Node<>::
+DecisionTextManager.gd::GDScript::-1::1795465280::0::1::::DecisionTextManager<>Node<>::
+DefibBlade.gd::GDScript::-1::1795465280::0::1::::DefibBlade<>Node<>::
+DefibCutter.gd::GDScript::-1::1795465280::0::1::::DefibCutter<>Node<>::
+DescriptionManager.gd::GDScript::-1::1795465280::0::1::::DescriptionManager<>Node<>::
+DialogueManager.gd::GDScript::-1::1795465280::0::1::::Dialogue<>Node<>::
+DialogueManager_Ending.gd::GDScript::-1::1795465280::0::1::::DialogueEnding<>Node<>::
+DonUnlockManager.gd::GDScript::-1::1795465280::0::1::::Unlocker<>Node<>::
+DotRemover.gd::GDScript::-1::1795465280::0::1::::DotFix<>Node<>::
+EndingManager.gd::GDScript::-1::1795465280::0::1::::EndingManager<>Node<>::
+EndlessMode.gd::GDScript::-1::1795465280::0::1::::Endless<>Node<>::
+FilterController.gd::GDScript::-1::1795465280::0::1::::FilterController<>Node<>::
+GameOverManager.gd::GDScript::-1::1795465280::0::1::::GameOverManager<>Node<>::
+GlobalVariables.gd::GDScript::-1::1795465280::0::1::::<>Node<>::
+gridBranch.gd::GDScript::-1::1795465280::0::1::::<>Node<>::
+HandcuffManager.gd::GDScript::-1::1795465280::0::1::::HandcuffManager<>Node<>::
+HandManager.gd::GDScript::-1::1795465280::0::1::::HandManager<>Node<>::
+HealthCounter.gd::GDScript::-1::1795465280::0::1::::HealthCounter<>Node<>::
+HeavenManager.gd::GDScript::-1::1795465280::0::1::::Heaven<>Node<>::
+InteractionBranch.gd::GDScript::-1::1795465280::0::1::::InteractionBranch<>Node<>::
+InteractionManager.gd::GDScript::-1::1795465280::0::1::::InteractionManager<>Node<>::
+IntroManager.gd::GDScript::-1::1795465280::0::1::::IntroManager<>Node<>::
+ItemAmounts.gd::GDScript::-1::1795465280::0::1::::Amounts<>Node<>::
+ItemGridIndicator.gd::GDScript::-1::1795465280::0::1::::GridIndicator<>Node<>::
+ItemInteraction.gd::GDScript::-1::1795465280::0::1::::ItemInteraction<>Node<>::
+ItemManager.gd::GDScript::-1::1795465280::0::1::::ItemManager<>Node<>::
+ItemProperties.gd::GDScript::-1::1795465280::0::1::::ItemProperties<>Node<>::
+ItemResource.gd::GDScript::-1::1795465280::0::1::::ItemResource<>Resource<>::
+JankPreventer.gd::GDScript::-1::1795465280::0::1::::<>Node<>::
+KeyRebindBranch.gd::GDScript::-1::1795465280::0::1::::RebindBranch<>Node<>::
+KeyRebinding.gd::GDScript::-1::1795465280::0::1::::Rebinding<>Node<>::
+LeaderboardManager.gd::GDScript::-1::1795465280::0::1::::Board<>Node<>::
+LocalizationManager.gd::GDScript::-1::1795465280::0::1::::LocalizationManager<>Node<>::
+MedicineManager.gd::GDScript::-1::1795465280::0::1::::Medicine<>Node<>::
+MenuManager.gd::GDScript::-1::1795466323::0::1::::MenuManager<>Node<>::
+MouseRaycast.gd::GDScript::-1::1795465280::0::1::::MouseRaycast<>Camera3D<>::
+MusicManager.gd::GDScript::-1::1795465280::0::1::::MusicManager<>Node<>::
+ObjectShaker.gd::GDScript::-1::1795465280::0::1::::ObjectShaker<>Node<>::
+OptionsManager.gd::GDScript::-1::1795465280::0::1::::OptionsManager<>Node<>::
+PartitionBranch.gd::GDScript::-1::1795465280::0::1::::PartitionBranch<>Node<>::
+PermissionManager.gd::GDScript::-1::1795465280::0::1::::PermissionManager<>Node<>::
+PickupIndicator.gd::GDScript::-1::1795465280::0::1::::PickupIndicator<>Node<>::
+PipelineManager.gd::GDScript::-1::1795465280::0::1::::PipelineManager<>Node<>::
+PlayerCameraTest.gd::GDScript::-1::1795465280::0::1::::PlayerCameraTest<>Node<>::
+PlayerData.gd::GDScript::-1::1795465280::0::1::::PlayerData<>Resource<>::
+ResetManager.gd::GDScript::-1::1795465280::0::1::::ResetManager<>Node<>::
+RoundBatch.gd::GDScript::-1::1795465280::0::1::::RoundBatch<>Node<>::
+RoundClass.gd::GDScript::-1::1795465280::0::1::::RoundClass<>Resource<>::
+RoundManager.gd::GDScript::-1::1795465280::0::1::::RoundManager<>Node<>::
+SaveFileManager.gd::GDScript::-1::1795465280::0::1::::SaveFileManager<>Node<>::
+SceneChangeNotification.gd::GDScript::-1::1795465280::0::1::::<>Node<>::
+SegmentManager.gd::GDScript::-1::1795465280::0::1::::SegmentManager<>Node<>::
+ShellBranch.gd::GDScript::-1::1795465280::0::1::::ShellClass<>Node<>::
+ShellDropManager.gd::GDScript::-1::1795465280::0::1::::ShellDropManager<>Node<>::
+ShellEjectManager.gd::GDScript::-1::1795465280::0::1::::ShellEjectManager<>Node<>::
+ShellExamine.gd::GDScript::-1::1795465280::0::1::::ShellExamine<>Node<>::
+ShellLoader.gd::GDScript::-1::1795465280::0::1::::ShellLoader<>Node<>::
+ShellSpawner.gd::GDScript::-1::1795465280::0::1::::ShellSpawner<>Node<>::
+ShotgunShooting.gd::GDScript::-1::1795465280::0::1::::ShotgunShooting<>Node<>::
+SignatureButtonBranch.gd::GDScript::-1::1795465280::0::1::::SignButton<>Node<>::
+SignatureManager.gd::GDScript::-1::1795465280::0::1::::Signature<>Node<>::
+SmokeController.gd::GDScript::-1::1795465280::0::1::::SmokeController<>Node<>::
+SpeakerController3D.gd::GDScript::-1::1795465280::0::1::::SpeakerController3D<>Node<>::
+SpeakerController.gd::GDScript::-1::1795465280::0::1::::SpeakerController<>Node<>::
+StatueManager.gd::GDScript::-1::1795465280::0::1::::Statue<>Node<>::
+Steam.gd::GDScript::-1::1795465280::0::1::::<>Node<>::
+TempDeathScreen.gd::GDScript::-1::1795465280::0::1::::TempDeathScreen<>Node<>::
+test.gd::GDScript::-1::1795465280::0::1::::<>Node<>::
+TextFire.gd::GDScript::-1::1795465280::0::1::::TextFire<>Node<>::
+TextInteraction.gd::GDScript::-1::1795465280::0::1::::TextInteraction<>Node<>::
+TextShaker.gd::GDScript::-1::1795465280::0::1::::TextShaker<>Node<>::
+TimeScaleManager.gd::GDScript::-1::1795465280::0::1::::TimeScaleManager<>Node<>::
+TrackInstance.gd::GDScript::-1::1795465280::0::1::::TrackInstance<>Resource<>::
+TypingManager.gd::GDScript::-1::1795465280::0::1::::TypingManager<>Node<>::
+UserExit.gd::GDScript::-1::1795465280::0::1::::ExitManager<>Node<>::
+VisibilityPipe.gd::GDScript::-1::1795465280::0::1::::VisibilityPipe<>Node<>::
+::res://textures/::1795470469
+expired medicine texture corrected1.png::CompressedTexture2D::7046574225829375011::1795470466::1795470614::1::::<><>::
+release form new2.png::CompressedTexture2D::7351648120807077056::1795470467::1795470614::1::::<><>::
+smoke.png::CompressedTexture2D::1791271363566603371::1795470468::1795470614::1::::<><>::
+tabletop compartment grid_new.png::CompressedTexture2D::1338710274473447000::1795470469::1795470614::1::::<><>::
+::res://textures/blood/::1795470474
+layer0.png::CompressedTexture2D::646630041462681089::1795470471::1795470612::1::::<><>::
+layer3.png::CompressedTexture2D::1529639731232907944::1795470474::1795470612::1::::<><>::
+::res://textures/brass main menu/::1795470477
+brass texture_shell marking albedo desat.png::CompressedTexture2D::4300508672626481581::1795470474::1795470610::1::::<><>::
+brass texture_shell marking albedo.png::CompressedTexture2D::1453273780647471348::1795470475::1795470611::1::::<><>::
+brass texture_shell marking improved albedo.png::CompressedTexture2D::5185730130237107095::1795470475::1795470611::1::::<><>::
+brass texture_shell marking improved normal.png::CompressedTexture2D::2731401212263618537::1795470476::1795470613::1::::<><>::
+brass texture_shell marking normal.png::CompressedTexture2D::5272000187482987345::1795470477::1795470613::1::::<><>::
+::res://tools/::1795469981
+dump_textures.gd::GDScript::-1::1795469965::0::1::::<>SceneTree<>::
+texture_pairs.json::JSON::-1::1795467561::0::1::::<><>::

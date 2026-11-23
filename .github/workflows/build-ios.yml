@@ -1,0 +1,108 @@
+name: Build iOS IPA
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  export-xcode-project:
+    name: Export Godot Xcode project
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install Godot 4.1.1 and export templates
+        run: |
+          set -euo pipefail
+          curl -L --retry 3 -o /tmp/godot.zip \
+            https://github.com/godotengine/godot/releases/download/4.1.1-stable/Godot_v4.1.1-stable_linux.x86_64.zip
+          curl -L --retry 3 -o /tmp/templates.tpz \
+            https://github.com/godotengine/godot/releases/download/4.1.1-stable/Godot_v4.1.1-stable_export_templates.tpz
+          unzip -q /tmp/godot.zip -d /tmp/godot
+          mv /tmp/godot/Godot_v4.1.1-stable_linux.x86_64 /tmp/godot/godot
+          chmod +x /tmp/godot/godot
+          mkdir -p "$HOME/.local/share/godot/export_templates/4.1.1.stable"
+          unzip -q /tmp/templates.tpz -d /tmp/templates
+          cp -R /tmp/templates/templates/. "$HOME/.local/share/godot/export_templates/4.1.1.stable/"
+          ls -lh "$HOME/.local/share/godot/export_templates/4.1.1.stable/" | head
+
+      - name: Export iOS Xcode project
+        run: |
+          mkdir -p build
+          set +e
+          /tmp/godot/godot --headless --path game --export-release "iOS" \
+            "$GITHUB_WORKSPACE/build/BuckshotRoulette.ipa" 2>&1 | tee export.log
+          echo "Godot export exit code: ${PIPESTATUS[0]}"
+          set -e
+          find build -maxdepth 2 -type d | sort
+
+      - name: Build complete game PCK
+        run: |
+          set -euo pipefail
+          python3 tools/build_pck.py game build/FullGame.pck
+          cp build/FullGame.pck build/BuckshotRoulette.pck
+          rm build/FullGame.pck
+          ls -lh build/BuckshotRoulette.pck
+
+      - name: Upload Xcode project
+        uses: actions/upload-artifact@v4
+        with:
+          name: xcode-project
+          path: |
+            build/
+            export.log
+          retention-days: 7
+
+  build-ipa:
+    name: Build unsigned IPA with Xcode
+    needs: export-xcode-project
+    runs-on: macos-14
+    steps:
+      - name: Download Xcode project
+        uses: actions/download-artifact@v4
+        with:
+          name: xcode-project
+          path: build
+
+      - name: Inspect Xcode project
+        run: |
+          find build -maxdepth 3 -name "*.xcodeproj" -print
+          xcodebuild -list -project build/BuckshotRoulette.xcodeproj || true
+
+      - name: Archive (no code signing)
+        run: |
+          set -euo pipefail
+          xcodebuild \
+            -project build/BuckshotRoulette.xcodeproj \
+            -scheme BuckshotRoulette \
+            -configuration Release \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -archivePath "$GITHUB_WORKSPACE/build/BuckshotRoulette.xcarchive" \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            archive
+
+      - name: Package IPA
+        run: |
+          set -euo pipefail
+          APP=$(find build/BuckshotRoulette.xcarchive/Products/Applications -maxdepth 1 -name '*.app' | head -n 1)
+          echo "App: $APP"
+          rm -rf build/Payload
+          mkdir -p build/Payload
+          cp -R "$APP" build/Payload/
+          cd build
+          rm -f BuckshotRoulette.ipa
+          zip -qry BuckshotRoulette.ipa Payload
+          ls -lh BuckshotRoulette.ipa
+
+      - name: Upload IPA
+        uses: actions/upload-artifact@v4
+        with:
+          name: BuckshotRoulette-IPA
+          path: build/BuckshotRoulette.ipa
+          retention-days: 30
