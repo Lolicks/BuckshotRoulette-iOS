@@ -85,6 +85,8 @@ jobs:
             -archivePath "$GITHUB_WORKSPACE/build/BuckshotRoulette.xcarchive" \
             CODE_SIGNING_ALLOWED=NO \
             CODE_SIGNING_REQUIRED=NO \
+            DEVELOPMENT_TEAM= \
+            PROVISIONING_PROFILE_SPECIFIER= \
             archive
 
       - name: Package IPA
