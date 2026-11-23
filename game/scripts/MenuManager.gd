@@ -44,7 +44,13 @@ func _ready():
 	buttons[18].connect("is_pressed", ResetControls)
 	buttons[19].connect("is_pressed", DiscordLink)
 	buttons[22].connect("is_pressed", StartMultiplayer)
-	
+
+	# Touch devices have no physical keyboard: hide key rebinding there.
+	var tc = get_node_or_null("/root/TouchControls")
+	if tc != null and tc.touch_mode and buttons.size() > 16:
+		var rebind_node = buttons[16].get_parent()
+		if rebind_node != null: rebind_node.visible = false
+
 	buttons_options[0].connect("is_pressed", IncreaseVol)
 	buttons_options[1].connect("is_pressed", DecreaseVol)
 	buttons_options[2].connect("is_pressed", SetFull)

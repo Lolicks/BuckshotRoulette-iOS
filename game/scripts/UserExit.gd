@@ -34,7 +34,11 @@ func ShowUI():
 	bind_controller = bind_controller.left(firstindex)
 	if (cursor.controller_active): bind = str(bind_controller)
 	else: bind = str(bind_keyboard)
-	label.text = tr("HOLD TO EXIT") % str(bind)
+	var tc = get_node_or_null("/root/TouchControls")
+	if tc != null and tc.touch_mode:
+		label.text = tr("HOLD TO EXIT").replace("%s", "").strip_edges()
+	else:
+		label.text = tr("HOLD TO EXIT") % str(bind)
 	anim.play("RESET")
 	anim.play("fade out")
 

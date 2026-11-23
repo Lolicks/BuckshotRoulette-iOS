@@ -1,4 +1,4 @@
-; Engine configuration file.
+﻿; Engine configuration file.
 ; It's best edited using the editor UI and not directly,
 ; since the parameters that go here are not all obvious.
 ;
@@ -24,6 +24,7 @@ boot_splash/minimum_display_time=3000
 Steam="*res://steam_stub.gd"
 GlobalVariables="*res://scripts/GlobalVariables.gd"
 GlobalSteam="*res://scripts/Steam.gd"
+TouchControls="*res://scripts/TouchControls.gd"
 
 [debug]
 
@@ -34,9 +35,15 @@ file_logging/enable_file_logging=true
 window/size/viewport_width=960
 window/size/viewport_height=540
 window/stretch/mode="viewport"
+window/stretch/aspect="keep"
 mouse_cursor/custom_image="res://misc/cursor xp_point.png"
 mouse_cursor/custom_image_hotspot=Vector2(9, 0)
 window/handheld/orientation=4
+
+[input_devices]
+
+pointing/emulate_mouse_from_touch=true
+pointing/emulate_touch_from_mouse=false
 
 [input]
 

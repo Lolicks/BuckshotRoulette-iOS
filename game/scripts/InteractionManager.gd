@@ -21,8 +21,18 @@ func _process(delta):
 	if (checking): CheckIfHovering()
 	pass
 
+var last_touch_ms := 0
+
 func _input(event):
+	if event is InputEventScreenTouch:
+		if event.pressed:
+			last_touch_ms = Time.get_ticks_msec()
+			MainInteractionEvent()
+		return
 	if event is InputEventMouseButton and event.button_index == MOUSE_BUTTON_LEFT and event.pressed:
+		# Avoid a double interaction when Godot emulates a mouse click from a touch.
+		if Time.get_ticks_msec() - last_touch_ms < 250:
+			return
 		MainInteractionEvent()
 
 func MainInteractionEvent():

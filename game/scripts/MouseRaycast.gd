@@ -8,7 +8,9 @@ var result = null
 var controller_overriding = false
 
 func _input(event):
-	if event is InputEventMouse:
+	if event is InputEventScreenTouch:
+		if(!controller_overriding): mouse = event.position
+	elif event is InputEventMouse:
 		if(!controller_overriding): mouse = event.position
 
 func _process(delta):
