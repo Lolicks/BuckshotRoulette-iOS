@@ -24,6 +24,14 @@ func _process(delta):
 var last_touch_ms := 0
 
 func _input(event):
+	var tc = get_node_or_null("/root/TouchControls")
+	var ev_pos = null
+	if event is InputEventMouse:
+		ev_pos = event.position
+	elif event is InputEventScreenTouch:
+		ev_pos = event.position
+	if tc != null and tc.touch_mode and ev_pos != null and tc.is_point_over_control(ev_pos):
+		return
 	if event is InputEventScreenTouch:
 		if event.pressed:
 			last_touch_ms = Time.get_ticks_msec()

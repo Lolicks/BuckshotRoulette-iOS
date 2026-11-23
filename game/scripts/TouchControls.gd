@@ -64,6 +64,14 @@ func _make_button(text: String, pos: Vector2, size: Vector2, color: Color) -> Bu
 	layer.add_child(b)
 	return b
 
+func is_point_over_control(point: Vector2) -> bool:
+	if not touch_mode:
+		return false
+	for b in [exit_button, skip_button, left_button, right_button]:
+		if b != null and b.visible and b.get_global_rect().has_point(point):
+			return true
+	return false
+
 func _process(delta: float) -> void:
 	if not touch_mode:
 		return
