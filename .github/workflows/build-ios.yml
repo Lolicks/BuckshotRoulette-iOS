@@ -60,7 +60,7 @@ jobs:
   build-ipa:
     name: Build unsigned IPA with Xcode
     needs: export-xcode-project
-    runs-on: macos-14
+    runs-on: macos-13
     steps:
       - name: Download Xcode project
         uses: actions/download-artifact@v4
