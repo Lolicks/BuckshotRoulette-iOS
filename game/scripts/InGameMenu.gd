@@ -55,7 +55,7 @@ func _build_ui() -> void:
 	add_child(layer)
 
 	root_panel = PanelContainer.new()
-	root_panel.custom_minimum_size = Vector2(520, 560)
+	root_panel.custom_minimum_size = Vector2(500, 500)
 	root_panel.set_anchors_preset(Control.PRESET_CENTER)
 	root_panel.mouse_filter = Control.MOUSE_FILTER_STOP
 	var style := StyleBoxFlat.new()

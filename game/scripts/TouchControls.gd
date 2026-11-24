@@ -104,9 +104,26 @@ func is_point_over_control(point: Vector2) -> bool:
 			return true
 	return false
 
+func _layout() -> void:
+	if layer == null:
+		return
+	var s: Vector2 = get_viewport().get_visible_rect().size
+	var m := 24.0
+	var win := Vector2(DisplayServer.window_get_size())
+	if win.x > 0.0 and win.y > 0.0:
+		var scale: Vector2 = s / win
+		var sa := DisplayServer.get_display_safe_area()
+		m = maxf(m, float(sa.position.x) * scale.x + 12.0)
+	exit_button.position = Vector2(s.x - exit_button.size.x - m, m)
+	menu_button.position = Vector2(m, m)
+	skip_button.position = Vector2(m, m + menu_button.size.y + 8.0)
+	left_button.position = Vector2(m, s.y - left_button.size.y - m)
+	right_button.position = Vector2(m + left_button.size.x + 8.0, s.y - right_button.size.y - m)
+
 func _process(delta: float) -> void:
 	if not touch_mode:
 		return
+	_layout()
 	if _press_start > 0.0 and !_long_active:
 		if Time.get_ticks_msec() / 1000.0 - _press_start > 0.45:
 			Input.action_press("free look toggle")
