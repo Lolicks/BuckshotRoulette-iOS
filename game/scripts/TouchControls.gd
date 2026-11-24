@@ -15,6 +15,7 @@ var exit_button: Button = null
 var skip_button: Button = null
 var left_button: Button = null
 var right_button: Button = null
+var menu_button: Button = null
 
 var crt_ref: CRT = null
 var menu_ref: MenuManager = null
@@ -40,7 +41,10 @@ func _build_ui() -> void:
 	exit_button.connect("button_down", Callable(self, "_on_exit_down"))
 	exit_button.connect("button_up", Callable(self, "_on_exit_up"))
 
-	skip_button = _make_button("SKIP", Vector2(14, 12), Vector2(92, 40), Color(0.29, 0.5, 1))
+	menu_button = _make_button("MENU", Vector2(14, 12), Vector2(92, 40), Color(1, 0.85, 0.3))
+	menu_button.connect("pressed", Callable(self, "_on_menu_pressed"))
+
+	skip_button = _make_button("SKIP", Vector2(14, 60), Vector2(92, 40), Color(0.29, 0.5, 1))
 	skip_button.connect("pressed", Callable(self, "_on_skip_pressed"))
 	skip_button.visible = false
 
@@ -87,7 +91,7 @@ func _input(event: InputEvent) -> void:
 func is_point_over_control(point: Vector2) -> bool:
 	if not touch_mode:
 		return false
-	for b in [exit_button, skip_button, left_button, right_button]:
+	for b in [exit_button, menu_button, skip_button, left_button, right_button]:
 		if b != null and b.visible and b.get_global_rect().has_point(point):
 			return true
 	return false
@@ -136,6 +140,11 @@ func _on_exit_down() -> void:
 
 func _on_exit_up() -> void:
 	Input.action_release("exit game")
+
+func _on_menu_pressed() -> void:
+	var menu = get_node_or_null("/root/InGameMenu")
+	if menu != null:
+		menu.toggle()
 
 func _on_skip_pressed() -> void:
 	if menu_ref != null and menu_ref.viewing_intro:

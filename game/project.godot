@@ -25,6 +25,7 @@ Steam="*res://scripts/SteamNet.gd"
 GlobalVariables="*res://scripts/GlobalVariables.gd"
 GlobalSteam="*res://scripts/Steam.gd"
 TouchControls="*res://scripts/TouchControls.gd"
+InGameMenu="*res://scripts/InGameMenu.gd"
 
 [net]
 
