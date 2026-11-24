@@ -1,4 +1,4 @@
-class_name TouchControls extends Node
+extends Node
 
 # Minimal, non-intrusive touch layer for the iOS port.
 # The original game is driven by left mouse clicks and a 3D raycast.

@@ -84,6 +84,20 @@ jobs:
           unzip -oq xcode-project.zip -d build
           find build -maxdepth 3 -name "*.xcodeproj" -print
 
+      - name: Allow app transport security for self-hosted relay
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import plistlib
+          p = 'build/BuckshotRoulette/BuckshotRoulette-Info.plist'
+          with open(p, 'rb') as f:
+              data = plistlib.load(f)
+          data['NSAppTransportSecurity'] = {'NSAllowsArbitraryLoads': True}
+          with open(p, 'wb') as f:
+              plistlib.dump(data, f)
+          print('ATS exception added')
+          PY
+
       - name: Patch Godot 4.1 Xcode project for modern Xcode
         run: |
           set -euo pipefail

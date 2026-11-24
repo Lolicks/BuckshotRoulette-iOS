@@ -212,8 +212,6 @@ func Start():
 	get_tree().change_scene_to_file("res://scenes/main.tscn")
 
 func StartMultiplayer():
-	# Offline port: online mode is intentionally disabled.
-	return
 	if !GlobalSteam.ONLINE:
 		GlobalVariables.message_to_forward = tr("MP_UI LOBBY NO CONNECTION")
 		GlobalVariables.returning_to_main_menu_on_popup_close = true

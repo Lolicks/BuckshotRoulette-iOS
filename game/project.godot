@@ -21,10 +21,14 @@ boot_splash/minimum_display_time=3000
 
 [autoload]
 
-Steam="*res://steam_stub.gd"
+Steam="*res://scripts/SteamNet.gd"
 GlobalVariables="*res://scripts/GlobalVariables.gd"
 GlobalSteam="*res://scripts/Steam.gd"
 TouchControls="*res://scripts/TouchControls.gd"
+
+[net]
+
+server_url="ws://buckshot-129-146-71-78.nip.io/ws"
 
 [debug]
 

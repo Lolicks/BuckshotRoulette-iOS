@@ -7,3 +7,7 @@ build/
 *.exe
 *.dll
 steam_appid.txt
+
+*.7z
+node_modules/
+

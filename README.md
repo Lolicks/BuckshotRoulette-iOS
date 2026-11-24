@@ -37,6 +37,16 @@ python tools/build_pck.py game build\FullGame.pck
 Godot_v4.1.1-stable_win64_console.exe --headless --main-pack build\FullGame.pck --quit-after 5
 ```
 
+## Онлайн (свой сервер, без Steam)
+
+- Сервер: `server/server.js` (Node.js + `ws`), API совместимо со Steam-слоем игры через `scripts/SteamNet.gd`.
+- Адрес по умолчанию: `ws://buckshot-129-146-71-78.nip.io/ws` (nginx → локальный `:9090`, порт 80 наружу). Сайты на сервере не затронуты — добавлен отдельный vhost.
+- Игроки видят публичный список комнат в лобби, входят по клику, никаких логинов и паролей.
+- Хост авторитетен: сервер только ретранслирует пакеты, игровая логика и проверка запросов остаются на хосте.
+- Сервер запущен как systemd-сервис `buckshot-net` на VPS.
+
+ДляiOS в Info.plist добавляется `NSAllowsArbitraryLoads=true`, иначе ATS блокирует `ws://`.
+
 ## Технические детали
 
 Анализ исходного бинарника performed с помощью REA MCP: PE x86_64, встроенный Godot PCK (format 2, engine 4.1.1), 3572 записи, `file_base=58282384`, `pack_start=57826816`. Движок, версия и составconfirmed evidence `ev_e5fb49f6fd8a3181fb6cd6d28fcaabb380e540a7b89c4b6fb2d29e19fef6cdb9`.
