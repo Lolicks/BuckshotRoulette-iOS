@@ -11,13 +11,13 @@ config_version=5
 [application]
 
 config/name="Buckshot Roulette"
-run/main_scene="res://scenes/menu.tscn"
+run/main_scene="res://scenes/loading.tscn"
 config/features=PackedStringArray("4.1", "Forward Plus")
 boot_splash/bg_color=Color(0, 0, 0, 1)
 boot_splash/show_image=false
 boot_splash/image="res://misc/CR White splash.png"
 config/icon="res://misc/icon1.png"
-boot_splash/minimum_display_time=3000
+boot_splash/minimum_display_time=500
 
 [autoload]
 
@@ -33,7 +33,7 @@ server_url="ws://buckshot-129-146-71-78.nip.io/ws"
 
 [debug]
 
-file_logging/enable_file_logging=true
+file_logging/enable_file_logging=false
 
 [display]
 

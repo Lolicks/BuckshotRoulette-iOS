@@ -20,7 +20,6 @@ var greyscale_death := true
 func _ready() -> void:
 	process_mode = Node.PROCESS_MODE_ALWAYS
 	load_settings()
-	_build_ui()
 	apply_all()
 
 func _in_game() -> bool:
@@ -34,9 +33,14 @@ func _input(event: InputEvent) -> void:
 	if event.is_action_pressed("ui_cancel") and _in_game():
 		toggle()
 
+func _ensure_ui() -> void:
+	if root_panel == null:
+		_build_ui()
+
 func toggle() -> void:
 	if !_in_game():
 		return
+	_ensure_ui()
 	opened = !opened
 	root_panel.visible = opened
 	get_tree().paused = opened

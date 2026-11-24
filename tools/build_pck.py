@@ -17,7 +17,38 @@ SKIP_NAMES = {'.git', 'tools', 'build', 'export_presets.cfg', '_manifest.json',
               'save_settings.gd', 'conv_test.gd', 'diag.gd', 'props.gd', 'enum_test.gd'}
 
 
+# Heavy multiplayer-only assets are not needed: online uses the public room
+# list and the original multiplayer scripts, but not its 3D models/textures/audio.
+SKIP_PREFIXES = (
+    'multiplayer/models/',
+    'multiplayer/audio/',
+    'multiplayer/instances/',
+)
+
+
+def _remap_targets(root):
+    """Collect imported resource paths referenced by .import files we skip."""
+    targets = set()
+    for prefix in SKIP_PREFIXES:
+        base = os.path.join(root, *prefix.split('/'))
+        if not os.path.isdir(base):
+            continue
+        for dp, dn, fn in os.walk(base):
+            for f in fn:
+                if not f.endswith('.import'):
+                    continue
+                try:
+                    text = open(os.path.join(dp, f), encoding='utf-8', errors='replace').read()
+                except OSError:
+                    continue
+                import re
+                for m in re.finditer(r'^path(?:\.[A-Za-z0-9_]+)?="(res://[^"]+)"', text, re.M):
+                    targets.add(m.group(1))
+    return targets
+
+
 def collect(root):
+    skip_targets = _remap_targets(root)
     files = []
     for dp, dn, fn in os.walk(root):
         dn[:] = [d for d in dn if d not in SKIP_NAMES]
@@ -28,7 +59,10 @@ def collect(root):
             rel = os.path.relpath(full, root).replace('\\', '/')
             if rel.startswith('build/'):
                 continue
-            files.append(('res://' + rel, full))
+            res = 'res://' + rel
+            if rel.startswith(SKIP_PREFIXES) or res in skip_targets:
+                continue
+            files.append((res, full))
     files.sort(key=lambda x: x[0])
     return files
 

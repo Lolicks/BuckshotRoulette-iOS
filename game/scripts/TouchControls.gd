@@ -34,7 +34,7 @@ func _ready() -> void:
 
 func _build_ui() -> void:
 	layer = CanvasLayer.new()
-	layer.layer = 100
+	layer.layer = 500
 	layer.process_mode = Node.PROCESS_MODE_ALWAYS
 	add_child(layer)
 
@@ -42,8 +42,9 @@ func _build_ui() -> void:
 	exit_button.connect("button_down", Callable(self, "_on_exit_down"))
 	exit_button.connect("button_up", Callable(self, "_on_exit_up"))
 
-	menu_button = _make_button("MENU", Vector2(14, 12), Vector2(92, 40), Color(1, 0.85, 0.3))
+	menu_button = _make_button("MENU", Vector2(14, 12), Vector2(110, 44), Color(1, 0.9, 0.35))
 	menu_button.connect("pressed", Callable(self, "_on_menu_pressed"))
+	menu_button.visible = true
 
 	skip_button = _make_button("SKIP", Vector2(14, 60), Vector2(92, 40), Color(0.29, 0.5, 1))
 	skip_button.connect("pressed", Callable(self, "_on_skip_pressed"))
@@ -64,8 +65,14 @@ func _make_button(text: String, pos: Vector2, size: Vector2, color: Color) -> Bu
 	b.text = text
 	b.position = pos
 	b.size = size
-	b.flat = true
+	b.flat = false
 	b.mouse_filter = Control.MOUSE_FILTER_STOP
+	var sb := StyleBoxFlat.new()
+	sb.bg_color = Color(0.05, 0.05, 0.06, 0.85)
+	sb.set_corner_radius_all(6)
+	sb.set_border_width_all(1)
+	sb.border_color = color
+	b.add_theme_stylebox_override("normal", sb)
 	b.add_theme_color_override("font_color", color)
 	b.add_theme_color_override("font_hover_color", color)
 	b.add_theme_color_override("font_pressed_color", Color(1, 1, 1))
@@ -111,7 +118,6 @@ func _process(delta: float) -> void:
 	var scene := get_tree().current_scene
 	if scene == null:
 		return
-	menu_button.visible = String(scene.scene_file_path).ends_with("main.tscn") or String(scene.scene_file_path).ends_with("main.scn")
 	crt_ref = _find_by_class(scene, "CRT")
 	menu_ref = _find_by_class(scene, "MenuManager")
 	var crt_open := crt_ref != null and crt_ref.viewing

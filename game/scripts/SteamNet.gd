@@ -65,6 +65,7 @@ func _ready() -> void:
 	server_url = str(ProjectSettings.get_setting("net/server_url", "ws://buckshot-129-146-71-78.nip.io/ws"))
 	_nickname = "Player" + str(randi_range(100, 999))
 	STEAM_NAME = _nickname
+	await get_tree().create_timer(1.5, false).timeout
 	_connect()
 
 func _connect() -> void:
