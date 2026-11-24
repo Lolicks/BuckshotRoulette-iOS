@@ -379,7 +379,7 @@ func get_lobby_members() -> void:
 	if GlobalSteam.STEAM_ID == GlobalSteam.HOST_ID:
 		Steam.setLobbyData(GlobalSteam.LOBBY_ID, "member_count", str(GlobalSteam.LOBBY_MEMBERS.size()))
 		if !(GlobalSteam.HOST_ID in GlobalVariables.steam_id_version_checked_array):
-			GlobalVariables.steam_id_version_checked_ayeahrray.append(GlobalSteam.HOST_ID)
+			GlobalVariables.steam_id_version_checked_array.append(GlobalSteam.HOST_ID)
 
 	if (previous_host != GlobalSteam.HOST_ID) && (GlobalSteam.STEAM_ID == GlobalSteam.HOST_ID):
 		if match_customization != null:

@@ -19,11 +19,9 @@ SKIP_NAMES = {'.git', 'tools', 'build', 'export_presets.cfg', '_manifest.json',
 
 # Heavy multiplayer-only assets are not needed: online uses the public room
 # list and the original multiplayer scripts, but not its 3D models/textures/audio.
-SKIP_PREFIXES = (
-    'multiplayer/models/',
-    'multiplayer/audio/',
-    'multiplayer/instances/',
-)
+# Keep every original asset: mp_lobby.scn and mp_main.scn reference models,
+# audio and instance scenes directly. Removing them breaks the lobby (black screen).
+SKIP_PREFIXES = ()
 
 
 def _remap_targets(root):
