@@ -11,3 +11,7 @@ steam_appid.txt
 *.7z
 node_modules/
 
+
+game_pc/
+make_pc.log
+

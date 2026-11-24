@@ -64,6 +64,34 @@ jobs:
           path: xcode-project.zip
           retention-days: 7
 
+      - name: Prepare OpenGL project for Windows
+        run: |
+          set -euo pipefail
+          python3 tools/make_pc_project.py game game_pc
+          /tmp/godot/godot --headless --path game_pc \
+            --script res://tools/regenerate_project_binary.gd
+
+      - name: Export Windows binary (OpenGL, no Vulkan needed)
+        run: |
+          set -euo pipefail
+          /tmp/godot/godot --headless --path game_pc \
+            --export-release "Windows Desktop" \
+            "$GITHUB_WORKSPACE/build/BuckshotRoulette.exe"
+          python3 tools/build_pck.py game_pc build/FullGame.pck
+          cp build/FullGame.pck build/BuckshotRoulette.pck
+          rm build/FullGame.pck
+          cd build
+          zip -qry ../windows-build.zip BuckshotRoulette.exe BuckshotRoulette.pck
+          cd ..
+          ls -lh windows-build.zip
+
+      - name: Upload Windows build
+        uses: actions/upload-artifact@v4
+        with:
+          name: BuckshotRoulette-Windows
+          path: windows-build.zip
+          retention-days: 30
+
   build-ipa:
     name: Build unsigned IPA with Xcode
     needs: export-xcode-project
