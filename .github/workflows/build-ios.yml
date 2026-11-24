@@ -79,8 +79,9 @@ jobs:
         run: |
           set -euo pipefail
           ls -lh xcode-project.zip
+          rm -rf build
           mkdir -p build
-          unzip -q xcode-project.zip -d build
+          unzip -oq xcode-project.zip -d build
           find build -maxdepth 3 -name "*.xcodeproj" -print
 
       - name: Inspect Xcode project
