@@ -20,7 +20,13 @@
 
 IPA подписан без Apple Developer ID (`CODE_SIGNING_ALLOWED=NO`), поэтому для установки нужны инструменты вроде AltStore/Sideloadly или переподписка своим сертификатом.
 
-Готовый артефакт также лежит локально: `output/BuckshotRoulette.ipa` (~650 МБ). Внутри — `Payload/BuckshotRoulette.app` и PCK на 5328 файлов (включая `TouchControls.gd` и ETC2-текстуры).
+Готовые артефакты лежат локально в `output/`:
+- `BuckshotRoulette.ipa` (~650 МБ) — для iPhone;
+- `windows-build.zip` (~660 МБ) — распакуйте на ПК, внутри `BuckshotRoulette.exe` и `BuckshotRoulette.pck` (должны лежать рядом).
+
+Windows-сборка использует **OpenGL (`gl_compatibility`)** и не требует видеокарты с Vulkan.
+
+Сервер запущен на `129.146.71.78`; клиенты подключаются к `ws://buckshot-129-146-71-78.nip.io/ws`. Оба бинарника содержат один и тот же PCK (5329 файлов) и фасад `SteamNet.gd`, поэтому iPhone и ПК играют вместе через публичный список комнат.
 
 Workflow использует `macos-latest`: он instantaneously находит раннер, в отличие от перегруженного `macos-13`. Перед сборкой CI патчит сгенерированный Godot 4.1 `project.pbxproj` (экранирует `ES LATAM`), иначе Xcode 26 не может открыть проект.
 
