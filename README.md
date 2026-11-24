@@ -7,6 +7,7 @@
 - `game/` — восстановленный проект Godot 4.1.1: все GDScript-исходники, сцены, текстуры, звуки, музыка, шрифты и 17 локализаций, извлечённые из встроенного PCK оригинального `Buckshot Roulette.exe`.
 - Текстуры перекодированы в **ETC2** — формат, который понимают iOS-устройства (в оригинале был только S3TC/DXT).
 - `steam_stub.gd` — офлайн-заглушка Steamworks. Онлайн-меню отключено в `scripts/MenuManager.gd`.
+- **Сенсорное управление для iOS** (`scripts/TouchControls.gd`): тапы превращаются в клики (плюс прямой обработчик в `MouseRaycast.gd`/`InteractionManager.gd` с защитой от двойных срабатываний), экранные кнопки **EXIT** (удержание 2 сек / пропуск интро), **SKIP** и **◀ ▶** для CRT-терминала. На iOS скрывается ремап клавиш.
 - `tools/build_pck.py` — сборка полного PCK напрямую из ассетов (экспорт Godot из «вынутого» проекта теряет часть ресурсов).
 - `.github/workflows/build-ios.yml` — сборка IPA через GitHub Actions (Ubuntu → Xcode-проект, macOS → IPA).
 
@@ -18,6 +19,10 @@
 2. После завершения скачать артефакт `BuckshotRoulette-IPA`.
 
 IPA подписан без Apple Developer ID (`CODE_SIGNING_ALLOWED=NO`), поэтому для установки нужны инструменты вроде AltStore/Sideloadly или переподписка своим сертификатом.
+
+Готовый артефакт также лежит локально: `output/BuckshotRoulette.ipa` (~650 МБ). Внутри — `Payload/BuckshotRoulette.app` и PCK на 5328 файлов (включая `TouchControls.gd` и ETC2-текстуры).
+
+Workflow использует `macos-latest`: он instantaneously находит раннер, в отличие от перегруженного `macos-13`. Перед сборкой CI патчит сгенерированный Godot 4.1 `project.pbxproj` (экранирует `ES LATAM`), иначе Xcode 26 не может открыть проект.
 
 ## Локальная проверка
 
