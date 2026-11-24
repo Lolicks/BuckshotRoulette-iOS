@@ -48,13 +48,20 @@ jobs:
           rm build/FullGame.pck
           ls -lh build/BuckshotRoulette.pck
 
+      - name: Pack Xcode project as zip
+        run: |
+          set -euo pipefail
+          cd build
+          zip -qry ../xcode-project.zip .
+          cd ..
+          ls -lh xcode-project.zip
+          unzip -l xcode-project.zip | head -20
+
       - name: Upload Xcode project
         uses: actions/upload-artifact@v4
         with:
           name: xcode-project
-          path: |
-            build/
-            export.log
+          path: xcode-project.zip
           retention-days: 7
 
   build-ipa:
@@ -68,10 +75,18 @@ jobs:
           name: xcode-project
           path: .
 
+      - name: Unpack Xcode project
+        run: |
+          set -euo pipefail
+          ls -lh xcode-project.zip
+          mkdir -p build
+          unzip -q xcode-project.zip -d build
+          find build -maxdepth 3 -name "*.xcodeproj" -print
+
       - name: Inspect Xcode project
         run: |
-          find build -maxdepth 3 -name "*.xcodeproj" -print
-          xcodebuild -list -project build/BuckshotRoulette.xcodeproj || true
+          set -euo pipefail
+          xcodebuild -list -project build/BuckshotRoulette.xcodeproj
 
       - name: Archive (no code signing)
         run: |
