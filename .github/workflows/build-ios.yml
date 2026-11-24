@@ -84,6 +84,18 @@ jobs:
           unzip -oq xcode-project.zip -d build
           find build -maxdepth 3 -name "*.xcodeproj" -print
 
+      - name: Patch Godot 4.1 Xcode project for modern Xcode
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          p = 'build/BuckshotRoulette.xcodeproj/project.pbxproj'
+          s = open(p, encoding='utf-8').read()
+          s = s.replace('name = ES LATAM;', 'name = "ES LATAM";')
+          s = s.replace('path = ES LATAM.lproj/InfoPlist.strings;', 'path = "ES LATAM.lproj/InfoPlist.strings";')
+          open(p, 'w', encoding='utf-8').write(s)
+          print('patched unquoted locale name')
+          PY
+
       - name: Inspect Xcode project
         run: |
           set -euo pipefail
