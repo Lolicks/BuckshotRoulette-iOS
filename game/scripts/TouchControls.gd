@@ -20,6 +20,10 @@ var crt_ref: CRT = null
 var menu_ref: MenuManager = null
 var scan_timer := 0.0
 
+var _press_start := 0.0
+var _press_pos := Vector2.ZERO
+var _long_active := false
+
 func _ready() -> void:
 	touch_mode = OS.has_feature("iOS") or bool(ProjectSettings.get_setting("touch_controls/force_enable", false))
 	if not touch_mode:
@@ -64,6 +68,22 @@ func _make_button(text: String, pos: Vector2, size: Vector2, color: Color) -> Bu
 	layer.add_child(b)
 	return b
 
+func _input(event: InputEvent) -> void:
+	if not touch_mode:
+		return
+	if event is InputEventScreenTouch:
+		if event.pressed and event.index == 0 and !is_point_over_control(event.position):
+			_press_start = Time.get_ticks_msec() / 1000.0
+			_press_pos = event.position
+		elif !event.pressed and event.index == 0:
+			if _long_active:
+				Input.action_release("free look toggle")
+				_long_active = false
+			_press_start = 0.0
+	elif event is InputEventScreenDrag and _press_start > 0.0:
+		if event.position.distance_to(_press_pos) > 24.0:
+			_press_start = 0.0
+
 func is_point_over_control(point: Vector2) -> bool:
 	if not touch_mode:
 		return false
@@ -75,6 +95,10 @@ func is_point_over_control(point: Vector2) -> bool:
 func _process(delta: float) -> void:
 	if not touch_mode:
 		return
+	if _press_start > 0.0 and !_long_active:
+		if Time.get_ticks_msec() / 1000.0 - _press_start > 0.45:
+			Input.action_press("free look toggle")
+			_long_active = true
 	scan_timer -= delta
 	if scan_timer > 0.0:
 		return
