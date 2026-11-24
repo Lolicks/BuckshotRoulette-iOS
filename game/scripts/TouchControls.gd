@@ -35,6 +35,7 @@ func _ready() -> void:
 func _build_ui() -> void:
 	layer = CanvasLayer.new()
 	layer.layer = 100
+	layer.process_mode = Node.PROCESS_MODE_ALWAYS
 	add_child(layer)
 
 	exit_button = _make_button("EXIT", Vector2(854, 12), Vector2(92, 40), Color(1, 0.28, 0.29))
@@ -110,6 +111,7 @@ func _process(delta: float) -> void:
 	var scene := get_tree().current_scene
 	if scene == null:
 		return
+	menu_button.visible = String(scene.scene_file_path).ends_with("main.tscn") or String(scene.scene_file_path).ends_with("main.scn")
 	crt_ref = _find_by_class(scene, "CRT")
 	menu_ref = _find_by_class(scene, "MenuManager")
 	var crt_open := crt_ref != null and crt_ref.viewing
