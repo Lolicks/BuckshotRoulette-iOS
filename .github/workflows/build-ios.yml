@@ -36,7 +36,9 @@ jobs:
           set +e
           /tmp/godot/godot --headless --path game --export-release "iOS" \
             "$GITHUB_WORKSPACE/build/BuckshotRoulette.ipa" 2>&1 | tee export.log
-          echo "Godot export exit code: ${PIPESTATUS[0]}"
+          code=${PIPESTATUS[0]}
+          echo "Godot export exit code: $code"
+          if [ "$code" -ne 0 ]; then exit "$code"; fi
           set -e
           find build -maxdepth 2 -type d | sort
 

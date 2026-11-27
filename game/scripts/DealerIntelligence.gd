@@ -268,6 +268,7 @@ func DealerChoice():
 	if (dealerWantsToUse == ""): dealerFinishedUsingItems = true
 	if (roundManager.waitingForDealerReturn):
 		await get_tree().create_timer(1.8, false).timeout
+		roundManager.waitingForDealerReturn = false
 	if (!dealerHoldingShotgun && dealerFinishedUsingItems):
 		GrabShotgun()
 		await get_tree().create_timer(1.4 + .5 - 1, false).timeout

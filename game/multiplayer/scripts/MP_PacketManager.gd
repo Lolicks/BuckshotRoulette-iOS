@@ -111,6 +111,19 @@ func read_p2p_packet() -> void:
 				else:
 					print("received packet is not set to ignore on timeout. continuing")
 		
+		# The relay authenticates the transport sender; do not let a client
+		# claim somebody else's game socket inside the packet body.
+		if GlobalSteam.STEAM_ID == GlobalSteam.HOST_ID && packet_sender != GlobalSteam.HOST_ID && readable_data.has("sent_from_socket"):
+			var claimed_socket := int(readable_data.sent_from_socket)
+			var socket_owner := -1
+			if instance_handler != null:
+				for property in instance_handler.instance_property_array:
+					if property.socket_number == claimed_socket:
+						socket_owner = int(property.user_id)
+						break
+			if socket_owner != -1 && socket_owner != packet_sender:
+				print("packet refused: socket %s does not belong to sender %s" % [claimed_socket, packet_sender])
+				return
 		if packet_sender == GlobalSteam.HOST_ID:
 			print("received packet from host")
 		if GlobalVariables.printing_packets: 

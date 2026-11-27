@@ -125,8 +125,9 @@ func ShowInviteDialogue():
 	Steam.activateGameOverlayInviteDialog(GlobalSteam.LOBBY_ID)
 
 func JoinLobbyWithPastedID():
-	var current_clipboard = DisplayServer.clipboard_get()
-	if current_clipboard.length() != 18:
+	var current_clipboard = DisplayServer.clipboard_get().strip_edges()
+	# Relay room ids are short integers; the old Steam check expected 18 digits.
+	if !current_clipboard.is_valid_int() || int(current_clipboard) <= 0:
 		Console_Copypaste(tr("MP_UI LOBBY ID ERROR INVALID CLIPBOARD"))
 		return
 	leave_lobby()

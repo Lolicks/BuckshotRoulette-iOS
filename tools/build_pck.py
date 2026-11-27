@@ -55,7 +55,9 @@ def collect(root):
                 continue
             full = os.path.join(dp, f)
             rel = os.path.relpath(full, root).replace('\\', '/')
-            if rel.startswith('build/'):
+            # Editor-only metadata; .godot/exported and .godot/imported must
+            # stay because the .remap files point into them.
+            if rel.startswith('build/') or rel.startswith('.godot/editor/'):
                 continue
             res = 'res://' + rel
             if rel.startswith(SKIP_PREFIXES) or res in skip_targets:
@@ -93,9 +95,6 @@ def build(root, out):
 
     header_size = len(header) + len(directory)
     file_base = (header_size + ALIGN - 1) // ALIGN * ALIGN
-    # Offsets in the directory are relative to file_base.
-    for res_path, ofs, size, blob in entries:
-        pass
     # Offsets in the directory are relative to file_base (start of file data).
     header[24:32] = struct.pack('<Q', file_base)
 

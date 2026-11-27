@@ -11,10 +11,13 @@ func VerifyPacket(packet_data):
 	if !packet_data.has("sent_from_socket") or !packet_data.has("packet_id"):
 		print("unknown packet in verification: ", packet_data, ". returning")
 		return {}
-	var id = packet_data.values()[3]
+	var id = int(packet_data.packet_id)
 	var verified_data = {}
 	var verification_successful = false
 	var properties = game_state.GetSocketProperties(packet_data.sent_from_socket)
+	if properties == null:
+		print("verification: unknown socket ", packet_data.sent_from_socket, ". ignoring")
+		return {}
 	match id:
 		10:
 			if !properties.is_holding_shotgun && game_state.MAIN_active_current_turn_socket == properties.socket_number && properties.has_turn:
@@ -187,3 +190,4 @@ func GetSocketProperties(socket_number : int):
 	for instance_property in instance_handler.instance_property_array:
 		if instance_property.socket_number == socket_number:
 			return instance_property
+	return null

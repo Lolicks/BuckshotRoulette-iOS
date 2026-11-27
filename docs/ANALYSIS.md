@@ -39,7 +39,7 @@ Evidence REA: `ev_e5fb49f6fd8a3181fb6cd6d28fcaabb380e540a7b89c4b6fb2d29e19fef6cd
 ## Что изменено в порте
 
 1. Добавлен `steam_stub.gd` (autoload `Steam`) — Steamworks полностью отключён.
-2. `MenuManager.StartMultiplayer()` → no-op (онлайн-режим убран).
+2. `MenuManager.StartMultiplayer()` → переход в `mp_lobby.tscn`; Steamworks заменён самописным WebSocket-ретранслятором (`SteamNet.gd` + `server/server.js`), P2P-API сохранён.
 3. Текстуры S3TC → ETC2 (875 файлов) для iOS.
 4. PCK собирается напрямую (`tools/build_pck.py`), т.к. экспорт Godot из распакованного проекта не видит часть импортированных ресурсов без исходных PNG.
 5. Добавлен iOS export preset и CI workflow для сборки IPA.

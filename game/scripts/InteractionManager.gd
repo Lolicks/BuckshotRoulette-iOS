@@ -22,6 +22,7 @@ func _process(delta):
 	pass
 
 var last_touch_ms := 0
+var _touch_start_pos := Vector2.ZERO
 
 func _input(event):
 	var tc = get_node_or_null("/root/TouchControls")
@@ -35,7 +36,14 @@ func _input(event):
 	if event is InputEventScreenTouch:
 		if event.pressed:
 			last_touch_ms = Time.get_ticks_msec()
-			MainInteractionEvent()
+			_touch_start_pos = event.position
+		else:
+			# Act on tap release, not press: a long press is a free-look
+			# gesture and a drag is a camera move, neither is an interaction.
+			last_touch_ms = Time.get_ticks_msec()
+			var free_look_used: bool = tc != null and tc.long_press_used
+			if !free_look_used and event.position.distance_to(_touch_start_pos) < 24.0:
+				MainInteractionEvent()
 		return
 	if event is InputEventMouseButton and event.button_index == MOUSE_BUTTON_LEFT and event.pressed:
 		# Avoid a double interaction when Godot emulates a mouse click from a touch.

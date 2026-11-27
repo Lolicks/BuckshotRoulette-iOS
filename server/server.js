@@ -61,7 +61,7 @@ function roomSummary(r) {
   };
 }
 function broadcastRoomList() {
-  const list = [...rooms.values()].filter(r => !r.started).map(roomSummary);
+  const list = [...rooms.values()].filter(r => !r.started && r.public).map(roomSummary);
   for (const c of clients.values()) send(c.ws, { t: 'room.list', rooms: list });
 }
 function notifySnapshot(room) {
@@ -127,7 +127,8 @@ wss.on('connection', (ws) => {
       client.tokens = RATE_LIMIT;
       client.lastRefill = now;
     }
-    if (client.tokens-- <= 0) return;
+    if (client.tokens <= 0) return;
+    client.tokens--;
 
     switch (msg.t) {
       case 'hello':
@@ -144,7 +145,7 @@ wss.on('connection', (ws) => {
         const room = {
           id: rid(), name: safeName(msg.room_name || client.name + "'s game"),
           hostId: client.id, limit: Math.min(4, Math.max(2, Number(msg.limit) || 4)),
-          members: new Set([client.id]), data: {}, started: false,
+          members: new Set([client.id]), data: {}, started: false, public: true,
         };
         rooms.set(room.id, room);
         client.roomId = room.id;
@@ -186,6 +187,23 @@ wss.on('connection', (ws) => {
         break;
       }
 
+      case 'room.limit': {
+        const room = rooms.get(client.roomId);
+        if (!room || room.hostId !== client.id) return;
+        room.limit = Math.min(4, Math.max(room.members.size, Number(msg.limit) || 4));
+        notifySnapshot(room);
+        broadcastRoomList();
+        break;
+      }
+
+      case 'room.visibility': {
+        const room = rooms.get(client.roomId);
+        if (!room || room.hostId !== client.id) return;
+        room.public = msg.public !== false;
+        broadcastRoomList();
+        break;
+      }
+
       case 'room.start': {
         const room = rooms.get(client.roomId);
         if (!room || room.hostId !== client.id) return;
@@ -206,7 +224,7 @@ wss.on('connection', (ws) => {
             ? [Number(msg.to)]
             : [...room.members].filter(id => id !== client.id);
           for (const id of targets) {
-            if (id === client.id) continue;
+            if (id === client.id || !room.members.has(id)) continue;
             const c = clients.get(id);
             if (c) send(c.ws, { t: 'packet', from: client.id, data: msg.data });
           }
@@ -231,6 +249,7 @@ wss.on('connection', (ws) => {
   });
 });
 
-server.listen(PORT, '0.0.0.0', () => {
-  console.log(`Buckshot Roulette relay listening on 0.0.0.0:${PORT}`);
+// Only nginx is the public entry point; the relay itself stays local.
+server.listen(PORT, '127.0.0.1', () => {
+  console.log(`Buckshot Roulette relay listening on 127.0.0.1:${PORT}`);
 });

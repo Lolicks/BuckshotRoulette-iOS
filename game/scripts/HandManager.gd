@@ -74,12 +74,13 @@ func PickupItemFromTable(itemName : String):
 	if (whichGridSide == "right"): animator_dealerHeadLook.play("dealer look right")
 	else: animator_dealerHeadLook.play("dealer look left")
 	if (stealing):
-		if (whichGridSide == "right"): cam.BeginLerp("player item grid left")
-		else: cam.BeginLerp("player item grid right")
+		if (whichGridSide == "right"): cam.BeginLerp("player item grid right")
+		else: cam.BeginLerp("player item grid left")
 		var amountArray : Array[AmountResource] = amounts.array_amounts
 		for res in amountArray:
-			if res.itemName == itemName: res.amount_player -= 1
-			break
+			if res.itemName == itemName:
+				res.amount_player -= 1
+				break
 	await get_tree().create_timer(lerpDuration -.4, false).timeout
 	if (whichHandToGrabWith == "right"): hand_defaultR.visible = false
 	else: hand_defaultL.visible = false
@@ -164,11 +165,11 @@ func RemoveItem_Remote(activeInstance : Node3D):
 	pass
 
 func ToggleHandVisible(selectedHand : String, state : bool):
-	if (selectedHand == "L" or "BOTH"):
+	if (selectedHand == "L" or selectedHand == "BOTH"):
 		for i in range(handArray_L.size()):
 			if (state): handArray_L[i].visible = true
 			else: handArray_L[i].visible = false
-	if (selectedHand == "R" or "BOTH"):
+	if (selectedHand == "R" or selectedHand == "BOTH"):
 		for i in range(handArray_R.size()):
 			if (state): handArray_R[i].visible = true
 			else: handArray_R[i].visible = false

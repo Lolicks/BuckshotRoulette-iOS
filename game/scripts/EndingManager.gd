@@ -196,7 +196,7 @@ func IncrementGlobalStats():
 	statSAVE_shots_fired = statPREV_shots_fired + roundManager.playerData.stat_shotsFired
 	statSAVE_shells_ejected = statPREV_shells_ejected +  roundManager.playerData.stat_shellsEjected
 	statSAVE_doors_kicked = statPREV_doors_kicked + roundManager.playerData.stat_doorsKicked
-	statSAVE_cigs_smoked = statPREV_doors_kicked + roundManager.playerData.stat_cigSmoked
+	statSAVE_cigs_smoked = statPREV_cigs_smoked + roundManager.playerData.stat_cigSmoked
 	statSAVE_rounds_beat = statPREV_rounds_beat + endless_roundsbeat
 	statSAVE_ml_drank = statPREV_ml_drank + roundManager.playerData.stat_beerDrank
 	statSAVE_total_cash = statPREV_total_cash + cash_gl

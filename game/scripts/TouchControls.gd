@@ -24,6 +24,9 @@ var scan_timer := 0.0
 var _press_start := 0.0
 var _press_pos := Vector2.ZERO
 var _long_active := false
+# Sticky for the duration of one touch: InteractionManager reads it on release
+# so a camera free-look gesture never triggers the shotgun or an item.
+var long_press_used := false
 
 func _ready() -> void:
 	touch_mode = OS.has_feature("iOS") or bool(ProjectSettings.get_setting("touch_controls/force_enable", false))
@@ -87,6 +90,7 @@ func _input(event: InputEvent) -> void:
 		if event.pressed and event.index == 0 and !is_point_over_control(event.position):
 			_press_start = Time.get_ticks_msec() / 1000.0
 			_press_pos = event.position
+			long_press_used = false
 		elif !event.pressed and event.index == 0:
 			if _long_active:
 				Input.action_release("free look toggle")
@@ -128,6 +132,7 @@ func _process(delta: float) -> void:
 		if Time.get_ticks_msec() / 1000.0 - _press_start > 0.45:
 			Input.action_press("free look toggle")
 			_long_active = true
+			long_press_used = true
 	scan_timer -= delta
 	if scan_timer > 0.0:
 		return

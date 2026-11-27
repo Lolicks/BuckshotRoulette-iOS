@@ -9,7 +9,7 @@
 - Сенсорное управление на iOS: тапы, long-press → free-look, кнопки **MENU / EXIT / SKIP / ◀ ▶**.
 - Внутриигровое меню: **Esc** (ПК) или **MENU** (айфон, всегда видна в игре, слой 500) → Resume / Settings / Exit to Main Menu.
 - Быстрый старт: лёгкая сцена `loading.tscn` показывает «Loading…» сразу, а тяжёлое меню грузится в фоне через `load_threaded_request`. Задержка splashreduced до 0.5 с, логирование выключено.
-- PCK уменьшен с 1.15 ГБ до ~760 МБ за счёт удаления ненужных мультиплеерных моделей/звуков/инстансов (скрипты, переводы, текстуры и сцены сохранены).
+- PCK собирается из полного дерева ассетов: ~5330 файлов, ~1.1 ГБ. Удаление мультиплеерных моделей/звуков откачено — `mp_lobby.scn` ссылается на них напрямую, без них лобби показывало чёрный экран.
 - Настройки графики прямо в игре: Low / Medium / High (масштаб 3D, MSAA, тени, FPS), громкость, музыка, colorblind, greyscale death. Сохраняются в `user://buckshotroulette_graphics.cfg`.
 
 ## Готовые бинарники
@@ -46,7 +46,7 @@
 ## Сборка
 
 GitHub Actions: `.github/workflows/build-ios.yml`, один run строит **оба** артефакта:
-1. Ubuntu: Godot 4.1.1 + export templates → Xcode-проект и полный PCK (5329 файлов) + Windows EXE на `gl_compatibility`.
+1. Ubuntu: Godot 4.1.1 + export templates → Xcode-проект и полный PCK (5330 файлов) + Windows EXE на `gl_compatibility`.
 2. macOS: `xcodebuild` → unsigned IPA. В Info.plist добавляется ATS-exception, в pbxproj экранируется `ES LATAM` для Xcode 26.
 
 ## Исходное исследование

@@ -8,14 +8,14 @@ signal join_requested
 signal lobby_chat_update(lobby_id: int, change_id: int, making_change_id: int, chat_state: int)
 signal lobby_created(connect_result: int, lobby_id: int)
 signal lobby_joined(lobby_id: int, permissions: int, locked: bool, response: int)
-signal persona_state_change
+signal persona_state_change(steam_id: int, flag: int)
 signal p2p_session_request(remote_id: int)
 signal p2p_session_connect_fail(steam_id: int, session_error: int)
 signal lobby_match_list(list: Array)
-signal avatar_loaded(avatar_id: int, large: bool)
-signal leaderboard_find_result(handle: int, name: String)
+signal avatar_loaded(avatar_id: int, avatar_size: int, avatar_buffer: PackedByteArray)
+signal leaderboard_find_result(handle: int, found: int)
 signal leaderboard_score_uploaded
-signal leaderboard_scores_downloaded
+signal leaderboard_scores_downloaded(message: String, handle: int, results: Array)
 
 const PACKET_READ_LIMIT: int = 32
 const P2P_SEND_RELIABLE: int = 0
@@ -97,7 +97,13 @@ func _process(_delta: float) -> void:
 			_ping_at = Time.get_ticks_msec() / 1000.0 + 20.0
 			_send_raw({"t": "ping"})
 	elif state == WebSocketPeer.STATE_CLOSED:
-		logged_in = false
+		# The relay assigns a new id on every connection and removes the old
+		# client from its room, so every piece of session state is now stale.
+		var had_lobby := LOBBY_ID != 0
+		_reset_session_state()
+		if had_lobby:
+			lobby_joined.emit(0, 0, false, CHAT_ROOM_ENTER_RESPONSE_DOESNT_EXIST)
+			persona_state_change.emit(0, 0)
 		var now := Time.get_ticks_msec() / 1000.0
 		if now >= _reconnect_at:
 			_reconnect_at = now + 3.0
@@ -109,6 +115,16 @@ func _send_raw(msg: Dictionary) -> void:
 		return
 	ws.send(JSON.stringify(msg).to_utf8_buffer())
 
+func _reset_session_state() -> void:
+	LOBBY_ID = 0
+	HOST_ID = 0
+	LOBBY_MEMBERS.clear()
+	_rooms.clear()
+	_room_data.clear()
+	_incoming.clear()
+	_outgoing.clear()
+	logged_in = false
+
 func _handle_message(text: String) -> void:
 	var msg = JSON.parse_string(text)
 	if typeof(msg) != TYPE_DICTIONARY:
@@ -117,6 +133,13 @@ func _handle_message(text: String) -> void:
 	match t:
 		"welcome":
 			STEAM_ID = int(msg.get("id", 0))
+			# GlobalSteam snapshots this in _ready(), before the relay has
+			# answered. Without this sync the host always looks like id 0.
+			var global_steam := get_node_or_null("/root/GlobalSteam")
+			if global_steam != null:
+				global_steam.STEAM_ID = STEAM_ID
+				global_steam.STEAM_NAME = STEAM_NAME
+				global_steam.ONLINE = true
 			print("[Net] assigned id ", STEAM_ID)
 		"room.list":
 			var ids: Array = []
@@ -132,14 +155,16 @@ func _handle_message(text: String) -> void:
 			var id := int(msg.get("id", 0))
 			var response := int(msg.get("response", 0))
 			if id == 0 and str(msg.get("reason", "")) == "host_left":
-				LOBBY_ID = 0
-				HOST_ID = 0
-				LOBBY_MEMBERS.clear()
-				lobby_joined.emit(0, 0, false, CHAT_ROOM_ENTER_RESPONSE_SUCCESS)
-				persona_state_change.emit()
-			else:
+				_reset_session_state()
+				# Not a successful join: the room was dissolved.
+				lobby_joined.emit(0, 0, false, CHAT_ROOM_ENTER_RESPONSE_DOESNT_EXIST)
+				persona_state_change.emit(0, 0)
+			elif response == CHAT_ROOM_ENTER_RESPONSE_SUCCESS:
 				LOBBY_ID = id
 				HOST_ID = int(msg.get("host_id", 0))
+				lobby_joined.emit(id, 0, false, response)
+			else:
+				# A failed join must not leave a non-zero lobby id behind.
 				lobby_joined.emit(id, 0, false, response)
 		"room.snapshot":
 			LOBBY_ID = int(msg.get("id", 0))
@@ -151,7 +176,7 @@ func _handle_message(text: String) -> void:
 					"steam_name": str(m.get("name", "Player")),
 				})
 			_room_data[int(msg.get("id", 0))] = msg.get("data", {})
-			persona_state_change.emit()
+			persona_state_change.emit(0, 0)
 		"lobby.chat":
 			if LOBBY_ID == 0:
 				LOBBY_ID = int(msg.get("room_id", 0))
@@ -260,14 +285,21 @@ func setLobbyData(id: int, key: String, value: String) -> void:
 		return
 	_send_raw({"t": "lobby.setdata", "key": key, "value": value})
 
-func setLobbyType(_id: int, _type: int) -> void:
-	pass
+func setLobbyType(_id: int, type: int) -> void:
+	if LOBBY_ID == 0:
+		return
+	_send_raw({"t": "room.visibility", "public": type == LOBBY_TYPE_PUBLIC})
 
-func setLobbyJoinable(_id: int, _joinable: bool) -> void:
-	pass
+func setLobbyJoinable(_id: int, joinable: bool) -> void:
+	# The relay hides a room from the public list (and locks it) once the
+	# match has started. Creation calls joinable=true, which needs no message.
+	if !joinable and LOBBY_ID != 0:
+		_send_raw({"t": "room.start"})
 
 func setLobbyMemberLimit(id: int, limit: int) -> void:
 	setLobbyData(id, "player_limit", str(limit))
+	if LOBBY_ID != 0:
+		_send_raw({"t": "room.limit", "limit": limit})
 
 func getNumLobbyMembers(_id: int) -> int:
 	return LOBBY_MEMBERS.size()
@@ -291,10 +323,13 @@ func getFriendPersonaName(friend_id: int) -> String:
 	return "Player" + str(friend_id)
 
 func getPlayerAvatar(_size: int, _id: int) -> void:
-	avatar_loaded.emit(_id, false)
+	# The relay has no account avatars. Emitting a fake buffer would crash
+	# MP_IngameLobbyUI's Image.create_from_data call.
+	pass
 
 func findLeaderboard(_name: String) -> void:
-	leaderboard_find_result.emit(0, _name)
+	# No leaderboards on the relay; keep the callback signature valid.
+	leaderboard_find_result.emit(0, 0)
 
 func setLeaderboardDetailsMax(_n: int) -> int:
 	return 0
@@ -303,7 +338,7 @@ func uploadLeaderboardScore(_handle: int, _score: int, _force: bool, _details: A
 	pass
 
 func downloadLeaderboardEntries(_handle: int, _r1: int, _r2: int) -> void:
-	leaderboard_scores_downloaded.emit()
+	leaderboard_scores_downloaded.emit("", 0, [])
 
 func getLeaderboardEntryCount(_handle: int) -> int:
 	return 0
@@ -318,4 +353,7 @@ func storeStats() -> void:
 	pass
 
 func activateGameOverlayInviteDialog(_id: int) -> void:
-	print("[Net] invite: share this lobby id: ", LOBBY_ID)
+	# There is no Steam overlay; copy the numeric relay id so the other
+	# player can use the existing "join with lobby id" UI.
+	DisplayServer.clipboard_set(str(LOBBY_ID))
+	print("[Net] invite: lobby id ", LOBBY_ID, " copied to clipboard")
